@@ -1,0 +1,5024 @@
+{
+  "commits": [
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "f2e07b32f985b4ee74d93a1322a37544ca221583",
+        "message": "Update README.md",
+        "date": "2025-06-13T08:52:09+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/f2e07b32f985b4ee74d93a1322a37544ca221583",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed6903",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1,
+        "total_deletions": 1,
+        "total_changes": 2,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "3c1724f89d044445cd4415934cb743d940b1c0dd",
+        "message": "authentication",
+        "date": "2025-05-29T10:07:36+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/3c1724f89d044445cd4415934cb743d940b1c0dd",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed Usmani",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 2048,
+        "total_deletions": 246,
+        "total_changes": 2294,
+        "files_changed": 24
+      },
+      "file_changes": [
+        {
+          "filename": "client/auth.config.ts",
+          "status": "added",
+          "additions": 55,
+          "deletions": 0,
+          "changes": 55
+        },
+        {
+          "filename": "client/auth.ts",
+          "status": "added",
+          "additions": 57,
+          "deletions": 0,
+          "changes": 57
+        },
+        {
+          "filename": "client/package-lock.json",
+          "status": "modified",
+          "additions": 877,
+          "deletions": 92,
+          "changes": 969
+        },
+        {
+          "filename": "client/package.json",
+          "status": "modified",
+          "additions": 5,
+          "deletions": 1,
+          "changes": 6
+        },
+        {
+          "filename": "client/src/app/(dashboard)/dashboard/page.tsx",
+          "status": "renamed",
+          "additions": 64,
+          "deletions": 60,
+          "changes": 124
+        },
+        {
+          "filename": "client/src/app/(dashboard)/layout.tsx",
+          "status": "modified",
+          "additions": 8,
+          "deletions": 9,
+          "changes": 17
+        },
+        {
+          "filename": "client/src/app/login/page.tsx",
+          "status": "added",
+          "additions": 41,
+          "deletions": 0,
+          "changes": 41
+        },
+        {
+          "filename": "client/src/app/signup/page.tsx",
+          "status": "added",
+          "additions": 48,
+          "deletions": 0,
+          "changes": 48
+        },
+        {
+          "filename": "client/src/components/landing-page.tsx",
+          "status": "modified",
+          "additions": 14,
+          "deletions": 30,
+          "changes": 44
+        },
+        {
+          "filename": "client/src/components/layout/Navbar.tsx",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/src/components/ui/alert.tsx",
+          "status": "added",
+          "additions": 66,
+          "deletions": 0,
+          "changes": 66
+        },
+        {
+          "filename": "client/src/components/ui/login-form.tsx",
+          "status": "added",
+          "additions": 108,
+          "deletions": 0,
+          "changes": 108
+        },
+        {
+          "filename": "client/src/components/ui/select.tsx",
+          "status": "added",
+          "additions": 185,
+          "deletions": 0,
+          "changes": 185
+        },
+        {
+          "filename": "client/src/components/ui/signup-form.tsx",
+          "status": "added",
+          "additions": 145,
+          "deletions": 0,
+          "changes": 145
+        },
+        {
+          "filename": "client/src/lib/actions.ts",
+          "status": "added",
+          "additions": 102,
+          "deletions": 0,
+          "changes": 102
+        },
+        {
+          "filename": "client/src/lib/mongodb.ts",
+          "status": "added",
+          "additions": 22,
+          "deletions": 0,
+          "changes": 22
+        },
+        {
+          "filename": "client/src/middleware.ts",
+          "status": "added",
+          "additions": 9,
+          "deletions": 0,
+          "changes": 9
+        },
+        {
+          "filename": "client/src/models/User.ts",
+          "status": "added",
+          "additions": 42,
+          "deletions": 0,
+          "changes": 42
+        },
+        {
+          "filename": "client/src/types/next-auth.d.ts",
+          "status": "added",
+          "additions": 24,
+          "deletions": 0,
+          "changes": 24
+        },
+        {
+          "filename": "client/tsconfig.json",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "fastapi/chart.json",
+          "status": "modified",
+          "additions": 58,
+          "deletions": 31,
+          "changes": 89
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 114,
+          "deletions": 0,
+          "changes": 114
+        },
+        {
+          "filename": "fastapi/services/email_service.py",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 19,
+          "changes": 21
+        },
+        {
+          "filename": "fastapi/utils/response.py",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 2,
+          "changes": 2
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "8717b147c0f54594cf476d2f62d7bba1f6d8b2ea",
+        "message": "refactored",
+        "date": "2025-05-29T05:26:07+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/8717b147c0f54594cf476d2f62d7bba1f6d8b2ea",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Ray",
+        "username": "Ray1239",
+        "email": "3277mohammedusmani@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1353,
+        "total_deletions": 1262,
+        "total_changes": 2615,
+        "files_changed": 40
+      },
+      "file_changes": [
+        {
+          "filename": "client/components.json",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/src/app/(dashboard)/userpage/page.tsx",
+          "status": "modified",
+          "additions": 4,
+          "deletions": 3,
+          "changes": 7
+        },
+        {
+          "filename": "client/src/components/ResumeAnalysisCharts.tsx",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/src/components/features/candidates-section.tsx",
+          "status": "modified",
+          "additions": 48,
+          "deletions": 59,
+          "changes": 107
+        },
+        {
+          "filename": "fastapi/chart.json",
+          "status": "modified",
+          "additions": 9,
+          "deletions": 1,
+          "changes": 10
+        },
+        {
+          "filename": "fastapi/compressed_output.txt",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "fastapi/config/__init__.py",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/config/settings.py",
+          "status": "added",
+          "additions": 4,
+          "deletions": 0,
+          "changes": 4
+        },
+        {
+          "filename": "fastapi/index.html",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "fastapi/middleware/__init__.py",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/middleware/cors.py",
+          "status": "added",
+          "additions": 23,
+          "deletions": 0,
+          "changes": 23
+        },
+        {
+          "filename": "fastapi/models/__init__.py",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/models/bias.py",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "fastapi/models/chat.py",
+          "status": "added",
+          "additions": 15,
+          "deletions": 0,
+          "changes": 15
+        },
+        {
+          "filename": "fastapi/models/email.py",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "fastapi/models/resume.py",
+          "status": "added",
+          "additions": 67,
+          "deletions": 0,
+          "changes": 67
+        },
+        {
+          "filename": "fastapi/processed_urls.txt",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "fastapi/repo_assignments.json",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 1,
+          "changes": 3
+        },
+        {
+          "filename": "fastapi/routes/__init__.py",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/routes/analytics.py",
+          "status": "added",
+          "additions": 204,
+          "deletions": 0,
+          "changes": 204
+        },
+        {
+          "filename": "fastapi/routes/bias.py",
+          "status": "added",
+          "additions": 115,
+          "deletions": 0,
+          "changes": 115
+        },
+        {
+          "filename": "fastapi/routes/chat.py",
+          "status": "added",
+          "additions": 32,
+          "deletions": 0,
+          "changes": 32
+        },
+        {
+          "filename": "fastapi/routes/email.py",
+          "status": "added",
+          "additions": 104,
+          "deletions": 0,
+          "changes": 104
+        },
+        {
+          "filename": "fastapi/routes/file.py",
+          "status": "added",
+          "additions": 12,
+          "deletions": 0,
+          "changes": 12
+        },
+        {
+          "filename": "fastapi/routes/interview.py",
+          "status": "added",
+          "additions": 59,
+          "deletions": 0,
+          "changes": 59
+        },
+        {
+          "filename": "fastapi/routes/personnel.py",
+          "status": "added",
+          "additions": 46,
+          "deletions": 0,
+          "changes": 46
+        },
+        {
+          "filename": "fastapi/routes/project.py",
+          "status": "added",
+          "additions": 147,
+          "deletions": 0,
+          "changes": 147
+        },
+        {
+          "filename": "fastapi/routes/resume.py",
+          "status": "added",
+          "additions": 216,
+          "deletions": 0,
+          "changes": 216
+        },
+        {
+          "filename": "fastapi/server.py",
+          "status": "modified",
+          "additions": 14,
+          "deletions": 1134,
+          "changes": 1148
+        },
+        {
+          "filename": "fastapi/services/__init__.py",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/services/chat_service.py",
+          "status": "added",
+          "additions": 26,
+          "deletions": 0,
+          "changes": 26
+        },
+        {
+          "filename": "fastapi/services/email_service.py",
+          "status": "renamed",
+          "additions": 6,
+          "deletions": 18,
+          "changes": 24
+        },
+        {
+          "filename": "fastapi/services/file_service.py",
+          "status": "added",
+          "additions": 65,
+          "deletions": 0,
+          "changes": 65
+        },
+        {
+          "filename": "fastapi/services/gemini_service.py",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "fastapi/services/onefilellm.py",
+          "status": "renamed",
+          "additions": 13,
+          "deletions": 17,
+          "changes": 30
+        },
+        {
+          "filename": "fastapi/services/ranking_service.py",
+          "status": "renamed",
+          "additions": 11,
+          "deletions": 25,
+          "changes": 36
+        },
+        {
+          "filename": "fastapi/services/resume_service.py",
+          "status": "added",
+          "additions": 35,
+          "deletions": 0,
+          "changes": 35
+        },
+        {
+          "filename": "fastapi/uncompressed_output.txt",
+          "status": "added",
+          "additions": 7,
+          "deletions": 0,
+          "changes": 7
+        },
+        {
+          "filename": "fastapi/utils/__init__.py",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/utils/response.py",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "09bb5e3d8c37b6ba496dd62017cba63bb528a629",
+        "message": "removed output",
+        "date": "2025-04-14T07:21:37+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/09bb5e3d8c37b6ba496dd62017cba63bb528a629",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed Usmani",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 8299,
+        "total_changes": 8299,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "fastapi/uncompressed_output.txt",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 8299,
+          "changes": 8299
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "cb3ec041e644fcb0e5b34a1d0aad1fecab1c6d20",
+        "message": "url changes",
+        "date": "2025-04-14T07:20:05+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/cb3ec041e644fcb0e5b34a1d0aad1fecab1c6d20",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed Usmani",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 8301,
+        "total_deletions": 1699,
+        "total_changes": 10000,
+        "files_changed": 17
+      },
+      "file_changes": [
+        {
+          "filename": ".gitignore",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "client/src/app/(dashboard)/analytics/page.tsx",
+          "status": "modified",
+          "additions": 10,
+          "deletions": 10,
+          "changes": 20
+        },
+        {
+          "filename": "client/src/app/(dashboard)/layout.tsx",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 3,
+          "changes": 4
+        },
+        {
+          "filename": "client/src/app/(dashboard)/userpage/page.tsx",
+          "status": "modified",
+          "additions": 19,
+          "deletions": 25,
+          "changes": 44
+        },
+        {
+          "filename": "client/src/components/ResumeAnalysisCharts.tsx",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 2,
+          "changes": 3
+        },
+        {
+          "filename": "client/src/components/features/candidate-card.tsx",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        },
+        {
+          "filename": "client/src/components/features/candidates-section.tsx",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 6,
+          "changes": 7
+        },
+        {
+          "filename": "client/src/components/landing-page.tsx",
+          "status": "modified",
+          "additions": 9,
+          "deletions": 10,
+          "changes": 19
+        },
+        {
+          "filename": "client/src/components/layout/Navbar.tsx",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        },
+        {
+          "filename": "client/src/components/layout/sidebar.tsx",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        },
+        {
+          "filename": "client/src/lib/data-service.ts",
+          "status": "modified",
+          "additions": 61,
+          "deletions": 1,
+          "changes": 62
+        },
+        {
+          "filename": "client/src/types/index.ts",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "fastapi/compressed_output.txt",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "fastapi/index.html",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "fastapi/requirements.txt",
+          "status": "modified",
+          "additions": 11,
+          "deletions": 3,
+          "changes": 14
+        },
+        {
+          "filename": "fastapi/server.py",
+          "status": "modified",
+          "additions": 3,
+          "deletions": 3,
+          "changes": 6
+        },
+        {
+          "filename": "fastapi/uncompressed_output.txt",
+          "status": "modified",
+          "additions": 8181,
+          "deletions": 1630,
+          "changes": 9811
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "7577e1ee0cd5becaa3b7697b6158cc575d8a841f",
+        "message": "Create README.md",
+        "date": "2025-03-31T10:13:36+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/7577e1ee0cd5becaa3b7697b6158cc575d8a841f",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Anurag Maurya",
+        "username": "MauryaAnurag",
+        "email": "anuragma807@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1,
+        "total_deletions": 0,
+        "total_changes": 1,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "ab17132d06bb4e2c2ada5b42d01186300eb166ab",
+        "message": "errors fixed",
+        "date": "2025-03-29T08:04:42+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/ab17132d06bb4e2c2ada5b42d01186300eb166ab",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 860,
+        "total_deletions": 284,
+        "total_changes": 1144,
+        "files_changed": 18
+      },
+      "file_changes": [
+        {
+          "filename": "client/src/app/(dashboard)/layout.tsx",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 2,
+          "changes": 4
+        },
+        {
+          "filename": "client/src/app/(dashboard)/userpage/page.tsx",
+          "status": "modified",
+          "additions": 78,
+          "deletions": 20,
+          "changes": 98
+        },
+        {
+          "filename": "client/src/app/layout.tsx",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 2,
+          "changes": 4
+        },
+        {
+          "filename": "client/src/app/page.tsx",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 154,
+          "changes": 154
+        },
+        {
+          "filename": "client/src/components/ResumeAnalysisCharts.tsx",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/src/components/features/candidate-card.tsx",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/src/components/features/candidates-section.tsx",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 2,
+          "changes": 3
+        },
+        {
+          "filename": "client/src/components/features/resume-scanner.tsx",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        },
+        {
+          "filename": "client/src/components/layout/sidebar.tsx",
+          "status": "modified",
+          "additions": 35,
+          "deletions": 40,
+          "changes": 75
+        },
+        {
+          "filename": "client/src/components/ui/card.tsx",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/src/components/ui/label.tsx",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/src/components/ui/textarea.tsx",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "fastapi/chart.json",
+          "status": "modified",
+          "additions": 45,
+          "deletions": 27,
+          "changes": 72
+        },
+        {
+          "filename": "fastapi/chat_history.json",
+          "status": "added",
+          "additions": 142,
+          "deletions": 0,
+          "changes": 142
+        },
+        {
+          "filename": "fastapi/mailer.py",
+          "status": "modified",
+          "additions": 93,
+          "deletions": 26,
+          "changes": 119
+        },
+        {
+          "filename": "fastapi/repo_assignments.json",
+          "status": "added",
+          "additions": 4,
+          "deletions": 0,
+          "changes": 4
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 317,
+          "deletions": 3,
+          "changes": 320
+        },
+        {
+          "filename": "fastapi/server.py",
+          "status": "modified",
+          "additions": 136,
+          "deletions": 2,
+          "changes": 138
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "c161b23eed8abd7db42eb0a5680948c14c4ffcc5",
+        "message": "Merge branch 'main' of https://github.com/MohammedYaseenRon/Resume-AIML",
+        "date": "2025-03-29T07:04:43+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/c161b23eed8abd7db42eb0a5680948c14c4ffcc5",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Viraj Bane",
+        "username": "Virajbane",
+        "email": "virajbane2004@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 4061,
+        "total_deletions": 636,
+        "total_changes": 4697,
+        "files_changed": 19
+      },
+      "file_changes": [
+        {
+          "filename": "client/package-lock.json",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/package.json",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/src/app/(dashboard)/analytics/page.tsx",
+          "status": "added",
+          "additions": 481,
+          "deletions": 0,
+          "changes": 481
+        },
+        {
+          "filename": "client/src/app/(dashboard)/layout.tsx",
+          "status": "added",
+          "additions": 43,
+          "deletions": 0,
+          "changes": 43
+        },
+        {
+          "filename": "client/src/app/(dashboard)/userpage/page.tsx",
+          "status": "renamed",
+          "additions": 43,
+          "deletions": 87,
+          "changes": 130
+        },
+        {
+          "filename": "client/src/app/layout.tsx",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/src/components/ResumeAnalysisCharts.tsx",
+          "status": "modified",
+          "additions": 108,
+          "deletions": 199,
+          "changes": 307
+        },
+        {
+          "filename": "client/src/components/features/resume-scanner.tsx",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "client/src/components/layout/sidebar.tsx",
+          "status": "modified",
+          "additions": 40,
+          "deletions": 35,
+          "changes": 75
+        },
+        {
+          "filename": "client/src/components/ui/card.tsx",
+          "status": "added",
+          "additions": 92,
+          "deletions": 0,
+          "changes": 92
+        },
+        {
+          "filename": "client/src/components/ui/label.tsx",
+          "status": "added",
+          "additions": 24,
+          "deletions": 0,
+          "changes": 24
+        },
+        {
+          "filename": "client/src/components/ui/textarea.tsx",
+          "status": "added",
+          "additions": 18,
+          "deletions": 0,
+          "changes": 18
+        },
+        {
+          "filename": "fastapi/chart.json",
+          "status": "modified",
+          "additions": 135,
+          "deletions": 57,
+          "changes": 192
+        },
+        {
+          "filename": "fastapi/compressed_output.txt",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "fastapi/mailer.py",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 85,
+          "changes": 86
+        },
+        {
+          "filename": "fastapi/onefilellm.py",
+          "status": "added",
+          "additions": 775,
+          "deletions": 0,
+          "changes": 775
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 304,
+          "deletions": 110,
+          "changes": 414
+        },
+        {
+          "filename": "fastapi/server.py",
+          "status": "modified",
+          "additions": 244,
+          "deletions": 60,
+          "changes": 304
+        },
+        {
+          "filename": "fastapi/uncompressed_output.txt",
+          "status": "added",
+          "additions": 1748,
+          "deletions": 0,
+          "changes": 1748
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "611c3cabf612312bf4fdc6b671475903563c6247",
+        "message": ".",
+        "date": "2025-03-29T07:04:33+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/611c3cabf612312bf4fdc6b671475903563c6247",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Viraj Bane",
+        "username": "Virajbane",
+        "email": "virajbane2004@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 668,
+        "total_deletions": 261,
+        "total_changes": 929,
+        "files_changed": 5
+      },
+      "file_changes": [
+        {
+          "filename": "client/src/app/globals.css",
+          "status": "modified",
+          "additions": 4,
+          "deletions": 0,
+          "changes": 4
+        },
+        {
+          "filename": "client/src/app/userpage/page.tsx",
+          "status": "modified",
+          "additions": 10,
+          "deletions": 8,
+          "changes": 18
+        },
+        {
+          "filename": "client/src/components/features/candidate-card.tsx",
+          "status": "modified",
+          "additions": 315,
+          "deletions": 58,
+          "changes": 373
+        },
+        {
+          "filename": "client/src/components/features/candidates-section.tsx",
+          "status": "modified",
+          "additions": 325,
+          "deletions": 173,
+          "changes": 498
+        },
+        {
+          "filename": "client/src/types/index.ts",
+          "status": "modified",
+          "additions": 14,
+          "deletions": 22,
+          "changes": 36
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "203f101bd3bdc80aa16673f391bbc08a5732a606",
+        "message": "bias detection",
+        "date": "2025-03-29T06:48:46+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/203f101bd3bdc80aa16673f391bbc08a5732a606",
+        "branch": "main"
+      },
+      "author": {
+        "name": "MohammedYaseenRon",
+        "username": "MohammedYaseenRon",
+        "email": "yaseenron3@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 466,
+        "total_deletions": 402,
+        "total_changes": 868,
+        "files_changed": 5
+      },
+      "file_changes": [
+        {
+          "filename": "client/package-lock.json",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/package.json",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/src/app/(dashboard)/analytics/page.tsx",
+          "status": "modified",
+          "additions": 422,
+          "deletions": 400,
+          "changes": 822
+        },
+        {
+          "filename": "client/src/components/ui/label.tsx",
+          "status": "added",
+          "additions": 24,
+          "deletions": 0,
+          "changes": 24
+        },
+        {
+          "filename": "client/src/components/ui/textarea.tsx",
+          "status": "added",
+          "additions": 18,
+          "deletions": 0,
+          "changes": 18
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "b5ae5153f05be6d72548b698654a7f01f1275d98",
+        "message": "Merge branch 'main' of https://github.com/MohammedYaseenRon/Resume-AIML",
+        "date": "2025-03-29T06:04:11+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/b5ae5153f05be6d72548b698654a7f01f1275d98",
+        "branch": "main"
+      },
+      "author": {
+        "name": "MohammedYaseenRon",
+        "username": "MohammedYaseenRon",
+        "email": "yaseenron3@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 3208,
+        "total_deletions": 312,
+        "total_changes": 3520,
+        "files_changed": 7
+      },
+      "file_changes": [
+        {
+          "filename": "fastapi/chart.json",
+          "status": "modified",
+          "additions": 135,
+          "deletions": 57,
+          "changes": 192
+        },
+        {
+          "filename": "fastapi/compressed_output.txt",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "fastapi/mailer.py",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 85,
+          "changes": 86
+        },
+        {
+          "filename": "fastapi/onefilellm.py",
+          "status": "added",
+          "additions": 775,
+          "deletions": 0,
+          "changes": 775
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 304,
+          "deletions": 110,
+          "changes": 414
+        },
+        {
+          "filename": "fastapi/server.py",
+          "status": "modified",
+          "additions": 244,
+          "deletions": 60,
+          "changes": 304
+        },
+        {
+          "filename": "fastapi/uncompressed_output.txt",
+          "status": "added",
+          "additions": 1748,
+          "deletions": 0,
+          "changes": 1748
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "be876ae08e7ac313a95fc676e14f37bf845cf26e",
+        "message": "updated",
+        "date": "2025-03-29T06:03:52+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/be876ae08e7ac313a95fc676e14f37bf845cf26e",
+        "branch": "main"
+      },
+      "author": {
+        "name": "MohammedYaseenRon",
+        "username": "MohammedYaseenRon",
+        "email": "yaseenron3@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 128,
+        "total_deletions": 123,
+        "total_changes": 251,
+        "files_changed": 6
+      },
+      "file_changes": [
+        {
+          "filename": "client/src/app/(dashboard)/analytics/page.tsx",
+          "status": "renamed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "client/src/app/(dashboard)/layout.tsx",
+          "status": "added",
+          "additions": 43,
+          "deletions": 0,
+          "changes": 43
+        },
+        {
+          "filename": "client/src/app/(dashboard)/userpage/page.tsx",
+          "status": "renamed",
+          "additions": 43,
+          "deletions": 87,
+          "changes": 130
+        },
+        {
+          "filename": "client/src/app/layout.tsx",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/src/components/features/resume-scanner.tsx",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "client/src/components/layout/sidebar.tsx",
+          "status": "modified",
+          "additions": 40,
+          "deletions": 35,
+          "changes": 75
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "c1c95d5aa542e9d7dc4e9565a2c4da36b705a8ce",
+        "message": "complete project analysis",
+        "date": "2025-03-29T05:12:27+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/c1c95d5aa542e9d7dc4e9565a2c4da36b705a8ce",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 73,
+        "total_deletions": 201,
+        "total_changes": 274,
+        "files_changed": 2
+      },
+      "file_changes": [
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 3,
+          "deletions": 198,
+          "changes": 201
+        },
+        {
+          "filename": "fastapi/server.py",
+          "status": "modified",
+          "additions": 70,
+          "deletions": 3,
+          "changes": 73
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "ca8e8d18ba86d81d986d969625e2bf5de9bc11d9",
+        "message": "project search integration",
+        "date": "2025-03-29T04:59:20+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/ca8e8d18ba86d81d986d969625e2bf5de9bc11d9",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 2062,
+        "total_deletions": 798,
+        "total_changes": 2860,
+        "files_changed": 11
+      },
+      "file_changes": [
+        {
+          "filename": "fastapi/chart.json",
+          "status": "modified",
+          "additions": 135,
+          "deletions": 57,
+          "changes": 192
+        },
+        {
+          "filename": "fastapi/compressed_output.txt",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "fastapi/onefilellm.py",
+          "status": "renamed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 9,
+          "deletions": 228,
+          "changes": 237
+        },
+        {
+          "filename": "fastapi/server.py",
+          "status": "modified",
+          "additions": 169,
+          "deletions": 55,
+          "changes": 224
+        },
+        {
+          "filename": "fastapi/uncompressed_output.txt",
+          "status": "added",
+          "additions": 1748,
+          "deletions": 0,
+          "changes": 1748
+        },
+        {
+          "filename": "onefilellm/.gitignore",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 94,
+          "changes": 94
+        },
+        {
+          "filename": "onefilellm/requirements.txt",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 12,
+          "changes": 12
+        },
+        {
+          "filename": "onefilellm/server.py",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 118,
+          "changes": 118
+        },
+        {
+          "filename": "onefilellm/test_onefilellm.py",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 106,
+          "changes": 106
+        },
+        {
+          "filename": "onefilellm/web_app.py",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 128,
+          "changes": 128
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "1560a3411d36cfcc19c46f6918aa49f7946e6cb5",
+        "message": "charts based on resume",
+        "date": "2025-03-29T04:44:33+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/1560a3411d36cfcc19c46f6918aa49f7946e6cb5",
+        "branch": "main"
+      },
+      "author": {
+        "name": "MohammedYaseenRon",
+        "username": "MohammedYaseenRon",
+        "email": "yaseenron3@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 662,
+        "total_deletions": 202,
+        "total_changes": 864,
+        "files_changed": 4
+      },
+      "file_changes": [
+        {
+          "filename": "client/src/app/analytics/page.tsx",
+          "status": "added",
+          "additions": 459,
+          "deletions": 0,
+          "changes": 459
+        },
+        {
+          "filename": "client/src/app/userpage/page.tsx",
+          "status": "modified",
+          "additions": 3,
+          "deletions": 3,
+          "changes": 6
+        },
+        {
+          "filename": "client/src/components/ResumeAnalysisCharts.tsx",
+          "status": "modified",
+          "additions": 108,
+          "deletions": 199,
+          "changes": 307
+        },
+        {
+          "filename": "client/src/components/ui/card.tsx",
+          "status": "added",
+          "additions": 92,
+          "deletions": 0,
+          "changes": 92
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "1823c2b3b0186b59a38e0628f141aa82e7ee865c",
+        "message": "Merge branch 'main' of github.com:MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML",
+        "date": "2025-03-29T04:16:11+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/1823c2b3b0186b59a38e0628f141aa82e7ee865c",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 753,
+        "total_deletions": 11,
+        "total_changes": 764,
+        "files_changed": 7
+      },
+      "file_changes": [
+        {
+          "filename": "client/package-lock.json",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/package.json",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/src/app/userpage/page.tsx",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 6,
+          "changes": 8
+        },
+        {
+          "filename": "client/src/components/ResumeAnalysisCharts.tsx",
+          "status": "added",
+          "additions": 337,
+          "deletions": 0,
+          "changes": 337
+        },
+        {
+          "filename": "client/src/components/features/candidates-section.tsx",
+          "status": "modified",
+          "additions": 23,
+          "deletions": 3,
+          "changes": 26
+        },
+        {
+          "filename": "fastapi/chart.json",
+          "status": "added",
+          "additions": 194,
+          "deletions": 0,
+          "changes": 194
+        },
+        {
+          "filename": "fastapi/server.py",
+          "status": "modified",
+          "additions": 195,
+          "deletions": 0,
+          "changes": 195
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "acede373b83c3e257c2e4abf955220f153c300ef",
+        "message": "project fetching",
+        "date": "2025-03-29T04:16:07+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/acede373b83c3e257c2e4abf955220f153c300ef",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1856,
+        "total_deletions": 96,
+        "total_changes": 1952,
+        "files_changed": 9
+      },
+      "file_changes": [
+        {
+          "filename": "fastapi/mailer.py",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 85,
+          "changes": 86
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 617,
+          "deletions": 9,
+          "changes": 626
+        },
+        {
+          "filename": "fastapi/server.py",
+          "status": "modified",
+          "additions": 5,
+          "deletions": 2,
+          "changes": 7
+        },
+        {
+          "filename": "onefilellm/.gitignore",
+          "status": "added",
+          "additions": 94,
+          "deletions": 0,
+          "changes": 94
+        },
+        {
+          "filename": "onefilellm/onefilellm.py",
+          "status": "added",
+          "additions": 775,
+          "deletions": 0,
+          "changes": 775
+        },
+        {
+          "filename": "onefilellm/requirements.txt",
+          "status": "added",
+          "additions": 12,
+          "deletions": 0,
+          "changes": 12
+        },
+        {
+          "filename": "onefilellm/server.py",
+          "status": "added",
+          "additions": 118,
+          "deletions": 0,
+          "changes": 118
+        },
+        {
+          "filename": "onefilellm/test_onefilellm.py",
+          "status": "added",
+          "additions": 106,
+          "deletions": 0,
+          "changes": 106
+        },
+        {
+          "filename": "onefilellm/web_app.py",
+          "status": "added",
+          "additions": 128,
+          "deletions": 0,
+          "changes": 128
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "22864a5243b2638540f1cd3d68db6d5e50dab051",
+        "message": "Merge branch 'main' of https://github.com/MohammedYaseenRon/Resume-AIML",
+        "date": "2025-03-29T03:25:16+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/22864a5243b2638540f1cd3d68db6d5e50dab051",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Viraj Bane",
+        "username": "Virajbane",
+        "email": "virajbane2004@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 2100,
+        "total_deletions": 220,
+        "total_changes": 2320,
+        "files_changed": 17
+      },
+      "file_changes": [
+        {
+          "filename": "client/package-lock.json",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/package.json",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/src/app/userpage/page.tsx",
+          "status": "modified",
+          "additions": 10,
+          "deletions": 22,
+          "changes": 32
+        },
+        {
+          "filename": "client/src/components/ResumeAnalysisCharts.tsx",
+          "status": "added",
+          "additions": 337,
+          "deletions": 0,
+          "changes": 337
+        },
+        {
+          "filename": "client/src/components/features/candidates-section.tsx",
+          "status": "modified",
+          "additions": 23,
+          "deletions": 3,
+          "changes": 26
+        },
+        {
+          "filename": "client/src/components/features/resume-scanner.tsx",
+          "status": "modified",
+          "additions": 113,
+          "deletions": 105,
+          "changes": 218
+        },
+        {
+          "filename": "fastapi/.gitignore",
+          "status": "modified",
+          "additions": 3,
+          "deletions": 0,
+          "changes": 3
+        },
+        {
+          "filename": "fastapi/bias.py",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/chart.json",
+          "status": "added",
+          "additions": 194,
+          "deletions": 0,
+          "changes": 194
+        },
+        {
+          "filename": "fastapi/mailer.py",
+          "status": "added",
+          "additions": 350,
+          "deletions": 0,
+          "changes": 350
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 418,
+          "deletions": 4,
+          "changes": 422
+        },
+        {
+          "filename": "fastapi/selected_personnel.json",
+          "status": "added",
+          "additions": 170,
+          "deletions": 0,
+          "changes": 170
+        },
+        {
+          "filename": "fastapi/server.py",
+          "status": "modified",
+          "additions": 480,
+          "deletions": 84,
+          "changes": 564
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/Resume Mohammed.pdf",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/Resume-pranav-kulkarni.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/Yaseenron.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/template.cv.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "a4a841098114a1a3920f728d0985b414b9461565",
+        "message": ";.",
+        "date": "2025-03-29T03:25:10+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/a4a841098114a1a3920f728d0985b414b9461565",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Viraj Bane",
+        "username": "Virajbane",
+        "email": "virajbane2004@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 642,
+        "total_deletions": 846,
+        "total_changes": 1488,
+        "files_changed": 15
+      },
+      "file_changes": [
+        {
+          "filename": "client/package-lock.json",
+          "status": "modified",
+          "additions": 108,
+          "deletions": 14,
+          "changes": 122
+        },
+        {
+          "filename": "client/package.json",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 0,
+          "changes": 2
+        },
+        {
+          "filename": "client/src/app/userpage/page.tsx",
+          "status": "modified",
+          "additions": 148,
+          "deletions": 19,
+          "changes": 167
+        },
+        {
+          "filename": "client/src/components/features/candidate-card.tsx",
+          "status": "modified",
+          "additions": 19,
+          "deletions": 19,
+          "changes": 38
+        },
+        {
+          "filename": "client/src/components/features/candidates-section.tsx",
+          "status": "modified",
+          "additions": 109,
+          "deletions": 63,
+          "changes": 172
+        },
+        {
+          "filename": "client/src/components/features/resume-scanner.tsx",
+          "status": "modified",
+          "additions": 115,
+          "deletions": 147,
+          "changes": 262
+        },
+        {
+          "filename": "client/src/components/layout/sidebar.tsx",
+          "status": "modified",
+          "additions": 8,
+          "deletions": 6,
+          "changes": 14
+        },
+        {
+          "filename": "client/src/types/index.ts",
+          "status": "modified",
+          "additions": 97,
+          "deletions": 27,
+          "changes": 124
+        },
+        {
+          "filename": "fastapi/.gitignore",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 0,
+          "changes": 2
+        },
+        {
+          "filename": "fastapi/bias.py",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/ranker.py",
+          "status": "modified",
+          "additions": 5,
+          "deletions": 1,
+          "changes": 6
+        },
+        {
+          "filename": "fastapi/requirements.txt",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 372,
+          "changes": 372
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 5,
+          "deletions": 178,
+          "changes": 183
+        },
+        {
+          "filename": "fastapi/server.py",
+          "status": "renamed",
+          "additions": 24,
+          "deletions": 0,
+          "changes": 24
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/Resume Mohammed.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "6d244e4b61059e1fa7015e6fcb55c63efca86364",
+        "message": "merge issues",
+        "date": "2025-03-29T02:19:29+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/6d244e4b61059e1fa7015e6fcb55c63efca86364",
+        "branch": "main"
+      },
+      "author": {
+        "name": "MohammedYaseenRon",
+        "username": "MohammedYaseenRon",
+        "email": "yaseenron3@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1105,
+        "total_deletions": 184,
+        "total_changes": 1289,
+        "files_changed": 8
+      },
+      "file_changes": [
+        {
+          "filename": "client/src/app/userpage/page.tsx",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 10,
+          "changes": 10
+        },
+        {
+          "filename": "fastapi/.gitignore",
+          "status": "modified",
+          "additions": 3,
+          "deletions": 0,
+          "changes": 3
+        },
+        {
+          "filename": "fastapi/bias.py",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/mailer.py",
+          "status": "added",
+          "additions": 350,
+          "deletions": 0,
+          "changes": 350
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 297,
+          "deletions": 74,
+          "changes": 371
+        },
+        {
+          "filename": "fastapi/selected_personnel.json",
+          "status": "added",
+          "additions": 170,
+          "deletions": 0,
+          "changes": 170
+        },
+        {
+          "filename": "fastapi/server.py",
+          "status": "modified",
+          "additions": 285,
+          "deletions": 100,
+          "changes": 385
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/Resume Mohammed.pdf",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "67d39417293cfd0d32f0fa5349ff583d72dd7af1",
+        "message": "chnage by yaseen",
+        "date": "2025-03-29T02:16:17+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/67d39417293cfd0d32f0fa5349ff583d72dd7af1",
+        "branch": "main"
+      },
+      "author": {
+        "name": "MohammedYaseenRon",
+        "username": "MohammedYaseenRon",
+        "email": "yaseenron3@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 972,
+        "total_deletions": 32,
+        "total_changes": 1004,
+        "files_changed": 8
+      },
+      "file_changes": [
+        {
+          "filename": "client/package-lock.json",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/package.json",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/src/app/userpage/page.tsx",
+          "status": "modified",
+          "additions": 3,
+          "deletions": 7,
+          "changes": 10
+        },
+        {
+          "filename": "client/src/components/ResumeAnalysisCharts.tsx",
+          "status": "added",
+          "additions": 337,
+          "deletions": 0,
+          "changes": 337
+        },
+        {
+          "filename": "client/src/components/features/candidates-section.tsx",
+          "status": "modified",
+          "additions": 23,
+          "deletions": 3,
+          "changes": 26
+        },
+        {
+          "filename": "fastapi/chart.json",
+          "status": "added",
+          "additions": 194,
+          "deletions": 0,
+          "changes": 194
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 196,
+          "deletions": 14,
+          "changes": 210
+        },
+        {
+          "filename": "fastapi/server.py",
+          "status": "modified",
+          "additions": 217,
+          "deletions": 6,
+          "changes": 223
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "867e368d6861a0ac360628b13ebb478002cac1f2",
+        "message": "mailing",
+        "date": "2025-03-29T01:57:53+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/867e368d6861a0ac360628b13ebb478002cac1f2",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 667,
+        "total_deletions": 843,
+        "total_changes": 1510,
+        "files_changed": 6
+      },
+      "file_changes": [
+        {
+          "filename": "client/src/app/userpage/page.tsx",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 11,
+          "changes": 12
+        },
+        {
+          "filename": "fastapi/bias.py",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/mailer.py",
+          "status": "added",
+          "additions": 350,
+          "deletions": 0,
+          "changes": 350
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 207,
+          "deletions": 776,
+          "changes": 983
+        },
+        {
+          "filename": "fastapi/server.py",
+          "status": "modified",
+          "additions": 109,
+          "deletions": 56,
+          "changes": 165
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/Resume Mohammed.pdf",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "8ee10e344eae938e48d21cf4acc041ec09ab0595",
+        "message": "bias",
+        "date": "2025-03-29T00:17:26+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/8ee10e344eae938e48d21cf4acc041ec09ab0595",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 626,
+        "total_deletions": 54,
+        "total_changes": 680,
+        "files_changed": 3
+      },
+      "file_changes": [
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 280,
+          "deletions": 29,
+          "changes": 309
+        },
+        {
+          "filename": "fastapi/selected_personnel.json",
+          "status": "added",
+          "additions": 170,
+          "deletions": 0,
+          "changes": 170
+        },
+        {
+          "filename": "fastapi/server.py",
+          "status": "modified",
+          "additions": 176,
+          "deletions": 25,
+          "changes": 201
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "953bd4f991662e7aa3e6232bbf17699808b24551",
+        "message": "merge",
+        "date": "2025-03-28T22:13:44+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/953bd4f991662e7aa3e6232bbf17699808b24551",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 121,
+        "total_deletions": 111,
+        "total_changes": 232,
+        "files_changed": 6
+      },
+      "file_changes": [
+        {
+          "filename": "client/src/app/userpage/page.tsx",
+          "status": "modified",
+          "additions": 7,
+          "deletions": 5,
+          "changes": 12
+        },
+        {
+          "filename": "client/src/components/features/resume-scanner.tsx",
+          "status": "modified",
+          "additions": 113,
+          "deletions": 105,
+          "changes": 218
+        },
+        {
+          "filename": "fastapi/.gitignore",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/Resume-pranav-kulkarni.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/Yaseenron.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/template.cv.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "eb18a10ad5f89f50f177a299adf8b12a807bf9ed",
+        "message": "ignore pdfs",
+        "date": "2025-03-28T22:12:03+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/eb18a10ad5f89f50f177a299adf8b12a807bf9ed",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 745,
+        "total_deletions": 13,
+        "total_changes": 758,
+        "files_changed": 3
+      },
+      "file_changes": [
+        {
+          "filename": "fastapi/.gitignore",
+          "status": "modified",
+          "additions": 4,
+          "deletions": 1,
+          "changes": 5
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 738,
+          "deletions": 6,
+          "changes": 744
+        },
+        {
+          "filename": "fastapi/server.py",
+          "status": "modified",
+          "additions": 3,
+          "deletions": 6,
+          "changes": 9
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "3a169d437f81cc8c7eaf8154ef773746ed163977",
+        "message": "pushed ui",
+        "date": "2025-03-28T22:07:31+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/3a169d437f81cc8c7eaf8154ef773746ed163977",
+        "branch": "main"
+      },
+      "author": {
+        "name": "MohammedYaseenRon",
+        "username": "MohammedYaseenRon",
+        "email": "yaseenron3@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 129,
+        "total_deletions": 110,
+        "total_changes": 239,
+        "files_changed": 6
+      },
+      "file_changes": [
+        {
+          "filename": "client/src/app/userpage/page.tsx",
+          "status": "modified",
+          "additions": 7,
+          "deletions": 5,
+          "changes": 12
+        },
+        {
+          "filename": "client/src/components/features/resume-scanner.tsx",
+          "status": "modified",
+          "additions": 113,
+          "deletions": 105,
+          "changes": 218
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 9,
+          "deletions": 0,
+          "changes": 9
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/Resume-pranav-kulkarni.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/Yaseenron.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/template.cv.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "3489a44dd3c256688f8b52bccec996bb947384ff",
+        "message": ",",
+        "date": "2025-03-28T22:03:39+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/3489a44dd3c256688f8b52bccec996bb947384ff",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Viraj Bane",
+        "username": "Virajbane",
+        "email": "virajbane2004@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 234,
+        "total_deletions": 629,
+        "total_changes": 863,
+        "files_changed": 2
+      },
+      "file_changes": [
+        {
+          "filename": "client/src/app/userpage/page.tsx",
+          "status": "modified",
+          "additions": 87,
+          "deletions": 381,
+          "changes": 468
+        },
+        {
+          "filename": "client/src/components/features/resume-scanner.tsx",
+          "status": "modified",
+          "additions": 147,
+          "deletions": 248,
+          "changes": 395
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "9bfb04f4165b838f0fecb7f99859546eed24e6f6",
+        "message": "minor changes",
+        "date": "2025-03-28T21:08:27+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/9bfb04f4165b838f0fecb7f99859546eed24e6f6",
+        "branch": "main"
+      },
+      "author": {
+        "name": "MohammedYaseenRon",
+        "username": "MohammedYaseenRon",
+        "email": "yaseenron3@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 124,
+        "total_deletions": 242,
+        "total_changes": 366,
+        "files_changed": 5
+      },
+      "file_changes": [
+        {
+          "filename": "client/src/app/userpage/page.tsx",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/src/components/features/resume-scanner.tsx",
+          "status": "modified",
+          "additions": 108,
+          "deletions": 241,
+          "changes": 349
+        },
+        {
+          "filename": "fastapi/.gitignore",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 0,
+          "changes": 2
+        },
+        {
+          "filename": "fastapi/bias.py",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/server.py",
+          "status": "renamed",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "66ffee73b6f02f73c5cbb274ebb848fc9b606eb2",
+        "message": "updated",
+        "date": "2025-03-28T21:00:15+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/66ffee73b6f02f73c5cbb274ebb848fc9b606eb2",
+        "branch": "main"
+      },
+      "author": {
+        "name": "MohammedYaseenRon",
+        "username": "MohammedYaseenRon",
+        "email": "yaseenron3@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 78,
+        "total_deletions": 53,
+        "total_changes": 131,
+        "files_changed": 6
+      },
+      "file_changes": [
+        {
+          "filename": "client/src/app/userpage/page.tsx",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/src/components/features/candidates-section.tsx",
+          "status": "modified",
+          "additions": 66,
+          "deletions": 52,
+          "changes": 118
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "added",
+          "additions": 11,
+          "deletions": 0,
+          "changes": 11
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/My Resume.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/New Resume.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/Resume Mohammed.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "df357c0ae6f0e27721103f2fc1a536fbb1a84574",
+        "message": "fix",
+        "date": "2025-03-28T20:59:27+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/df357c0ae6f0e27721103f2fc1a536fbb1a84574",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 365,
+        "total_deletions": 968,
+        "total_changes": 1333,
+        "files_changed": 15
+      },
+      "file_changes": [
+        {
+          "filename": "client/package-lock.json",
+          "status": "modified",
+          "additions": 108,
+          "deletions": 14,
+          "changes": 122
+        },
+        {
+          "filename": "client/package.json",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 0,
+          "changes": 2
+        },
+        {
+          "filename": "client/src/app/userpage/page.tsx",
+          "status": "modified",
+          "additions": 77,
+          "deletions": 40,
+          "changes": 117
+        },
+        {
+          "filename": "client/src/components/features/candidate-card.tsx",
+          "status": "modified",
+          "additions": 19,
+          "deletions": 19,
+          "changes": 38
+        },
+        {
+          "filename": "client/src/components/features/resume-scanner.tsx",
+          "status": "modified",
+          "additions": 41,
+          "deletions": 1,
+          "changes": 42
+        },
+        {
+          "filename": "client/src/components/layout/sidebar.tsx",
+          "status": "modified",
+          "additions": 8,
+          "deletions": 6,
+          "changes": 14
+        },
+        {
+          "filename": "client/src/types/index.ts",
+          "status": "modified",
+          "additions": 97,
+          "deletions": 27,
+          "changes": 124
+        },
+        {
+          "filename": "fastapi/requirements.txt",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 372,
+          "changes": 372
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 489,
+          "changes": 489
+        },
+        {
+          "filename": "fastapi/server.py",
+          "status": "modified",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/My Resume.pdf",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/New Resume.pdf",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/Resume-pranav-kulkarni.pdf",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/Yaseenron.pdf",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/template.cv.pdf",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "d6adffe101d01a7df3d27ee5160bc12a1ee6ef93",
+        "message": "rename and update",
+        "date": "2025-03-28T20:45:01+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/d6adffe101d01a7df3d27ee5160bc12a1ee6ef93",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 28,
+        "total_deletions": 2,
+        "total_changes": 30,
+        "files_changed": 4
+      },
+      "file_changes": [
+        {
+          "filename": "fastapi/.gitignore",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 0,
+          "changes": 2
+        },
+        {
+          "filename": "fastapi/bias.py",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 15,
+          "deletions": 2,
+          "changes": 17
+        },
+        {
+          "filename": "fastapi/server.py",
+          "status": "renamed",
+          "additions": 11,
+          "deletions": 0,
+          "changes": 11
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "02d9c11ca10205b8609ae54849a8fb3efd7e611c",
+        "message": "cleanup",
+        "date": "2025-03-28T20:43:42+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/02d9c11ca10205b8609ae54849a8fb3efd7e611c",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 412,
+        "total_changes": 412,
+        "files_changed": 3
+      },
+      "file_changes": [
+        {
+          "filename": "client/src/app/userpage/page.tsx",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 202,
+          "changes": 202
+        },
+        {
+          "filename": "client/src/components/features/candidates-section.tsx",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 37,
+          "changes": 37
+        },
+        {
+          "filename": "client/src/components/features/resume-scanner.tsx",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 173,
+          "changes": 173
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "511d1734b37d410c7abac1b5e97e8d6862e84ea0",
+        "message": "resume done",
+        "date": "2025-03-28T20:42:37+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/511d1734b37d410c7abac1b5e97e8d6862e84ea0",
+        "branch": "main"
+      },
+      "author": {
+        "name": "MohammedYaseenRon",
+        "username": "MohammedYaseenRon",
+        "email": "yaseenron3@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 334,
+        "total_deletions": 1067,
+        "total_changes": 1401,
+        "files_changed": 9
+      },
+      "file_changes": [
+        {
+          "filename": "client/src/app/userpage/page.tsx",
+          "status": "modified",
+          "additions": 77,
+          "deletions": 242,
+          "changes": 319
+        },
+        {
+          "filename": "client/src/components/features/resume-scanner.tsx",
+          "status": "modified",
+          "additions": 245,
+          "deletions": 245,
+          "changes": 490
+        },
+        {
+          "filename": "fastapi/gemini.py",
+          "status": "modified",
+          "additions": 12,
+          "deletions": 104,
+          "changes": 116
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 476,
+          "changes": 476
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/My Resume.pdf",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/New Resume.pdf",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/Resume-pranav-kulkarni.pdf",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/Yaseenron.pdf",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/template.cv.pdf",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "51471dfa64f7a2b7ff98bab09e74bc33d1f3380b",
+        "message": "Merge branch 'main' of https://github.com/MohammedYaseenRon/Resume-AIML",
+        "date": "2025-03-28T20:14:14+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/51471dfa64f7a2b7ff98bab09e74bc33d1f3380b",
+        "branch": "main"
+      },
+      "author": {
+        "name": "MohammedYaseenRon",
+        "username": "MohammedYaseenRon",
+        "email": "yaseenron3@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 342,
+        "total_deletions": 14,
+        "total_changes": 356,
+        "files_changed": 6
+      },
+      "file_changes": [
+        {
+          "filename": "client/src/components/features/candidates-section.tsx",
+          "status": "modified",
+          "additions": 45,
+          "deletions": 13,
+          "changes": 58
+        },
+        {
+          "filename": "fastapi/ranker.py",
+          "status": "modified",
+          "additions": 5,
+          "deletions": 1,
+          "changes": 6
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 292,
+          "deletions": 0,
+          "changes": 292
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/Resume-pranav-kulkarni.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/Yaseenron.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/template.cv.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "e205e7604c70927c213b4d38d3d6371677b816c3",
+        "message": "ranking",
+        "date": "2025-03-28T20:12:48+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/e205e7604c70927c213b4d38d3d6371677b816c3",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 342,
+        "total_deletions": 14,
+        "total_changes": 356,
+        "files_changed": 6
+      },
+      "file_changes": [
+        {
+          "filename": "client/src/components/features/candidates-section.tsx",
+          "status": "modified",
+          "additions": 45,
+          "deletions": 13,
+          "changes": 58
+        },
+        {
+          "filename": "fastapi/ranker.py",
+          "status": "modified",
+          "additions": 5,
+          "deletions": 1,
+          "changes": 6
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 292,
+          "deletions": 0,
+          "changes": 292
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/Resume-pranav-kulkarni.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/Yaseenron.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/template.cv.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "cf197cb9ddd9cc2caafd5de18118b1743ab9916e",
+        "message": "merged",
+        "date": "2025-03-28T19:09:09+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/cf197cb9ddd9cc2caafd5de18118b1743ab9916e",
+        "branch": "main"
+      },
+      "author": {
+        "name": "MohammedYaseenRon",
+        "username": "MohammedYaseenRon",
+        "email": "yaseenron3@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 2191,
+        "total_deletions": 603,
+        "total_changes": 2794,
+        "files_changed": 21
+      },
+      "file_changes": [
+        {
+          "filename": "client/next.config.ts",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/package-lock.json",
+          "status": "modified",
+          "additions": 16,
+          "deletions": 0,
+          "changes": 16
+        },
+        {
+          "filename": "client/package.json",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "client/src/app/page.tsx",
+          "status": "modified",
+          "additions": 164,
+          "deletions": 178,
+          "changes": 342
+        },
+        {
+          "filename": "client/src/app/userpage/page.tsx",
+          "status": "added",
+          "additions": 495,
+          "deletions": 0,
+          "changes": 495
+        },
+        {
+          "filename": "client/src/components/animated-counted.tsx",
+          "status": "added",
+          "additions": 46,
+          "deletions": 0,
+          "changes": 46
+        },
+        {
+          "filename": "client/src/components/features/candidate-card.tsx",
+          "status": "modified",
+          "additions": 13,
+          "deletions": 13,
+          "changes": 26
+        },
+        {
+          "filename": "client/src/components/features/candidates-section.tsx",
+          "status": "modified",
+          "additions": 135,
+          "deletions": 24,
+          "changes": 159
+        },
+        {
+          "filename": "client/src/components/features/resume-scanner.tsx",
+          "status": "modified",
+          "additions": 256,
+          "deletions": 210,
+          "changes": 466
+        },
+        {
+          "filename": "client/src/components/landing-page.tsx",
+          "status": "added",
+          "additions": 534,
+          "deletions": 0,
+          "changes": 534
+        },
+        {
+          "filename": "client/src/components/layout/Navbar.tsx",
+          "status": "added",
+          "additions": 60,
+          "deletions": 0,
+          "changes": 60
+        },
+        {
+          "filename": "client/src/components/parallax-section.tsx",
+          "status": "added",
+          "additions": 38,
+          "deletions": 0,
+          "changes": 38
+        },
+        {
+          "filename": "client/src/components/scroll-indicator.tsx",
+          "status": "added",
+          "additions": 34,
+          "deletions": 0,
+          "changes": 34
+        },
+        {
+          "filename": "client/src/components/ui/badge.tsx",
+          "status": "modified",
+          "additions": 3,
+          "deletions": 1,
+          "changes": 4
+        },
+        {
+          "filename": "client/src/hooks/use-in-view.tsx",
+          "status": "added",
+          "additions": 49,
+          "deletions": 0,
+          "changes": 49
+        },
+        {
+          "filename": "fastapi/gemini.py",
+          "status": "modified",
+          "additions": 109,
+          "deletions": 32,
+          "changes": 141
+        },
+        {
+          "filename": "fastapi/helpers/FileHandler.py",
+          "status": "added",
+          "additions": 67,
+          "deletions": 0,
+          "changes": 67
+        },
+        {
+          "filename": "fastapi/ranker.py",
+          "status": "modified",
+          "additions": 159,
+          "deletions": 33,
+          "changes": 192
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 11,
+          "deletions": 111,
+          "changes": 122
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/My Resume.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/New Resume.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "c248bf5d477d2ec9dd73500297cdc59d53135a97",
+        "message": ".",
+        "date": "2025-03-28T19:05:01+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/c248bf5d477d2ec9dd73500297cdc59d53135a97",
+        "branch": "main"
+      },
+      "author": {
+        "name": "MohammedYaseenRon",
+        "username": "MohammedYaseenRon",
+        "email": "yaseenron3@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 109,
+        "total_deletions": 1,
+        "total_changes": 110,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "fastapi/gemini.py",
+          "status": "modified",
+          "additions": 109,
+          "deletions": 1,
+          "changes": 110
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "69a9278d55513be875c306517bf3e55b5d02ae1a",
+        "message": "landing page fix",
+        "date": "2025-03-28T19:02:22+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/69a9278d55513be875c306517bf3e55b5d02ae1a",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 385,
+        "total_deletions": 375,
+        "total_changes": 760,
+        "files_changed": 2
+      },
+      "file_changes": [
+        {
+          "filename": "client/src/app/page.tsx",
+          "status": "modified",
+          "additions": 4,
+          "deletions": 288,
+          "changes": 292
+        },
+        {
+          "filename": "client/src/app/userpage/page.tsx",
+          "status": "modified",
+          "additions": 381,
+          "deletions": 87,
+          "changes": 468
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "7ed1a20f4335aaba59daccdb48ce7110f90c69bb",
+        "message": "merge error fixed",
+        "date": "2025-03-28T18:51:23+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/7ed1a20f4335aaba59daccdb48ce7110f90c69bb",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 996,
+        "total_deletions": 13,
+        "total_changes": 1009,
+        "files_changed": 12
+      },
+      "file_changes": [
+        {
+          "filename": "client/package-lock.json",
+          "status": "modified",
+          "additions": 16,
+          "deletions": 0,
+          "changes": 16
+        },
+        {
+          "filename": "client/package.json",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "client/src/app/page.tsx",
+          "status": "modified",
+          "additions": 4,
+          "deletions": 1,
+          "changes": 5
+        },
+        {
+          "filename": "client/src/app/userpage/page.tsx",
+          "status": "added",
+          "additions": 201,
+          "deletions": 0,
+          "changes": 201
+        },
+        {
+          "filename": "client/src/components/animated-counted.tsx",
+          "status": "added",
+          "additions": 46,
+          "deletions": 0,
+          "changes": 46
+        },
+        {
+          "filename": "client/src/components/features/candidate-card.tsx",
+          "status": "modified",
+          "additions": 10,
+          "deletions": 11,
+          "changes": 21
+        },
+        {
+          "filename": "client/src/components/landing-page.tsx",
+          "status": "added",
+          "additions": 534,
+          "deletions": 0,
+          "changes": 534
+        },
+        {
+          "filename": "client/src/components/layout/Navbar.tsx",
+          "status": "added",
+          "additions": 60,
+          "deletions": 0,
+          "changes": 60
+        },
+        {
+          "filename": "client/src/components/parallax-section.tsx",
+          "status": "added",
+          "additions": 38,
+          "deletions": 0,
+          "changes": 38
+        },
+        {
+          "filename": "client/src/components/scroll-indicator.tsx",
+          "status": "added",
+          "additions": 34,
+          "deletions": 0,
+          "changes": 34
+        },
+        {
+          "filename": "client/src/components/ui/badge.tsx",
+          "status": "modified",
+          "additions": 3,
+          "deletions": 1,
+          "changes": 4
+        },
+        {
+          "filename": "client/src/hooks/use-in-view.tsx",
+          "status": "added",
+          "additions": 49,
+          "deletions": 0,
+          "changes": 49
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "1aaa0d19059a91cdb518df8a5fb9adb0ed440347",
+        "message": "cors fixed",
+        "date": "2025-03-28T18:50:29+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/1aaa0d19059a91cdb518df8a5fb9adb0ed440347",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 719,
+        "total_deletions": 298,
+        "total_changes": 1017,
+        "files_changed": 7
+      },
+      "file_changes": [
+        {
+          "filename": "client/next.config.ts",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/src/app/page.tsx",
+          "status": "modified",
+          "additions": 319,
+          "deletions": 24,
+          "changes": 343
+        },
+        {
+          "filename": "client/src/components/features/candidates-section.tsx",
+          "status": "modified",
+          "additions": 132,
+          "deletions": 22,
+          "changes": 154
+        },
+        {
+          "filename": "client/src/components/features/resume-scanner.tsx",
+          "status": "modified",
+          "additions": 248,
+          "deletions": 147,
+          "changes": 395
+        },
+        {
+          "filename": "fastapi/gemini.py",
+          "status": "modified",
+          "additions": 18,
+          "deletions": 3,
+          "changes": 21
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 101,
+          "changes": 102
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/Resume Mohammed.pdf",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "8076a73b46a51f2b8ab6e74ad19a53e8ee93192a",
+        "message": "Merge branch 'main' of https://github.com/MohammedYaseenRon/Resume-AIML",
+        "date": "2025-03-28T18:20:18+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/8076a73b46a51f2b8ab6e74ad19a53e8ee93192a",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Viraj Bane",
+        "username": "Virajbane",
+        "email": "virajbane2004@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 384,
+        "total_deletions": 529,
+        "total_changes": 913,
+        "files_changed": 7
+      },
+      "file_changes": [
+        {
+          "filename": "fastapi/gemini.py",
+          "status": "modified",
+          "additions": 48,
+          "deletions": 11,
+          "changes": 59
+        },
+        {
+          "filename": "fastapi/helpers/FileHandler.py",
+          "status": "added",
+          "additions": 67,
+          "deletions": 0,
+          "changes": 67
+        },
+        {
+          "filename": "fastapi/ranker.py",
+          "status": "modified",
+          "additions": 159,
+          "deletions": 33,
+          "changes": 192
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 110,
+          "deletions": 485,
+          "changes": 595
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/My Resume.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/New Resume.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/Resume Mohammed.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "9a072e06c7e9edd744d7dc42550196d3866c523f",
+        "message": "animation",
+        "date": "2025-03-28T18:19:55+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/9a072e06c7e9edd744d7dc42550196d3866c523f",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Viraj Bane",
+        "username": "Virajbane",
+        "email": "virajbane2004@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 74,
+        "total_deletions": 26,
+        "total_changes": 100,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "client/src/app/userpage/page.tsx",
+          "status": "modified",
+          "additions": 74,
+          "deletions": 26,
+          "changes": 100
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "9e5f1ebcbf0c1625bf59b33697ef329517590f05",
+        "message": "added file handling",
+        "date": "2025-03-28T18:11:10+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/9e5f1ebcbf0c1625bf59b33697ef329517590f05",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 189,
+        "total_deletions": 787,
+        "total_changes": 976,
+        "files_changed": 6
+      },
+      "file_changes": [
+        {
+          "filename": "fastapi/gemini.py",
+          "status": "modified",
+          "additions": 12,
+          "deletions": 10,
+          "changes": 22
+        },
+        {
+          "filename": "fastapi/helpers/FileHandler.py",
+          "status": "added",
+          "additions": 67,
+          "deletions": 0,
+          "changes": 67
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 110,
+          "deletions": 777,
+          "changes": 887
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/My Resume.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/New Resume.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/uploaded_resumes/Resume Mohammed.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "6b1dda6a058bec42e44176e9bd260214b70aca08",
+        "message": "feature:ranking",
+        "date": "2025-03-28T17:50:14+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/6b1dda6a058bec42e44176e9bd260214b70aca08",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 487,
+        "total_deletions": 34,
+        "total_changes": 521,
+        "files_changed": 3
+      },
+      "file_changes": [
+        {
+          "filename": "fastapi/gemini.py",
+          "status": "modified",
+          "additions": 36,
+          "deletions": 1,
+          "changes": 37
+        },
+        {
+          "filename": "fastapi/ranker.py",
+          "status": "modified",
+          "additions": 159,
+          "deletions": 33,
+          "changes": 192
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 292,
+          "deletions": 0,
+          "changes": 292
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "cffff85e13e8b1bc78591de1ac940db4b4da8572",
+        "message": "Merge branch 'main' of https://github.com/MohammedYaseenRon/Resume-AIML",
+        "date": "2025-03-28T17:29:41+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/cffff85e13e8b1bc78591de1ac940db4b4da8572",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Viraj Bane",
+        "username": "Virajbane",
+        "email": "virajbane2004@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1369,
+        "total_deletions": 50,
+        "total_changes": 1419,
+        "files_changed": 6
+      },
+      "file_changes": [
+        {
+          "filename": "fastapi/gemini.py",
+          "status": "modified",
+          "additions": 129,
+          "deletions": 10,
+          "changes": 139
+        },
+        {
+          "filename": "fastapi/index.html",
+          "status": "modified",
+          "additions": 99,
+          "deletions": 40,
+          "changes": 139
+        },
+        {
+          "filename": "fastapi/ranker.py",
+          "status": "added",
+          "additions": 35,
+          "deletions": 0,
+          "changes": 35
+        },
+        {
+          "filename": "fastapi/requirements.txt",
+          "status": "added",
+          "additions": 447,
+          "deletions": 0,
+          "changes": 447
+        },
+        {
+          "filename": "fastapi/resume.pdf",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "added",
+          "additions": 659,
+          "deletions": 0,
+          "changes": 659
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "e7f47b0820473bd381e9d8cb2ef26aa4e074c255",
+        "message": "Connecting landing page to userp",
+        "date": "2025-03-28T17:29:02+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/e7f47b0820473bd381e9d8cb2ef26aa4e074c255",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Viraj Bane",
+        "username": "Virajbane",
+        "email": "virajbane2004@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 953,
+        "total_deletions": 161,
+        "total_changes": 1114,
+        "files_changed": 12
+      },
+      "file_changes": [
+        {
+          "filename": "client/package-lock.json",
+          "status": "modified",
+          "additions": 16,
+          "deletions": 0,
+          "changes": 16
+        },
+        {
+          "filename": "client/package.json",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "client/src/app/page.tsx",
+          "status": "modified",
+          "additions": 9,
+          "deletions": 149,
+          "changes": 158
+        },
+        {
+          "filename": "client/src/app/userpage/page.tsx",
+          "status": "added",
+          "additions": 153,
+          "deletions": 0,
+          "changes": 153
+        },
+        {
+          "filename": "client/src/components/animated-counted.tsx",
+          "status": "added",
+          "additions": 46,
+          "deletions": 0,
+          "changes": 46
+        },
+        {
+          "filename": "client/src/components/features/candidate-card.tsx",
+          "status": "modified",
+          "additions": 10,
+          "deletions": 11,
+          "changes": 21
+        },
+        {
+          "filename": "client/src/components/landing-page.tsx",
+          "status": "added",
+          "additions": 534,
+          "deletions": 0,
+          "changes": 534
+        },
+        {
+          "filename": "client/src/components/layout/Navbar.tsx",
+          "status": "added",
+          "additions": 60,
+          "deletions": 0,
+          "changes": 60
+        },
+        {
+          "filename": "client/src/components/parallax-section.tsx",
+          "status": "added",
+          "additions": 38,
+          "deletions": 0,
+          "changes": 38
+        },
+        {
+          "filename": "client/src/components/scroll-indicator.tsx",
+          "status": "added",
+          "additions": 34,
+          "deletions": 0,
+          "changes": 34
+        },
+        {
+          "filename": "client/src/components/ui/badge.tsx",
+          "status": "modified",
+          "additions": 3,
+          "deletions": 1,
+          "changes": 4
+        },
+        {
+          "filename": "client/src/hooks/use-in-view.tsx",
+          "status": "added",
+          "additions": 49,
+          "deletions": 0,
+          "changes": 49
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "74bdc39d3d5f71c371bb3ce9d6b7ca8c0b7cacf0",
+        "message": "restore analysis logic",
+        "date": "2025-03-28T17:23:56+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/74bdc39d3d5f71c371bb3ce9d6b7ca8c0b7cacf0",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 423,
+        "total_deletions": 18,
+        "total_changes": 441,
+        "files_changed": 2
+      },
+      "file_changes": [
+        {
+          "filename": "fastapi/gemini.py",
+          "status": "modified",
+          "additions": 48,
+          "deletions": 18,
+          "changes": 66
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "modified",
+          "additions": 375,
+          "deletions": 0,
+          "changes": 375
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "b7a978453eed13b1f6b4aa10e2d6506269e8612e",
+        "message": "Merge branch 'main' of https://github.com/MohammedYaseenRon/Resume-AIML",
+        "date": "2025-03-28T17:14:32+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/b7a978453eed13b1f6b4aa10e2d6506269e8612e",
+        "branch": "main"
+      },
+      "author": {
+        "name": "MohammedYaseenRon",
+        "username": "MohammedYaseenRon",
+        "email": "yaseenron3@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 320,
+        "total_deletions": 9,
+        "total_changes": 329,
+        "files_changed": 4
+      },
+      "file_changes": [
+        {
+          "filename": "fastapi/gemini.py",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 8,
+          "changes": 8
+        },
+        {
+          "filename": "fastapi/index.html",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "fastapi/ranker.py",
+          "status": "added",
+          "additions": 35,
+          "deletions": 0,
+          "changes": 35
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "added",
+          "additions": 284,
+          "deletions": 0,
+          "changes": 284
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "87c478cee89d09b02a159d07de256be90d18bb40",
+        "message": "testing",
+        "date": "2025-03-28T17:14:26+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/87c478cee89d09b02a159d07de256be90d18bb40",
+        "branch": "main"
+      },
+      "author": {
+        "name": "MohammedYaseenRon",
+        "username": "MohammedYaseenRon",
+        "email": "yaseenron3@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 270,
+        "total_deletions": 550,
+        "total_changes": 820,
+        "files_changed": 6
+      },
+      "file_changes": [
+        {
+          "filename": "client/src/app/page.tsx",
+          "status": "modified",
+          "additions": 134,
+          "deletions": 110,
+          "changes": 244
+        },
+        {
+          "filename": "client/src/components/features/candidate-card.tsx",
+          "status": "modified",
+          "additions": 29,
+          "deletions": 30,
+          "changes": 59
+        },
+        {
+          "filename": "client/src/components/features/candidates-section.tsx",
+          "status": "modified",
+          "additions": 9,
+          "deletions": 10,
+          "changes": 19
+        },
+        {
+          "filename": "client/src/types/index.ts",
+          "status": "modified",
+          "additions": 97,
+          "deletions": 27,
+          "changes": 124
+        },
+        {
+          "filename": "fastapi/gemini.py",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "fastapi/requirements.txt",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 372,
+          "changes": 372
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "4e5861c5436329f7bd7ae5c2359aa0837e0fbe16",
+        "message": "error resolved",
+        "date": "2025-03-28T17:03:16+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/4e5861c5436329f7bd7ae5c2359aa0837e0fbe16",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 320,
+        "total_deletions": 9,
+        "total_changes": 329,
+        "files_changed": 4
+      },
+      "file_changes": [
+        {
+          "filename": "fastapi/gemini.py",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 8,
+          "changes": 8
+        },
+        {
+          "filename": "fastapi/index.html",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "fastapi/ranker.py",
+          "status": "added",
+          "additions": 35,
+          "deletions": 0,
+          "changes": 35
+        },
+        {
+          "filename": "fastapi/resume_analysis_results.json",
+          "status": "added",
+          "additions": 284,
+          "deletions": 0,
+          "changes": 284
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "1662929c65637826efb0e51b8e095894d769fc84",
+        "message": "Merge branch 'main' of https://github.com/MohammedYaseenRon/Resume-AIML",
+        "date": "2025-03-28T15:58:35+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/1662929c65637826efb0e51b8e095894d769fc84",
+        "branch": "main"
+      },
+      "author": {
+        "name": "MohammedYaseenRon",
+        "username": "MohammedYaseenRon",
+        "email": "yaseenron3@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 460,
+        "total_deletions": 0,
+        "total_changes": 460,
+        "files_changed": 3
+      },
+      "file_changes": [
+        {
+          "filename": "fastapi/gemini.py",
+          "status": "modified",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "fastapi/requirements.txt",
+          "status": "added",
+          "additions": 447,
+          "deletions": 0,
+          "changes": 447
+        },
+        {
+          "filename": "fastapi/resume.pdf",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "5b24151d4203f60d11580ec41217b6a62456d852",
+        "message": "requirements",
+        "date": "2025-03-28T15:33:42+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/5b24151d4203f60d11580ec41217b6a62456d852",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 460,
+        "total_deletions": 0,
+        "total_changes": 460,
+        "files_changed": 3
+      },
+      "file_changes": [
+        {
+          "filename": "fastapi/gemini.py",
+          "status": "modified",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "fastapi/requirements.txt",
+          "status": "added",
+          "additions": 447,
+          "deletions": 0,
+          "changes": 447
+        },
+        {
+          "filename": "fastapi/resume.pdf",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "58c773eddeacfb9c0b81affdce93a17e1dc76ec1",
+        "message": "Merge branch 'main' of https://github.com/MohammedYaseenRon/Resume-AIML",
+        "date": "2025-03-28T15:27:27+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/58c773eddeacfb9c0b81affdce93a17e1dc76ec1",
+        "branch": "main"
+      },
+      "author": {
+        "name": "MohammedYaseenRon",
+        "username": "MohammedYaseenRon",
+        "email": "yaseenron3@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 991,
+        "total_deletions": 0,
+        "total_changes": 991,
+        "files_changed": 7
+      },
+      "file_changes": [
+        {
+          "filename": "fastapi/.gitignore",
+          "status": "added",
+          "additions": 85,
+          "deletions": 0,
+          "changes": 85
+        },
+        {
+          "filename": "fastapi/gemini.py",
+          "status": "added",
+          "additions": 312,
+          "deletions": 0,
+          "changes": 312
+        },
+        {
+          "filename": "fastapi/index.html",
+          "status": "added",
+          "additions": 258,
+          "deletions": 0,
+          "changes": 258
+        },
+        {
+          "filename": "fastapi/resume.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/test/index.html",
+          "status": "added",
+          "additions": 69,
+          "deletions": 0,
+          "changes": 69
+        },
+        {
+          "filename": "fastapi/test/script.js",
+          "status": "added",
+          "additions": 135,
+          "deletions": 0,
+          "changes": 135
+        },
+        {
+          "filename": "fastapi/test/styles.css",
+          "status": "added",
+          "additions": 132,
+          "deletions": 0,
+          "changes": 132
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "62fb5b74eb188a95893c2ee7a4345a5df872cce8",
+        "message": "ui updated",
+        "date": "2025-03-28T15:27:13+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/62fb5b74eb188a95893c2ee7a4345a5df872cce8",
+        "branch": "main"
+      },
+      "author": {
+        "name": "MohammedYaseenRon",
+        "username": "MohammedYaseenRon",
+        "email": "yaseenron3@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 456,
+        "total_deletions": 283,
+        "total_changes": 739,
+        "files_changed": 5
+      },
+      "file_changes": [
+        {
+          "filename": "client/package-lock.json",
+          "status": "modified",
+          "additions": 108,
+          "deletions": 14,
+          "changes": 122
+        },
+        {
+          "filename": "client/package.json",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 0,
+          "changes": 2
+        },
+        {
+          "filename": "client/src/app/page.tsx",
+          "status": "modified",
+          "additions": 29,
+          "deletions": 12,
+          "changes": 41
+        },
+        {
+          "filename": "client/src/components/features/resume-scanner.tsx",
+          "status": "modified",
+          "additions": 202,
+          "deletions": 147,
+          "changes": 349
+        },
+        {
+          "filename": "client/src/components/layout/sidebar.tsx",
+          "status": "modified",
+          "additions": 115,
+          "deletions": 110,
+          "changes": 225
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "cd4ec2fb3798bcc03463144897a5c0f8e81b8202",
+        "message": "multifile upload",
+        "date": "2025-03-28T15:01:00+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/cd4ec2fb3798bcc03463144897a5c0f8e81b8202",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 184,
+        "total_deletions": 41,
+        "total_changes": 225,
+        "files_changed": 2
+      },
+      "file_changes": [
+        {
+          "filename": "fastapi/gemini.py",
+          "status": "modified",
+          "additions": 85,
+          "deletions": 1,
+          "changes": 86
+        },
+        {
+          "filename": "fastapi/index.html",
+          "status": "modified",
+          "additions": 99,
+          "deletions": 40,
+          "changes": 139
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "e8a8c5f096a1d84be3d8af2d03395fa56194dea1",
+        "message": "added backend",
+        "date": "2025-03-28T14:50:12+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/e8a8c5f096a1d84be3d8af2d03395fa56194dea1",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mohammed",
+        "username": "Mohammed6903",
+        "email": "mohammedusmani2005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 848,
+        "total_deletions": 0,
+        "total_changes": 848,
+        "files_changed": 7
+      },
+      "file_changes": [
+        {
+          "filename": "fastapi/.gitignore",
+          "status": "added",
+          "additions": 85,
+          "deletions": 0,
+          "changes": 85
+        },
+        {
+          "filename": "fastapi/gemini.py",
+          "status": "added",
+          "additions": 228,
+          "deletions": 0,
+          "changes": 228
+        },
+        {
+          "filename": "fastapi/index.html",
+          "status": "added",
+          "additions": 199,
+          "deletions": 0,
+          "changes": 199
+        },
+        {
+          "filename": "fastapi/resume.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "fastapi/test/index.html",
+          "status": "added",
+          "additions": 69,
+          "deletions": 0,
+          "changes": 69
+        },
+        {
+          "filename": "fastapi/test/script.js",
+          "status": "added",
+          "additions": 135,
+          "deletions": 0,
+          "changes": 135
+        },
+        {
+          "filename": "fastapi/test/styles.css",
+          "status": "added",
+          "additions": 132,
+          "deletions": 0,
+          "changes": 132
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "b88c02c361b436632931ca2715b1d03af439c014",
+        "message": "add",
+        "date": "2025-03-28T13:45:04+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/b88c02c361b436632931ca2715b1d03af439c014",
+        "branch": "main"
+      },
+      "author": {
+        "name": "MohammedYaseenRon",
+        "username": "MohammedYaseenRon",
+        "email": "yaseenron3@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 117,
+        "total_deletions": 83,
+        "total_changes": 200,
+        "files_changed": 2
+      },
+      "file_changes": [
+        {
+          "filename": "client/src/app/page.tsx",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "client/src/components/layout/sidebar.tsx",
+          "status": "modified",
+          "additions": 116,
+          "deletions": 82,
+          "changes": 198
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "38373d969b2405d0c6933a77e85d5bf9c9906863",
+        "message": "slibar working properly",
+        "date": "2025-03-28T13:43:50+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/38373d969b2405d0c6933a77e85d5bf9c9906863",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Viraj Bane",
+        "username": "Virajbane",
+        "email": "virajbane2004@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 93,
+        "total_deletions": 43,
+        "total_changes": 136,
+        "files_changed": 2
+      },
+      "file_changes": [
+        {
+          "filename": "client/src/app/page.tsx",
+          "status": "modified",
+          "additions": 21,
+          "deletions": 8,
+          "changes": 29
+        },
+        {
+          "filename": "client/src/components/layout/sidebar.tsx",
+          "status": "modified",
+          "additions": 72,
+          "deletions": 35,
+          "changes": 107
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "46e0eec8f048599400f18ff38eb4d95aedb2fc8f",
+        "message": "dashboard",
+        "date": "2025-03-28T13:07:27+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/46e0eec8f048599400f18ff38eb4d95aedb2fc8f",
+        "branch": "main"
+      },
+      "author": {
+        "name": "MohammedYaseenRon",
+        "username": "MohammedYaseenRon",
+        "email": "yaseenron3@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 4866,
+        "total_deletions": 210,
+        "total_changes": 5076,
+        "files_changed": 28
+      },
+      "file_changes": [
+        {
+          "filename": "client/components.json",
+          "status": "added",
+          "additions": 21,
+          "deletions": 0,
+          "changes": 21
+        },
+        {
+          "filename": "client/package-lock.json",
+          "status": "modified",
+          "additions": 2328,
+          "deletions": 91,
+          "changes": 2419
+        },
+        {
+          "filename": "client/package.json",
+          "status": "modified",
+          "additions": 60,
+          "deletions": 9,
+          "changes": 69
+        },
+        {
+          "filename": "client/src/app/globals.css",
+          "status": "modified",
+          "additions": 127,
+          "deletions": 12,
+          "changes": 139
+        },
+        {
+          "filename": "client/src/app/page.tsx",
+          "status": "modified",
+          "additions": 135,
+          "deletions": 98,
+          "changes": 233
+        },
+        {
+          "filename": "client/src/components/chexkbox.tsx",
+          "status": "added",
+          "additions": 37,
+          "deletions": 0,
+          "changes": 37
+        },
+        {
+          "filename": "client/src/components/features/candidate-card.tsx",
+          "status": "added",
+          "additions": 83,
+          "deletions": 0,
+          "changes": 83
+        },
+        {
+          "filename": "client/src/components/features/candidates-section.tsx",
+          "status": "added",
+          "additions": 37,
+          "deletions": 0,
+          "changes": 37
+        },
+        {
+          "filename": "client/src/components/features/filter-section.tsx",
+          "status": "added",
+          "additions": 224,
+          "deletions": 0,
+          "changes": 224
+        },
+        {
+          "filename": "client/src/components/features/job-description.tsx",
+          "status": "added",
+          "additions": 75,
+          "deletions": 0,
+          "changes": 75
+        },
+        {
+          "filename": "client/src/components/features/resume-scanner.tsx",
+          "status": "added",
+          "additions": 173,
+          "deletions": 0,
+          "changes": 173
+        },
+        {
+          "filename": "client/src/components/layout/header.tsx",
+          "status": "added",
+          "additions": 33,
+          "deletions": 0,
+          "changes": 33
+        },
+        {
+          "filename": "client/src/components/layout/sidebar.tsx",
+          "status": "added",
+          "additions": 101,
+          "deletions": 0,
+          "changes": 101
+        },
+        {
+          "filename": "client/src/components/ui/badge.tsx",
+          "status": "added",
+          "additions": 46,
+          "deletions": 0,
+          "changes": 46
+        },
+        {
+          "filename": "client/src/components/ui/button.tsx",
+          "status": "added",
+          "additions": 59,
+          "deletions": 0,
+          "changes": 59
+        },
+        {
+          "filename": "client/src/components/ui/checkbox.tsx",
+          "status": "added",
+          "additions": 32,
+          "deletions": 0,
+          "changes": 32
+        },
+        {
+          "filename": "client/src/components/ui/filter-tab.tsx",
+          "status": "added",
+          "additions": 25,
+          "deletions": 0,
+          "changes": 25
+        },
+        {
+          "filename": "client/src/components/ui/input.tsx",
+          "status": "added",
+          "additions": 21,
+          "deletions": 0,
+          "changes": 21
+        },
+        {
+          "filename": "client/src/components/ui/separator.tsx",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        },
+        {
+          "filename": "client/src/components/ui/sheet.tsx",
+          "status": "added",
+          "additions": 139,
+          "deletions": 0,
+          "changes": 139
+        },
+        {
+          "filename": "client/src/components/ui/sidebar-item.tsx",
+          "status": "added",
+          "additions": 26,
+          "deletions": 0,
+          "changes": 26
+        },
+        {
+          "filename": "client/src/components/ui/sidebar.tsx",
+          "status": "added",
+          "additions": 726,
+          "deletions": 0,
+          "changes": 726
+        },
+        {
+          "filename": "client/src/components/ui/skeleton.tsx",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "client/src/components/ui/tooltip.tsx",
+          "status": "added",
+          "additions": 61,
+          "deletions": 0,
+          "changes": 61
+        },
+        {
+          "filename": "client/src/hooks/use-mobile.ts",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "client/src/lib/data-service.ts",
+          "status": "added",
+          "additions": 203,
+          "deletions": 0,
+          "changes": 203
+        },
+        {
+          "filename": "client/src/lib/utils.ts",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        },
+        {
+          "filename": "client/src/types/index.ts",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CodeWizard_AIML",
+        "owner": "MohammedYaseenRon",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+      },
+      "commit": {
+        "sha": "6b83ed5c682e1c62eaa735ca6a3908ab760cfaa3",
+        "message": "added client",
+        "date": "2025-03-28T09:17:21+00:00",
+        "url": "https://github.com/MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML/commit/6b83ed5c682e1c62eaa735ca6a3908ab760cfaa3",
+        "branch": "main"
+      },
+      "author": {
+        "name": "MohammedYaseenRon",
+        "username": "MohammedYaseenRon",
+        "email": "yaseenron3@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 6084,
+        "total_deletions": 0,
+        "total_changes": 6084,
+        "files_changed": 17
+      },
+      "file_changes": [
+        {
+          "filename": "client/.gitignore",
+          "status": "added",
+          "additions": 41,
+          "deletions": 0,
+          "changes": 41
+        },
+        {
+          "filename": "client/README.md",
+          "status": "added",
+          "additions": 36,
+          "deletions": 0,
+          "changes": 36
+        },
+        {
+          "filename": "client/eslint.config.mjs",
+          "status": "added",
+          "additions": 16,
+          "deletions": 0,
+          "changes": 16
+        },
+        {
+          "filename": "client/next.config.ts",
+          "status": "added",
+          "additions": 7,
+          "deletions": 0,
+          "changes": 7
+        },
+        {
+          "filename": "client/package-lock.json",
+          "status": "added",
+          "additions": 5757,
+          "deletions": 0,
+          "changes": 5757
+        },
+        {
+          "filename": "client/package.json",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        },
+        {
+          "filename": "client/postcss.config.mjs",
+          "status": "added",
+          "additions": 5,
+          "deletions": 0,
+          "changes": 5
+        },
+        {
+          "filename": "client/public/file.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "client/public/globe.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "client/public/next.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "client/public/vercel.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "client/public/window.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "client/src/app/favicon.ico",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "client/src/app/globals.css",
+          "status": "added",
+          "additions": 26,
+          "deletions": 0,
+          "changes": 26
+        },
+        {
+          "filename": "client/src/app/layout.tsx",
+          "status": "added",
+          "additions": 34,
+          "deletions": 0,
+          "changes": 34
+        },
+        {
+          "filename": "client/src/app/page.tsx",
+          "status": "added",
+          "additions": 103,
+          "deletions": 0,
+          "changes": 103
+        },
+        {
+          "filename": "client/tsconfig.json",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        }
+      ]
+    }
+  ],
+  "total_commits": 60,
+  "metadata": {
+    "collection_date": "2026-01-31T21:24:27.984709",
+    "total_repositories": 1,
+    "total_commits_collected": 60,
+    "repositories_processed": [
+      "MohammedYaseenRon/COHERENCE-25_CodeWizard_AIML"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  }
+}

@@ -1,0 +1,1384 @@
+{
+  "commits": [
+    {
+      "repository": {
+        "name": "COHERENCES25_Strom-Breaker_Web-App",
+        "owner": "Satya481",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App"
+      },
+      "commit": {
+        "sha": "bc1b5c686b986cde23ba5c6b0fdd1a1c8ba71326",
+        "message": "Final Commit",
+        "date": "2025-03-29T08:07:58+00:00",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App/commit/bc1b5c686b986cde23ba5c6b0fdd1a1c8ba71326",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Muralidhar Acharya",
+        "username": "Murali1801",
+        "email": "muralidharacharya7@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 842,
+        "total_deletions": 293,
+        "total_changes": 1135,
+        "files_changed": 5
+      },
+      "file_changes": [
+        {
+          "filename": "app/(dashboard)/ai-alerts/page.tsx",
+          "status": "modified",
+          "additions": 28,
+          "deletions": 28,
+          "changes": 56
+        },
+        {
+          "filename": "app/(dashboard)/ai-assistant/page.tsx",
+          "status": "modified",
+          "additions": 520,
+          "deletions": 66,
+          "changes": 586
+        },
+        {
+          "filename": "app/(dashboard)/air-quality/page.tsx",
+          "status": "modified",
+          "additions": 275,
+          "deletions": 163,
+          "changes": 438
+        },
+        {
+          "filename": "app/(dashboard)/dashboard/page.tsx",
+          "status": "modified",
+          "additions": 17,
+          "deletions": 17,
+          "changes": 34
+        },
+        {
+          "filename": "components/traffic-map.tsx",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 19,
+          "changes": 21
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCES25_Strom-Breaker_Web-App",
+        "owner": "Satya481",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App"
+      },
+      "commit": {
+        "sha": "8149fb541940562120cc811b6691f235d3c867b7",
+        "message": "Updated 3D Globe and AI Model",
+        "date": "2025-03-29T06:49:28+00:00",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App/commit/8149fb541940562120cc811b6691f235d3c867b7",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Muralidhar Acharya",
+        "username": "Murali1801",
+        "email": "muralidharacharya7@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 73,
+        "total_deletions": 290,
+        "total_changes": 363,
+        "files_changed": 3
+      },
+      "file_changes": [
+        {
+          "filename": "app/(dashboard)/ai-alerts/page.tsx",
+          "status": "modified",
+          "additions": 5,
+          "deletions": 5,
+          "changes": 10
+        },
+        {
+          "filename": "app/(dashboard)/air-quality/page.tsx",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 260,
+          "changes": 261
+        },
+        {
+          "filename": "app/(dashboard)/dashboard/page.tsx",
+          "status": "modified",
+          "additions": 67,
+          "deletions": 25,
+          "changes": 92
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCES25_Strom-Breaker_Web-App",
+        "owner": "Satya481",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App"
+      },
+      "commit": {
+        "sha": "79cfbe1a370523b4eaa7d63640d2b74b142b9ab8",
+        "message": "Added 3D Globe and AI Model",
+        "date": "2025-03-29T06:37:02+00:00",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App/commit/79cfbe1a370523b4eaa7d63640d2b74b142b9ab8",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Muralidhar Acharya",
+        "username": "Murali1801",
+        "email": "muralidharacharya7@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 792,
+        "total_deletions": 307,
+        "total_changes": 1099,
+        "files_changed": 7
+      },
+      "file_changes": [
+        {
+          "filename": "app/(dashboard)/ai-alerts/page.tsx",
+          "status": "modified",
+          "additions": 139,
+          "deletions": 84,
+          "changes": 223
+        },
+        {
+          "filename": "app/(dashboard)/air-quality/page.tsx",
+          "status": "modified",
+          "additions": 266,
+          "deletions": 7,
+          "changes": 273
+        },
+        {
+          "filename": "app/(dashboard)/traffic/page.tsx",
+          "status": "modified",
+          "additions": 96,
+          "deletions": 96,
+          "changes": 192
+        },
+        {
+          "filename": "components/globe-visualization.tsx",
+          "status": "modified",
+          "additions": 262,
+          "deletions": 50,
+          "changes": 312
+        },
+        {
+          "filename": "components/traffic-map.tsx",
+          "status": "modified",
+          "additions": 27,
+          "deletions": 68,
+          "changes": 95
+        },
+        {
+          "filename": "package-lock.json",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "package.json",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCES25_Strom-Breaker_Web-App",
+        "owner": "Satya481",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App"
+      },
+      "commit": {
+        "sha": "62f1e8036ac3359f1a4aa12faa2f380784a61939",
+        "message": "Updated Traffic Stats",
+        "date": "2025-03-29T05:11:44+00:00",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App/commit/62f1e8036ac3359f1a4aa12faa2f380784a61939",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Muralidhar Acharya",
+        "username": "Murali1801",
+        "email": "muralidharacharya7@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 997,
+        "total_deletions": 232,
+        "total_changes": 1229,
+        "files_changed": 3
+      },
+      "file_changes": [
+        {
+          "filename": "app/(dashboard)/air-quality/page.tsx",
+          "status": "modified",
+          "additions": 9,
+          "deletions": 9,
+          "changes": 18
+        },
+        {
+          "filename": "app/(dashboard)/traffic/page.tsx",
+          "status": "modified",
+          "additions": 947,
+          "deletions": 210,
+          "changes": 1157
+        },
+        {
+          "filename": "components/traffic-map.tsx",
+          "status": "modified",
+          "additions": 41,
+          "deletions": 13,
+          "changes": 54
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCES25_Strom-Breaker_Web-App",
+        "owner": "Satya481",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App"
+      },
+      "commit": {
+        "sha": "6ebaf15f46346aaa5496fcf53f566558a3769b3d",
+        "message": "Dynamic Air-Quality",
+        "date": "2025-03-29T04:15:55+00:00",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App/commit/6ebaf15f46346aaa5496fcf53f566558a3769b3d",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Muralidhar Acharya",
+        "username": "Murali1801",
+        "email": "muralidharacharya7@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 749,
+        "total_deletions": 192,
+        "total_changes": 941,
+        "files_changed": 2
+      },
+      "file_changes": [
+        {
+          "filename": "app/(dashboard)/air-quality/page.tsx",
+          "status": "modified",
+          "additions": 700,
+          "deletions": 173,
+          "changes": 873
+        },
+        {
+          "filename": "components/traffic-map.tsx",
+          "status": "modified",
+          "additions": 49,
+          "deletions": 19,
+          "changes": 68
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCES25_Strom-Breaker_Web-App",
+        "owner": "Satya481",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App"
+      },
+      "commit": {
+        "sha": "39fef2c051d251a40f3a4ce2658e2e190820b308",
+        "message": "Dynamic Dashboard",
+        "date": "2025-03-29T03:54:25+00:00",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App/commit/39fef2c051d251a40f3a4ce2658e2e190820b308",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Muralidhar Acharya",
+        "username": "Murali1801",
+        "email": "muralidharacharya7@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1368,
+        "total_deletions": 431,
+        "total_changes": 1799,
+        "files_changed": 5
+      },
+      "file_changes": [
+        {
+          "filename": "app/(dashboard)/ai-alerts/page.tsx",
+          "status": "modified",
+          "additions": 895,
+          "deletions": 246,
+          "changes": 1141
+        },
+        {
+          "filename": "app/(dashboard)/dashboard/page.tsx",
+          "status": "modified",
+          "additions": 400,
+          "deletions": 80,
+          "changes": 480
+        },
+        {
+          "filename": "app/(dashboard)/water-levels/page.tsx",
+          "status": "modified",
+          "additions": 9,
+          "deletions": 9,
+          "changes": 18
+        },
+        {
+          "filename": "components/city-search.tsx",
+          "status": "modified",
+          "additions": 14,
+          "deletions": 29,
+          "changes": 43
+        },
+        {
+          "filename": "components/traffic-map.tsx",
+          "status": "modified",
+          "additions": 50,
+          "deletions": 67,
+          "changes": 117
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCES25_Strom-Breaker_Web-App",
+        "owner": "Satya481",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App"
+      },
+      "commit": {
+        "sha": "d374b363c9a9fc0f05e96fabbe9f362ec334848a",
+        "message": "Added Ai-Alerts",
+        "date": "2025-03-29T02:31:09+00:00",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App/commit/d374b363c9a9fc0f05e96fabbe9f362ec334848a",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Muralidhar Acharya",
+        "username": "Murali1801",
+        "email": "muralidharacharya7@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 986,
+        "total_deletions": 840,
+        "total_changes": 1826,
+        "files_changed": 3
+      },
+      "file_changes": [
+        {
+          "filename": "app/(dashboard)/ai-alerts/page.tsx",
+          "status": "added",
+          "additions": 984,
+          "deletions": 0,
+          "changes": 984
+        },
+        {
+          "filename": "app/(dashboard)/energy-usage/page.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 837,
+          "changes": 837
+        },
+        {
+          "filename": "components/navbar.tsx",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 3,
+          "changes": 5
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCES25_Strom-Breaker_Web-App",
+        "owner": "Satya481",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App"
+      },
+      "commit": {
+        "sha": "078e85617424002dbfe70b875ab6fb02361f059b",
+        "message": "Added Water-Levels",
+        "date": "2025-03-29T02:19:19+00:00",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App/commit/078e85617424002dbfe70b875ab6fb02361f059b",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Muralidhar Acharya",
+        "username": "Murali1801",
+        "email": "muralidharacharya7@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1217,
+        "total_deletions": 219,
+        "total_changes": 1436,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "app/(dashboard)/water-levels/page.tsx",
+          "status": "modified",
+          "additions": 1217,
+          "deletions": 219,
+          "changes": 1436
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCES25_Strom-Breaker_Web-App",
+        "owner": "Satya481",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App"
+      },
+      "commit": {
+        "sha": "e76fe843dd6ce9787868b572242a06ed1f63bdc5",
+        "message": "Traffic Congestion",
+        "date": "2025-03-29T00:38:55+00:00",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App/commit/e76fe843dd6ce9787868b572242a06ed1f63bdc5",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Muralidhar Acharya",
+        "username": "Murali1801",
+        "email": "muralidharacharya7@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 903,
+        "total_deletions": 14,
+        "total_changes": 917,
+        "files_changed": 5
+      },
+      "file_changes": [
+        {
+          "filename": "app/(dashboard)/traffic/page.tsx",
+          "status": "modified",
+          "additions": 5,
+          "deletions": 14,
+          "changes": 19
+        },
+        {
+          "filename": "app/globals.css",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "components/traffic-map.tsx",
+          "status": "added",
+          "additions": 170,
+          "deletions": 0,
+          "changes": 170
+        },
+        {
+          "filename": "package-lock.json",
+          "status": "modified",
+          "additions": 724,
+          "deletions": 0,
+          "changes": 724
+        },
+        {
+          "filename": "package.json",
+          "status": "modified",
+          "additions": 3,
+          "deletions": 0,
+          "changes": 3
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCES25_Strom-Breaker_Web-App",
+        "owner": "Satya481",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App"
+      },
+      "commit": {
+        "sha": "0a9d1be8005e5269b01e79739cb617db52fd1780",
+        "message": "Added firbase auth",
+        "date": "2025-03-28T21:15:20+00:00",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App/commit/0a9d1be8005e5269b01e79739cb617db52fd1780",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Satya481",
+        "username": "Satya481",
+        "email": "guptasatyaprakash317@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1294,
+        "total_deletions": 34,
+        "total_changes": 1328,
+        "files_changed": 5
+      },
+      "file_changes": [
+        {
+          "filename": "app/login/page.tsx",
+          "status": "modified",
+          "additions": 88,
+          "deletions": 34,
+          "changes": 122
+        },
+        {
+          "filename": "app/signup/page.tsx",
+          "status": "added",
+          "additions": 356,
+          "deletions": 0,
+          "changes": 356
+        },
+        {
+          "filename": "lib/firebase.ts",
+          "status": "added",
+          "additions": 20,
+          "deletions": 0,
+          "changes": 20
+        },
+        {
+          "filename": "package-lock.json",
+          "status": "modified",
+          "additions": 829,
+          "deletions": 0,
+          "changes": 829
+        },
+        {
+          "filename": "package.json",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCES25_Strom-Breaker_Web-App",
+        "owner": "Satya481",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App"
+      },
+      "commit": {
+        "sha": "2e235cc319fa55ee7cee4a1319318413faa796b9",
+        "message": "Added real time air quality index with ai forcast and heatmap",
+        "date": "2025-03-28T20:46:18+00:00",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App/commit/2e235cc319fa55ee7cee4a1319318413faa796b9",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Satya481",
+        "username": "Satya481",
+        "email": "guptasatyaprakash317@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 3322,
+        "total_deletions": 309,
+        "total_changes": 3631,
+        "files_changed": 12
+      },
+      "file_changes": [
+        {
+          "filename": "app/(dashboard)/ai-assistant/page.tsx",
+          "status": "modified",
+          "additions": 304,
+          "deletions": 2,
+          "changes": 306
+        },
+        {
+          "filename": "app/(dashboard)/air-quality/page.tsx",
+          "status": "modified",
+          "additions": 694,
+          "deletions": 275,
+          "changes": 969
+        },
+        {
+          "filename": "app/(dashboard)/alerts/page.tsx",
+          "status": "modified",
+          "additions": 553,
+          "deletions": 2,
+          "changes": 555
+        },
+        {
+          "filename": "app/(dashboard)/dashboard/page.tsx",
+          "status": "modified",
+          "additions": 106,
+          "deletions": 6,
+          "changes": 112
+        },
+        {
+          "filename": "app/(dashboard)/energy-usage/page.tsx",
+          "status": "added",
+          "additions": 837,
+          "deletions": 0,
+          "changes": 837
+        },
+        {
+          "filename": "app/(dashboard)/traffic/page.tsx",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 1,
+          "changes": 3
+        },
+        {
+          "filename": "app/(dashboard)/water-levels/page.tsx",
+          "status": "modified",
+          "additions": 444,
+          "deletions": 2,
+          "changes": 446
+        },
+        {
+          "filename": "components/city-search.tsx",
+          "status": "modified",
+          "additions": 144,
+          "deletions": 9,
+          "changes": 153
+        },
+        {
+          "filename": "components/heatmap-visualization.tsx",
+          "status": "added",
+          "additions": 129,
+          "deletions": 0,
+          "changes": 129
+        },
+        {
+          "filename": "components/vasai-map.tsx",
+          "status": "added",
+          "additions": 89,
+          "deletions": 0,
+          "changes": 89
+        },
+        {
+          "filename": "package-lock.json",
+          "status": "modified",
+          "additions": 7,
+          "deletions": 0,
+          "changes": 7
+        },
+        {
+          "filename": "package.json",
+          "status": "modified",
+          "additions": 13,
+          "deletions": 12,
+          "changes": 25
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCES25_Strom-Breaker_Web-App",
+        "owner": "Satya481",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App"
+      },
+      "commit": {
+        "sha": "8f8edb5e3627d5d378ea1e68121cf6f48cb1fe45",
+        "message": "Initial commit",
+        "date": "2025-03-28T16:14:33+00:00",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App/commit/8f8edb5e3627d5d378ea1e68121cf6f48cb1fe45",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Satya481",
+        "username": "Satya481",
+        "email": "guptasatyaprakash317@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 442,
+        "total_deletions": 117,
+        "total_changes": 559,
+        "files_changed": 2
+      },
+      "file_changes": [
+        {
+          "filename": "app/(dashboard)/traffic/page.tsx",
+          "status": "modified",
+          "additions": 367,
+          "deletions": 2,
+          "changes": 369
+        },
+        {
+          "filename": "components/globe-visualization.tsx",
+          "status": "modified",
+          "additions": 75,
+          "deletions": 115,
+          "changes": 190
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCES25_Strom-Breaker_Web-App",
+        "owner": "Satya481",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App"
+      },
+      "commit": {
+        "sha": "dcf0dc56a2e37aac71684b21eea20f4e102a51bb",
+        "message": "add glob",
+        "date": "2025-03-28T13:33:46+00:00",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App/commit/dcf0dc56a2e37aac71684b21eea20f4e102a51bb",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Satya481",
+        "username": "Satya481",
+        "email": "guptasatyaprakash317@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 0,
+        "total_changes": 0,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "public/texture_earth.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCES25_Strom-Breaker_Web-App",
+        "owner": "Satya481",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App"
+      },
+      "commit": {
+        "sha": "f10241545227c6be6b20d165b979ed0d4d417275",
+        "message": "Initial commit",
+        "date": "2025-03-28T10:47:21+00:00",
+        "url": "https://github.com/Satya481/COHERENCES25_Strom-Breaker_Web-App/commit/f10241545227c6be6b20d165b979ed0d4d417275",
+        "branch": "main"
+      },
+      "author": {
+        "name": "yashtripathi13",
+        "username": "yashtripathi13",
+        "email": "yashtripathi1703@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 21682,
+        "total_deletions": 0,
+        "total_changes": 21682,
+        "files_changed": 85
+      },
+      "file_changes": [
+        {
+          "filename": ".gitignore",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        },
+        {
+          "filename": "app/(dashboard)/ai-assistant/page.tsx",
+          "status": "added",
+          "additions": 3,
+          "deletions": 0,
+          "changes": 3
+        },
+        {
+          "filename": "app/(dashboard)/air-quality/page.tsx",
+          "status": "added",
+          "additions": 327,
+          "deletions": 0,
+          "changes": 327
+        },
+        {
+          "filename": "app/(dashboard)/alerts/page.tsx",
+          "status": "added",
+          "additions": 3,
+          "deletions": 0,
+          "changes": 3
+        },
+        {
+          "filename": "app/(dashboard)/dashboard/page.tsx",
+          "status": "added",
+          "additions": 219,
+          "deletions": 0,
+          "changes": 219
+        },
+        {
+          "filename": "app/(dashboard)/layout.tsx",
+          "status": "added",
+          "additions": 16,
+          "deletions": 0,
+          "changes": 16
+        },
+        {
+          "filename": "app/(dashboard)/traffic/page.tsx",
+          "status": "added",
+          "additions": 3,
+          "deletions": 0,
+          "changes": 3
+        },
+        {
+          "filename": "app/(dashboard)/water-levels/page.tsx",
+          "status": "added",
+          "additions": 3,
+          "deletions": 0,
+          "changes": 3
+        },
+        {
+          "filename": "app/globals.css",
+          "status": "added",
+          "additions": 80,
+          "deletions": 0,
+          "changes": 80
+        },
+        {
+          "filename": "app/layout.tsx",
+          "status": "added",
+          "additions": 36,
+          "deletions": 0,
+          "changes": 36
+        },
+        {
+          "filename": "app/login/page.tsx",
+          "status": "added",
+          "additions": 283,
+          "deletions": 0,
+          "changes": 283
+        },
+        {
+          "filename": "app/page.tsx",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        },
+        {
+          "filename": "components.json",
+          "status": "added",
+          "additions": 21,
+          "deletions": 0,
+          "changes": 21
+        },
+        {
+          "filename": "components/alert-item.tsx",
+          "status": "added",
+          "additions": 46,
+          "deletions": 0,
+          "changes": 46
+        },
+        {
+          "filename": "components/city-search.tsx",
+          "status": "added",
+          "additions": 46,
+          "deletions": 0,
+          "changes": 46
+        },
+        {
+          "filename": "components/globe-visualization.tsx",
+          "status": "added",
+          "additions": 182,
+          "deletions": 0,
+          "changes": 182
+        },
+        {
+          "filename": "components/navbar.tsx",
+          "status": "added",
+          "additions": 153,
+          "deletions": 0,
+          "changes": 153
+        },
+        {
+          "filename": "components/stat-card.tsx",
+          "status": "added",
+          "additions": 50,
+          "deletions": 0,
+          "changes": 50
+        },
+        {
+          "filename": "components/theme-provider.tsx",
+          "status": "added",
+          "additions": 11,
+          "deletions": 0,
+          "changes": 11
+        },
+        {
+          "filename": "components/ui/accordion.tsx",
+          "status": "added",
+          "additions": 58,
+          "deletions": 0,
+          "changes": 58
+        },
+        {
+          "filename": "components/ui/alert-dialog.tsx",
+          "status": "added",
+          "additions": 141,
+          "deletions": 0,
+          "changes": 141
+        },
+        {
+          "filename": "components/ui/alert.tsx",
+          "status": "added",
+          "additions": 59,
+          "deletions": 0,
+          "changes": 59
+        },
+        {
+          "filename": "components/ui/aspect-ratio.tsx",
+          "status": "added",
+          "additions": 7,
+          "deletions": 0,
+          "changes": 7
+        },
+        {
+          "filename": "components/ui/avatar.tsx",
+          "status": "added",
+          "additions": 50,
+          "deletions": 0,
+          "changes": 50
+        },
+        {
+          "filename": "components/ui/badge.tsx",
+          "status": "added",
+          "additions": 36,
+          "deletions": 0,
+          "changes": 36
+        },
+        {
+          "filename": "components/ui/breadcrumb.tsx",
+          "status": "added",
+          "additions": 115,
+          "deletions": 0,
+          "changes": 115
+        },
+        {
+          "filename": "components/ui/button.tsx",
+          "status": "added",
+          "additions": 56,
+          "deletions": 0,
+          "changes": 56
+        },
+        {
+          "filename": "components/ui/calendar.tsx",
+          "status": "added",
+          "additions": 66,
+          "deletions": 0,
+          "changes": 66
+        },
+        {
+          "filename": "components/ui/card.tsx",
+          "status": "added",
+          "additions": 79,
+          "deletions": 0,
+          "changes": 79
+        },
+        {
+          "filename": "components/ui/carousel.tsx",
+          "status": "added",
+          "additions": 262,
+          "deletions": 0,
+          "changes": 262
+        },
+        {
+          "filename": "components/ui/chart.tsx",
+          "status": "added",
+          "additions": 365,
+          "deletions": 0,
+          "changes": 365
+        },
+        {
+          "filename": "components/ui/checkbox.tsx",
+          "status": "added",
+          "additions": 30,
+          "deletions": 0,
+          "changes": 30
+        },
+        {
+          "filename": "components/ui/collapsible.tsx",
+          "status": "added",
+          "additions": 11,
+          "deletions": 0,
+          "changes": 11
+        },
+        {
+          "filename": "components/ui/command.tsx",
+          "status": "added",
+          "additions": 153,
+          "deletions": 0,
+          "changes": 153
+        },
+        {
+          "filename": "components/ui/context-menu.tsx",
+          "status": "added",
+          "additions": 200,
+          "deletions": 0,
+          "changes": 200
+        },
+        {
+          "filename": "components/ui/dialog.tsx",
+          "status": "added",
+          "additions": 122,
+          "deletions": 0,
+          "changes": 122
+        },
+        {
+          "filename": "components/ui/drawer.tsx",
+          "status": "added",
+          "additions": 118,
+          "deletions": 0,
+          "changes": 118
+        },
+        {
+          "filename": "components/ui/dropdown-menu.tsx",
+          "status": "added",
+          "additions": 200,
+          "deletions": 0,
+          "changes": 200
+        },
+        {
+          "filename": "components/ui/form.tsx",
+          "status": "added",
+          "additions": 178,
+          "deletions": 0,
+          "changes": 178
+        },
+        {
+          "filename": "components/ui/hover-card.tsx",
+          "status": "added",
+          "additions": 29,
+          "deletions": 0,
+          "changes": 29
+        },
+        {
+          "filename": "components/ui/input-otp.tsx",
+          "status": "added",
+          "additions": 71,
+          "deletions": 0,
+          "changes": 71
+        },
+        {
+          "filename": "components/ui/input.tsx",
+          "status": "added",
+          "additions": 22,
+          "deletions": 0,
+          "changes": 22
+        },
+        {
+          "filename": "components/ui/label.tsx",
+          "status": "added",
+          "additions": 26,
+          "deletions": 0,
+          "changes": 26
+        },
+        {
+          "filename": "components/ui/menubar.tsx",
+          "status": "added",
+          "additions": 236,
+          "deletions": 0,
+          "changes": 236
+        },
+        {
+          "filename": "components/ui/navigation-menu.tsx",
+          "status": "added",
+          "additions": 128,
+          "deletions": 0,
+          "changes": 128
+        },
+        {
+          "filename": "components/ui/pagination.tsx",
+          "status": "added",
+          "additions": 117,
+          "deletions": 0,
+          "changes": 117
+        },
+        {
+          "filename": "components/ui/popover.tsx",
+          "status": "added",
+          "additions": 31,
+          "deletions": 0,
+          "changes": 31
+        },
+        {
+          "filename": "components/ui/progress.tsx",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        },
+        {
+          "filename": "components/ui/radio-group.tsx",
+          "status": "added",
+          "additions": 44,
+          "deletions": 0,
+          "changes": 44
+        },
+        {
+          "filename": "components/ui/resizable.tsx",
+          "status": "added",
+          "additions": 45,
+          "deletions": 0,
+          "changes": 45
+        },
+        {
+          "filename": "components/ui/scroll-area.tsx",
+          "status": "added",
+          "additions": 48,
+          "deletions": 0,
+          "changes": 48
+        },
+        {
+          "filename": "components/ui/select.tsx",
+          "status": "added",
+          "additions": 160,
+          "deletions": 0,
+          "changes": 160
+        },
+        {
+          "filename": "components/ui/separator.tsx",
+          "status": "added",
+          "additions": 31,
+          "deletions": 0,
+          "changes": 31
+        },
+        {
+          "filename": "components/ui/sheet.tsx",
+          "status": "added",
+          "additions": 140,
+          "deletions": 0,
+          "changes": 140
+        },
+        {
+          "filename": "components/ui/sidebar.tsx",
+          "status": "added",
+          "additions": 763,
+          "deletions": 0,
+          "changes": 763
+        },
+        {
+          "filename": "components/ui/skeleton.tsx",
+          "status": "added",
+          "additions": 15,
+          "deletions": 0,
+          "changes": 15
+        },
+        {
+          "filename": "components/ui/slider.tsx",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        },
+        {
+          "filename": "components/ui/sonner.tsx",
+          "status": "added",
+          "additions": 31,
+          "deletions": 0,
+          "changes": 31
+        },
+        {
+          "filename": "components/ui/switch.tsx",
+          "status": "added",
+          "additions": 29,
+          "deletions": 0,
+          "changes": 29
+        },
+        {
+          "filename": "components/ui/table.tsx",
+          "status": "added",
+          "additions": 117,
+          "deletions": 0,
+          "changes": 117
+        },
+        {
+          "filename": "components/ui/tabs.tsx",
+          "status": "added",
+          "additions": 55,
+          "deletions": 0,
+          "changes": 55
+        },
+        {
+          "filename": "components/ui/textarea.tsx",
+          "status": "added",
+          "additions": 22,
+          "deletions": 0,
+          "changes": 22
+        },
+        {
+          "filename": "components/ui/toast.tsx",
+          "status": "added",
+          "additions": 129,
+          "deletions": 0,
+          "changes": 129
+        },
+        {
+          "filename": "components/ui/toaster.tsx",
+          "status": "added",
+          "additions": 35,
+          "deletions": 0,
+          "changes": 35
+        },
+        {
+          "filename": "components/ui/toggle-group.tsx",
+          "status": "added",
+          "additions": 61,
+          "deletions": 0,
+          "changes": 61
+        },
+        {
+          "filename": "components/ui/toggle.tsx",
+          "status": "added",
+          "additions": 45,
+          "deletions": 0,
+          "changes": 45
+        },
+        {
+          "filename": "components/ui/tooltip.tsx",
+          "status": "added",
+          "additions": 30,
+          "deletions": 0,
+          "changes": 30
+        },
+        {
+          "filename": "components/ui/use-mobile.tsx",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "components/ui/use-toast.ts",
+          "status": "added",
+          "additions": 194,
+          "deletions": 0,
+          "changes": 194
+        },
+        {
+          "filename": "hooks/use-mobile.tsx",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "hooks/use-toast.ts",
+          "status": "added",
+          "additions": 194,
+          "deletions": 0,
+          "changes": 194
+        },
+        {
+          "filename": "lib/utils.ts",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        },
+        {
+          "filename": "next.config.mjs",
+          "status": "added",
+          "additions": 48,
+          "deletions": 0,
+          "changes": 48
+        },
+        {
+          "filename": "package-lock.json",
+          "status": "added",
+          "additions": 14530,
+          "deletions": 0,
+          "changes": 14530
+        },
+        {
+          "filename": "package.json",
+          "status": "added",
+          "additions": 80,
+          "deletions": 0,
+          "changes": 80
+        },
+        {
+          "filename": "pnpm-lock.yaml",
+          "status": "added",
+          "additions": 5,
+          "deletions": 0,
+          "changes": 5
+        },
+        {
+          "filename": "postcss.config.mjs",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "public/placeholder-logo.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "public/placeholder-logo.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "public/placeholder-user.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "public/placeholder.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "public/placeholder.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "styles/globals.css",
+          "status": "added",
+          "additions": 94,
+          "deletions": 0,
+          "changes": 94
+        },
+        {
+          "filename": "tailwind.config.ts",
+          "status": "added",
+          "additions": 119,
+          "deletions": 0,
+          "changes": 119
+        },
+        {
+          "filename": "tsconfig.json",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        }
+      ]
+    }
+  ],
+  "total_commits": 14,
+  "metadata": {
+    "collection_date": "2026-01-31T21:19:52.865226",
+    "total_repositories": 1,
+    "total_commits_collected": 14,
+    "repositories_processed": [
+      "Satya481/COHERENCES25_Strom-Breaker_Web-App"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  }
+}

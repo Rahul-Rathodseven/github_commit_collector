@@ -1,0 +1,2119 @@
+{
+  "commits": [
+    {
+      "repository": {
+        "name": "Coherence25_SacredScripts_WebApp",
+        "owner": "nishant-bhandigare",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp"
+      },
+      "commit": {
+        "sha": "a8ea363c8eef8dcfaaa2453a9894581ee61876ea",
+        "message": "general commit",
+        "date": "2025-03-29T02:12:13+00:00",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp/commit/a8ea363c8eef8dcfaaa2453a9894581ee61876ea",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Nishant Bhandigare",
+        "username": "nishant-bhandigare",
+        "email": "nishantbhandigare@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 12686,
+        "total_deletions": 0,
+        "total_changes": 12686,
+        "files_changed": 196
+      },
+      "file_changes": [
+        {
+          "filename": "urban_nest/.env",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "urban_nest/.gitignore",
+          "status": "added",
+          "additions": 45,
+          "deletions": 0,
+          "changes": 45
+        },
+        {
+          "filename": "urban_nest/.metadata",
+          "status": "added",
+          "additions": 45,
+          "deletions": 0,
+          "changes": 45
+        },
+        {
+          "filename": "urban_nest/README.md",
+          "status": "added",
+          "additions": 16,
+          "deletions": 0,
+          "changes": 16
+        },
+        {
+          "filename": "urban_nest/analysis_options.yaml",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        },
+        {
+          "filename": "urban_nest/android/.gitignore",
+          "status": "added",
+          "additions": 14,
+          "deletions": 0,
+          "changes": 14
+        },
+        {
+          "filename": "urban_nest/android/app/build.gradle.kts",
+          "status": "added",
+          "additions": 44,
+          "deletions": 0,
+          "changes": 44
+        },
+        {
+          "filename": "urban_nest/android/app/src/debug/AndroidManifest.xml",
+          "status": "added",
+          "additions": 7,
+          "deletions": 0,
+          "changes": 7
+        },
+        {
+          "filename": "urban_nest/android/app/src/main/AndroidManifest.xml",
+          "status": "added",
+          "additions": 50,
+          "deletions": 0,
+          "changes": 50
+        },
+        {
+          "filename": "urban_nest/android/app/src/main/kotlin/com/example/urban_nest/MainActivity.kt",
+          "status": "added",
+          "additions": 5,
+          "deletions": 0,
+          "changes": 5
+        },
+        {
+          "filename": "urban_nest/android/app/src/main/res/drawable-v21/launch_background.xml",
+          "status": "added",
+          "additions": 12,
+          "deletions": 0,
+          "changes": 12
+        },
+        {
+          "filename": "urban_nest/android/app/src/main/res/drawable/launch_background.xml",
+          "status": "added",
+          "additions": 12,
+          "deletions": 0,
+          "changes": 12
+        },
+        {
+          "filename": "urban_nest/android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/android/app/src/main/res/values-night/styles.xml",
+          "status": "added",
+          "additions": 18,
+          "deletions": 0,
+          "changes": 18
+        },
+        {
+          "filename": "urban_nest/android/app/src/main/res/values/styles.xml",
+          "status": "added",
+          "additions": 18,
+          "deletions": 0,
+          "changes": 18
+        },
+        {
+          "filename": "urban_nest/android/app/src/profile/AndroidManifest.xml",
+          "status": "added",
+          "additions": 7,
+          "deletions": 0,
+          "changes": 7
+        },
+        {
+          "filename": "urban_nest/android/build.gradle.kts",
+          "status": "added",
+          "additions": 21,
+          "deletions": 0,
+          "changes": 21
+        },
+        {
+          "filename": "urban_nest/android/gradle.properties",
+          "status": "added",
+          "additions": 3,
+          "deletions": 0,
+          "changes": 3
+        },
+        {
+          "filename": "urban_nest/android/gradle/wrapper/gradle-wrapper.properties",
+          "status": "added",
+          "additions": 5,
+          "deletions": 0,
+          "changes": 5
+        },
+        {
+          "filename": "urban_nest/android/settings.gradle.kts",
+          "status": "added",
+          "additions": 25,
+          "deletions": 0,
+          "changes": 25
+        },
+        {
+          "filename": "urban_nest/assets/icons/sunrise.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/icons/sunset.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/abstract1.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/abstract2.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/abstract3.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/abstract4.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/abstract5.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/abstract6.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/avatar.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/cafe1.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/cafe2.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/cafe3.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/cafe4.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/forest-4824759_1920.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/library1.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/library2.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/library3.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/library4.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/map.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/mountains-5689938_1920.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/museum1.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/museum2.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/museum3.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/museum4.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/park1.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/park2.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/park3.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/park4.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/user.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/assets/images/windmill-5689011_1920.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/ios/.gitignore",
+          "status": "added",
+          "additions": 34,
+          "deletions": 0,
+          "changes": 34
+        },
+        {
+          "filename": "urban_nest/ios/Flutter/AppFrameworkInfo.plist",
+          "status": "added",
+          "additions": 26,
+          "deletions": 0,
+          "changes": 26
+        },
+        {
+          "filename": "urban_nest/ios/Flutter/Debug.xcconfig",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "urban_nest/ios/Flutter/Release.xcconfig",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "urban_nest/ios/Runner.xcodeproj/project.pbxproj",
+          "status": "added",
+          "additions": 616,
+          "deletions": 0,
+          "changes": 616
+        },
+        {
+          "filename": "urban_nest/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
+          "status": "added",
+          "additions": 7,
+          "deletions": 0,
+          "changes": 7
+        },
+        {
+          "filename": "urban_nest/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "urban_nest/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "urban_nest/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme",
+          "status": "added",
+          "additions": 99,
+          "deletions": 0,
+          "changes": 99
+        },
+        {
+          "filename": "urban_nest/ios/Runner.xcworkspace/contents.xcworkspacedata",
+          "status": "added",
+          "additions": 7,
+          "deletions": 0,
+          "changes": 7
+        },
+        {
+          "filename": "urban_nest/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "urban_nest/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "urban_nest/ios/Runner/AppDelegate.swift",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json",
+          "status": "added",
+          "additions": 122,
+          "deletions": 0,
+          "changes": 122
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json",
+          "status": "added",
+          "additions": 23,
+          "deletions": 0,
+          "changes": 23
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
+          "status": "added",
+          "additions": 5,
+          "deletions": 0,
+          "changes": 5
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Base.lproj/LaunchScreen.storyboard",
+          "status": "added",
+          "additions": 37,
+          "deletions": 0,
+          "changes": 37
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Base.lproj/Main.storyboard",
+          "status": "added",
+          "additions": 26,
+          "deletions": 0,
+          "changes": 26
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Info.plist",
+          "status": "added",
+          "additions": 49,
+          "deletions": 0,
+          "changes": 49
+        },
+        {
+          "filename": "urban_nest/ios/Runner/Runner-Bridging-Header.h",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "urban_nest/ios/RunnerTests/RunnerTests.swift",
+          "status": "added",
+          "additions": 12,
+          "deletions": 0,
+          "changes": 12
+        },
+        {
+          "filename": "urban_nest/lib/core/config/env_config.dart",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/lib/features/auth/auth.dart",
+          "status": "added",
+          "additions": 316,
+          "deletions": 0,
+          "changes": 316
+        },
+        {
+          "filename": "urban_nest/lib/features/community/community_page.dart",
+          "status": "added",
+          "additions": 283,
+          "deletions": 0,
+          "changes": 283
+        },
+        {
+          "filename": "urban_nest/lib/features/community/community_post_card.dart",
+          "status": "added",
+          "additions": 113,
+          "deletions": 0,
+          "changes": 113
+        },
+        {
+          "filename": "urban_nest/lib/features/community/make_post.dart",
+          "status": "added",
+          "additions": 125,
+          "deletions": 0,
+          "changes": 125
+        },
+        {
+          "filename": "urban_nest/lib/features/community/posts_data.dart",
+          "status": "added",
+          "additions": 68,
+          "deletions": 0,
+          "changes": 68
+        },
+        {
+          "filename": "urban_nest/lib/features/community/posts_data_model.dart",
+          "status": "added",
+          "additions": 25,
+          "deletions": 0,
+          "changes": 25
+        },
+        {
+          "filename": "urban_nest/lib/features/community/responsive_wrapper.dart",
+          "status": "added",
+          "additions": 120,
+          "deletions": 0,
+          "changes": 120
+        },
+        {
+          "filename": "urban_nest/lib/features/drawer/drawer.dart",
+          "status": "added",
+          "additions": 211,
+          "deletions": 0,
+          "changes": 211
+        },
+        {
+          "filename": "urban_nest/lib/features/home/all_india_energy_chart.dart",
+          "status": "added",
+          "additions": 579,
+          "deletions": 0,
+          "changes": 579
+        },
+        {
+          "filename": "urban_nest/lib/features/home/energy_analytics_chart.dart",
+          "status": "added",
+          "additions": 222,
+          "deletions": 0,
+          "changes": 222
+        },
+        {
+          "filename": "urban_nest/lib/features/home/energy_generation.dart",
+          "status": "added",
+          "additions": 266,
+          "deletions": 0,
+          "changes": 266
+        },
+        {
+          "filename": "urban_nest/lib/features/home/energy_generation_data.dart",
+          "status": "added",
+          "additions": 177,
+          "deletions": 0,
+          "changes": 177
+        },
+        {
+          "filename": "urban_nest/lib/features/home/home_page.dart",
+          "status": "added",
+          "additions": 1031,
+          "deletions": 0,
+          "changes": 1031
+        },
+        {
+          "filename": "urban_nest/lib/features/home/power_supply_chart.dart",
+          "status": "added",
+          "additions": 224,
+          "deletions": 0,
+          "changes": 224
+        },
+        {
+          "filename": "urban_nest/lib/features/maps/full_screen_map_page.dart",
+          "status": "added",
+          "additions": 232,
+          "deletions": 0,
+          "changes": 232
+        },
+        {
+          "filename": "urban_nest/lib/features/maps/full_screen_map_page2.dart",
+          "status": "added",
+          "additions": 947,
+          "deletions": 0,
+          "changes": 947
+        },
+        {
+          "filename": "urban_nest/lib/features/maps/map_widget.dart",
+          "status": "added",
+          "additions": 261,
+          "deletions": 0,
+          "changes": 261
+        },
+        {
+          "filename": "urban_nest/lib/features/place/place_data.dart",
+          "status": "added",
+          "additions": 60,
+          "deletions": 0,
+          "changes": 60
+        },
+        {
+          "filename": "urban_nest/lib/features/place/place_data_model.dart",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "urban_nest/lib/features/place/place_details_page.dart",
+          "status": "added",
+          "additions": 156,
+          "deletions": 0,
+          "changes": 156
+        },
+        {
+          "filename": "urban_nest/lib/features/profile/profile_page.dart",
+          "status": "added",
+          "additions": 323,
+          "deletions": 0,
+          "changes": 323
+        },
+        {
+          "filename": "urban_nest/lib/features/search/search_page.dart",
+          "status": "added",
+          "additions": 202,
+          "deletions": 0,
+          "changes": 202
+        },
+        {
+          "filename": "urban_nest/lib/features/shared/search_bar.dart",
+          "status": "added",
+          "additions": 33,
+          "deletions": 0,
+          "changes": 33
+        },
+        {
+          "filename": "urban_nest/lib/features/shared/theme_switch.dart",
+          "status": "added",
+          "additions": 36,
+          "deletions": 0,
+          "changes": 36
+        },
+        {
+          "filename": "urban_nest/lib/features/shared/title_bar.dart",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        },
+        {
+          "filename": "urban_nest/lib/features/tabs/tabs.dart",
+          "status": "added",
+          "additions": 144,
+          "deletions": 0,
+          "changes": 144
+        },
+        {
+          "filename": "urban_nest/lib/features/weather/display.dart",
+          "status": "added",
+          "additions": 66,
+          "deletions": 0,
+          "changes": 66
+        },
+        {
+          "filename": "urban_nest/lib/features/weather/forecast_builder.dart",
+          "status": "added",
+          "additions": 67,
+          "deletions": 0,
+          "changes": 67
+        },
+        {
+          "filename": "urban_nest/lib/features/weather/info.dart",
+          "status": "added",
+          "additions": 175,
+          "deletions": 0,
+          "changes": 175
+        },
+        {
+          "filename": "urban_nest/lib/features/weather/location_service.dart",
+          "status": "added",
+          "additions": 202,
+          "deletions": 0,
+          "changes": 202
+        },
+        {
+          "filename": "urban_nest/lib/features/weather/sunrise_sunset.dart",
+          "status": "added",
+          "additions": 163,
+          "deletions": 0,
+          "changes": 163
+        },
+        {
+          "filename": "urban_nest/lib/features/weather/weather_widgets.dart",
+          "status": "added",
+          "additions": 41,
+          "deletions": 0,
+          "changes": 41
+        },
+        {
+          "filename": "urban_nest/lib/keys.dart",
+          "status": "added",
+          "additions": 2,
+          "deletions": 0,
+          "changes": 2
+        },
+        {
+          "filename": "urban_nest/lib/main.dart",
+          "status": "added",
+          "additions": 66,
+          "deletions": 0,
+          "changes": 66
+        },
+        {
+          "filename": "urban_nest/lib/responsive_layout.dart",
+          "status": "added",
+          "additions": 39,
+          "deletions": 0,
+          "changes": 39
+        },
+        {
+          "filename": "urban_nest/lib/theme_notifier.dart",
+          "status": "added",
+          "additions": 65,
+          "deletions": 0,
+          "changes": 65
+        },
+        {
+          "filename": "urban_nest/linux/.gitignore",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "urban_nest/linux/CMakeLists.txt",
+          "status": "added",
+          "additions": 128,
+          "deletions": 0,
+          "changes": 128
+        },
+        {
+          "filename": "urban_nest/linux/flutter/CMakeLists.txt",
+          "status": "added",
+          "additions": 88,
+          "deletions": 0,
+          "changes": 88
+        },
+        {
+          "filename": "urban_nest/linux/flutter/generated_plugin_registrant.cc",
+          "status": "added",
+          "additions": 15,
+          "deletions": 0,
+          "changes": 15
+        },
+        {
+          "filename": "urban_nest/linux/flutter/generated_plugin_registrant.h",
+          "status": "added",
+          "additions": 15,
+          "deletions": 0,
+          "changes": 15
+        },
+        {
+          "filename": "urban_nest/linux/flutter/generated_plugins.cmake",
+          "status": "added",
+          "additions": 24,
+          "deletions": 0,
+          "changes": 24
+        },
+        {
+          "filename": "urban_nest/linux/runner/CMakeLists.txt",
+          "status": "added",
+          "additions": 26,
+          "deletions": 0,
+          "changes": 26
+        },
+        {
+          "filename": "urban_nest/linux/runner/main.cc",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        },
+        {
+          "filename": "urban_nest/linux/runner/my_application.cc",
+          "status": "added",
+          "additions": 130,
+          "deletions": 0,
+          "changes": 130
+        },
+        {
+          "filename": "urban_nest/linux/runner/my_application.h",
+          "status": "added",
+          "additions": 18,
+          "deletions": 0,
+          "changes": 18
+        },
+        {
+          "filename": "urban_nest/macos/.gitignore",
+          "status": "added",
+          "additions": 7,
+          "deletions": 0,
+          "changes": 7
+        },
+        {
+          "filename": "urban_nest/macos/Flutter/Flutter-Debug.xcconfig",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "urban_nest/macos/Flutter/Flutter-Release.xcconfig",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "urban_nest/macos/Flutter/GeneratedPluginRegistrant.swift",
+          "status": "added",
+          "additions": 22,
+          "deletions": 0,
+          "changes": 22
+        },
+        {
+          "filename": "urban_nest/macos/Runner.xcodeproj/project.pbxproj",
+          "status": "added",
+          "additions": 705,
+          "deletions": 0,
+          "changes": 705
+        },
+        {
+          "filename": "urban_nest/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "urban_nest/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme",
+          "status": "added",
+          "additions": 99,
+          "deletions": 0,
+          "changes": 99
+        },
+        {
+          "filename": "urban_nest/macos/Runner.xcworkspace/contents.xcworkspacedata",
+          "status": "added",
+          "additions": 7,
+          "deletions": 0,
+          "changes": 7
+        },
+        {
+          "filename": "urban_nest/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "urban_nest/macos/Runner/AppDelegate.swift",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "urban_nest/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json",
+          "status": "added",
+          "additions": 68,
+          "deletions": 0,
+          "changes": 68
+        },
+        {
+          "filename": "urban_nest/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/macos/Runner/Base.lproj/MainMenu.xib",
+          "status": "added",
+          "additions": 343,
+          "deletions": 0,
+          "changes": 343
+        },
+        {
+          "filename": "urban_nest/macos/Runner/Configs/AppInfo.xcconfig",
+          "status": "added",
+          "additions": 14,
+          "deletions": 0,
+          "changes": 14
+        },
+        {
+          "filename": "urban_nest/macos/Runner/Configs/Debug.xcconfig",
+          "status": "added",
+          "additions": 2,
+          "deletions": 0,
+          "changes": 2
+        },
+        {
+          "filename": "urban_nest/macos/Runner/Configs/Release.xcconfig",
+          "status": "added",
+          "additions": 2,
+          "deletions": 0,
+          "changes": 2
+        },
+        {
+          "filename": "urban_nest/macos/Runner/Configs/Warnings.xcconfig",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "urban_nest/macos/Runner/DebugProfile.entitlements",
+          "status": "added",
+          "additions": 12,
+          "deletions": 0,
+          "changes": 12
+        },
+        {
+          "filename": "urban_nest/macos/Runner/Info.plist",
+          "status": "added",
+          "additions": 32,
+          "deletions": 0,
+          "changes": 32
+        },
+        {
+          "filename": "urban_nest/macos/Runner/MainFlutterWindow.swift",
+          "status": "added",
+          "additions": 15,
+          "deletions": 0,
+          "changes": 15
+        },
+        {
+          "filename": "urban_nest/macos/Runner/Release.entitlements",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "urban_nest/macos/RunnerTests/RunnerTests.swift",
+          "status": "added",
+          "additions": 12,
+          "deletions": 0,
+          "changes": 12
+        },
+        {
+          "filename": "urban_nest/pubspec.lock",
+          "status": "added",
+          "additions": 938,
+          "deletions": 0,
+          "changes": 938
+        },
+        {
+          "filename": "urban_nest/pubspec.yaml",
+          "status": "added",
+          "additions": 117,
+          "deletions": 0,
+          "changes": 117
+        },
+        {
+          "filename": "urban_nest/test/widget_test.dart",
+          "status": "added",
+          "additions": 30,
+          "deletions": 0,
+          "changes": 30
+        },
+        {
+          "filename": "urban_nest/web/favicon.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/web/icons/Icon-192.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/web/icons/Icon-512.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/web/icons/Icon-maskable-192.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/web/icons/Icon-maskable-512.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/web/index.html",
+          "status": "added",
+          "additions": 38,
+          "deletions": 0,
+          "changes": 38
+        },
+        {
+          "filename": "urban_nest/web/manifest.json",
+          "status": "added",
+          "additions": 35,
+          "deletions": 0,
+          "changes": 35
+        },
+        {
+          "filename": "urban_nest/windows/.gitignore",
+          "status": "added",
+          "additions": 17,
+          "deletions": 0,
+          "changes": 17
+        },
+        {
+          "filename": "urban_nest/windows/CMakeLists.txt",
+          "status": "added",
+          "additions": 108,
+          "deletions": 0,
+          "changes": 108
+        },
+        {
+          "filename": "urban_nest/windows/flutter/CMakeLists.txt",
+          "status": "added",
+          "additions": 109,
+          "deletions": 0,
+          "changes": 109
+        },
+        {
+          "filename": "urban_nest/windows/flutter/generated_plugin_registrant.cc",
+          "status": "added",
+          "additions": 23,
+          "deletions": 0,
+          "changes": 23
+        },
+        {
+          "filename": "urban_nest/windows/flutter/generated_plugin_registrant.h",
+          "status": "added",
+          "additions": 15,
+          "deletions": 0,
+          "changes": 15
+        },
+        {
+          "filename": "urban_nest/windows/flutter/generated_plugins.cmake",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        },
+        {
+          "filename": "urban_nest/windows/runner/CMakeLists.txt",
+          "status": "added",
+          "additions": 40,
+          "deletions": 0,
+          "changes": 40
+        },
+        {
+          "filename": "urban_nest/windows/runner/Runner.rc",
+          "status": "added",
+          "additions": 121,
+          "deletions": 0,
+          "changes": 121
+        },
+        {
+          "filename": "urban_nest/windows/runner/flutter_window.cpp",
+          "status": "added",
+          "additions": 71,
+          "deletions": 0,
+          "changes": 71
+        },
+        {
+          "filename": "urban_nest/windows/runner/flutter_window.h",
+          "status": "added",
+          "additions": 33,
+          "deletions": 0,
+          "changes": 33
+        },
+        {
+          "filename": "urban_nest/windows/runner/main.cpp",
+          "status": "added",
+          "additions": 43,
+          "deletions": 0,
+          "changes": 43
+        },
+        {
+          "filename": "urban_nest/windows/runner/resource.h",
+          "status": "added",
+          "additions": 16,
+          "deletions": 0,
+          "changes": 16
+        },
+        {
+          "filename": "urban_nest/windows/runner/resources/app_icon.ico",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "urban_nest/windows/runner/runner.exe.manifest",
+          "status": "added",
+          "additions": 14,
+          "deletions": 0,
+          "changes": 14
+        },
+        {
+          "filename": "urban_nest/windows/runner/utils.cpp",
+          "status": "added",
+          "additions": 65,
+          "deletions": 0,
+          "changes": 65
+        },
+        {
+          "filename": "urban_nest/windows/runner/utils.h",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "urban_nest/windows/runner/win32_window.cpp",
+          "status": "added",
+          "additions": 288,
+          "deletions": 0,
+          "changes": 288
+        },
+        {
+          "filename": "urban_nest/windows/runner/win32_window.h",
+          "status": "added",
+          "additions": 102,
+          "deletions": 0,
+          "changes": 102
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "Coherence25_SacredScripts_WebApp",
+        "owner": "nishant-bhandigare",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp"
+      },
+      "commit": {
+        "sha": "ddb30f3fb3c13c3682fd6698b4fe879a25d8014a",
+        "message": "cleared file",
+        "date": "2025-03-29T02:11:25+00:00",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp/commit/ddb30f3fb3c13c3682fd6698b4fe879a25d8014a",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Nishant Bhandigare",
+        "username": "nishant-bhandigare",
+        "email": "nishantbhandigare@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 3800,
+        "total_changes": 3800,
+        "files_changed": 13
+      },
+      "file_changes": [
+        {
+          "filename": ".flutter-plugins",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 41,
+          "changes": 41
+        },
+        {
+          "filename": ".flutter-plugins-dependencies",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        },
+        {
+          "filename": ".gitignore",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 45,
+          "changes": 45
+        },
+        {
+          "filename": ".metadata",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 45,
+          "changes": 45
+        },
+        {
+          "filename": "Airquality_index.csv",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 2188,
+          "changes": 2188
+        },
+        {
+          "filename": "City_Assist.py",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 185,
+          "changes": 185
+        },
+        {
+          "filename": "README.md",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 16,
+          "changes": 16
+        },
+        {
+          "filename": "air_quality_model.pkl",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "analysis_options.yaml",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 28,
+          "changes": 28
+        },
+        {
+          "filename": "main.py",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 39,
+          "changes": 39
+        },
+        {
+          "filename": "pubspec.lock",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 938,
+          "changes": 938
+        },
+        {
+          "filename": "pubspec.yaml",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 117,
+          "changes": 117
+        },
+        {
+          "filename": "streamlit_run.py",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 157,
+          "changes": 157
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "Coherence25_SacredScripts_WebApp",
+        "owner": "nishant-bhandigare",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp"
+      },
+      "commit": {
+        "sha": "afe80371f3f4af7ae43345f34ef6ed78d540c64d",
+        "message": "Delete files",
+        "date": "2025-03-29T02:08:28+00:00",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp/commit/afe80371f3f4af7ae43345f34ef6ed78d540c64d",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Nishant Bhandigare",
+        "username": "nishant-bhandigare",
+        "email": "144151892+nishant-bhandigare@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 18,
+        "total_changes": 18,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "urban_nest.iml",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 18,
+          "changes": 18
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "Coherence25_SacredScripts_WebApp",
+        "owner": "nishant-bhandigare",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp"
+      },
+      "commit": {
+        "sha": "526d0477b0c4ed7189012ea806f59009f9e27564",
+        "message": "Add files via upload",
+        "date": "2025-03-29T02:04:25+00:00",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp/commit/526d0477b0c4ed7189012ea806f59009f9e27564",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Nishant Bhandigare",
+        "username": "nishant-bhandigare",
+        "email": "144151892+nishant-bhandigare@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1249,
+        "total_deletions": 0,
+        "total_changes": 1249,
+        "files_changed": 9
+      },
+      "file_changes": [
+        {
+          "filename": ".flutter-plugins",
+          "status": "added",
+          "additions": 41,
+          "deletions": 0,
+          "changes": 41
+        },
+        {
+          "filename": ".flutter-plugins-dependencies",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": ".gitignore",
+          "status": "added",
+          "additions": 45,
+          "deletions": 0,
+          "changes": 45
+        },
+        {
+          "filename": ".metadata",
+          "status": "added",
+          "additions": 45,
+          "deletions": 0,
+          "changes": 45
+        },
+        {
+          "filename": "README.md",
+          "status": "added",
+          "additions": 16,
+          "deletions": 0,
+          "changes": 16
+        },
+        {
+          "filename": "analysis_options.yaml",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        },
+        {
+          "filename": "pubspec.lock",
+          "status": "added",
+          "additions": 938,
+          "deletions": 0,
+          "changes": 938
+        },
+        {
+          "filename": "pubspec.yaml",
+          "status": "added",
+          "additions": 117,
+          "deletions": 0,
+          "changes": 117
+        },
+        {
+          "filename": "urban_nest.iml",
+          "status": "added",
+          "additions": 18,
+          "deletions": 0,
+          "changes": 18
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "Coherence25_SacredScripts_WebApp",
+        "owner": "nishant-bhandigare",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp"
+      },
+      "commit": {
+        "sha": "11d9d5e2b255cfb776b139cb7586d5d18958d7f8",
+        "message": "Add files via upload",
+        "date": "2025-03-28T18:56:54+00:00",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp/commit/11d9d5e2b255cfb776b139cb7586d5d18958d7f8",
+        "branch": "main"
+      },
+      "author": {
+        "name": "karan hareshwar sankhe",
+        "username": "Karansankhe",
+        "email": "98593148+Karansankhe@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 185,
+        "total_deletions": 0,
+        "total_changes": 185,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "City_Assist.py",
+          "status": "added",
+          "additions": 185,
+          "deletions": 0,
+          "changes": 185
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "Coherence25_SacredScripts_WebApp",
+        "owner": "nishant-bhandigare",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp"
+      },
+      "commit": {
+        "sha": "1a65a6381f14239e74bafc6e73ccbc2b336394d4",
+        "message": "Add files via upload",
+        "date": "2025-03-28T11:04:22+00:00",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp/commit/1a65a6381f14239e74bafc6e73ccbc2b336394d4",
+        "branch": "main"
+      },
+      "author": {
+        "name": "karan hareshwar sankhe",
+        "username": "Karansankhe",
+        "email": "98593148+Karansankhe@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 0,
+        "total_changes": 0,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "air_quality_model.pkl",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "Coherence25_SacredScripts_WebApp",
+        "owner": "nishant-bhandigare",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp"
+      },
+      "commit": {
+        "sha": "372bed57bddd69d532f12029a3e2ed570afa5195",
+        "message": "Add files via upload",
+        "date": "2025-03-28T11:02:59+00:00",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp/commit/372bed57bddd69d532f12029a3e2ed570afa5195",
+        "branch": "main"
+      },
+      "author": {
+        "name": "karan hareshwar sankhe",
+        "username": "Karansankhe",
+        "email": "98593148+Karansankhe@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 2188,
+        "total_deletions": 0,
+        "total_changes": 2188,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "Airquality_index.csv",
+          "status": "added",
+          "additions": 2188,
+          "deletions": 0,
+          "changes": 2188
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "Coherence25_SacredScripts_WebApp",
+        "owner": "nishant-bhandigare",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp"
+      },
+      "commit": {
+        "sha": "73e54aa1b600dc96dc8587b04e764c524e373ce7",
+        "message": "Create main.py",
+        "date": "2025-03-28T11:02:19+00:00",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp/commit/73e54aa1b600dc96dc8587b04e764c524e373ce7",
+        "branch": "main"
+      },
+      "author": {
+        "name": "karan hareshwar sankhe",
+        "username": "Karansankhe",
+        "email": "98593148+Karansankhe@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 39,
+        "total_deletions": 0,
+        "total_changes": 39,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "main.py",
+          "status": "added",
+          "additions": 39,
+          "deletions": 0,
+          "changes": 39
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "Coherence25_SacredScripts_WebApp",
+        "owner": "nishant-bhandigare",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp"
+      },
+      "commit": {
+        "sha": "22ca3511114c7969b73c81ed29c2744d3dea440b",
+        "message": "Create streamlit_run.py",
+        "date": "2025-03-28T11:01:40+00:00",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp/commit/22ca3511114c7969b73c81ed29c2744d3dea440b",
+        "branch": "main"
+      },
+      "author": {
+        "name": "karan hareshwar sankhe",
+        "username": "Karansankhe",
+        "email": "98593148+Karansankhe@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 157,
+        "total_deletions": 0,
+        "total_changes": 157,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "streamlit_run.py",
+          "status": "added",
+          "additions": 157,
+          "deletions": 0,
+          "changes": 157
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "Coherence25_SacredScripts_WebApp",
+        "owner": "nishant-bhandigare",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp"
+      },
+      "commit": {
+        "sha": "468d0f17cddf0c0b73c09a049527fcd6dc28e197",
+        "message": "Delete streamlit_run.py",
+        "date": "2025-03-28T11:00:49+00:00",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp/commit/468d0f17cddf0c0b73c09a049527fcd6dc28e197",
+        "branch": "main"
+      },
+      "author": {
+        "name": "karan hareshwar sankhe",
+        "username": "Karansankhe",
+        "email": "98593148+Karansankhe@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 157,
+        "total_changes": 157,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "streamlit_run.py",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 157,
+          "changes": 157
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "Coherence25_SacredScripts_WebApp",
+        "owner": "nishant-bhandigare",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp"
+      },
+      "commit": {
+        "sha": "5af351830d1f81a0c63ef2247128ec4b97fb3c10",
+        "message": "Delete .gitignore",
+        "date": "2025-03-28T11:00:38+00:00",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp/commit/5af351830d1f81a0c63ef2247128ec4b97fb3c10",
+        "branch": "main"
+      },
+      "author": {
+        "name": "karan hareshwar sankhe",
+        "username": "Karansankhe",
+        "email": "98593148+Karansankhe@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 1,
+        "total_changes": 1,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": ".gitignore",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "Coherence25_SacredScripts_WebApp",
+        "owner": "nishant-bhandigare",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp"
+      },
+      "commit": {
+        "sha": "5d8ee83a32e8a63ed9e31254569ce7f5e3e0ac2f",
+        "message": "Delete main.py",
+        "date": "2025-03-28T11:00:28+00:00",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp/commit/5d8ee83a32e8a63ed9e31254569ce7f5e3e0ac2f",
+        "branch": "main"
+      },
+      "author": {
+        "name": "karan hareshwar sankhe",
+        "username": "Karansankhe",
+        "email": "98593148+Karansankhe@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 39,
+        "total_changes": 39,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "main.py",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 39,
+          "changes": 39
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "Coherence25_SacredScripts_WebApp",
+        "owner": "nishant-bhandigare",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp"
+      },
+      "commit": {
+        "sha": "95e3a9198d1636dac000b382adb30ed0d3f78891",
+        "message": "Delete air_quality_model.pkl",
+        "date": "2025-03-28T11:00:18+00:00",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp/commit/95e3a9198d1636dac000b382adb30ed0d3f78891",
+        "branch": "main"
+      },
+      "author": {
+        "name": "karan hareshwar sankhe",
+        "username": "Karansankhe",
+        "email": "98593148+Karansankhe@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 0,
+        "total_changes": 0,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "air_quality_model.pkl",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "Coherence25_SacredScripts_WebApp",
+        "owner": "nishant-bhandigare",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp"
+      },
+      "commit": {
+        "sha": "d6a533c03470742b63db41182722cdd7dab1bec3",
+        "message": "Delete Airquality_index.csv",
+        "date": "2025-03-28T11:00:05+00:00",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp/commit/d6a533c03470742b63db41182722cdd7dab1bec3",
+        "branch": "main"
+      },
+      "author": {
+        "name": "karan hareshwar sankhe",
+        "username": "Karansankhe",
+        "email": "98593148+Karansankhe@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 2188,
+        "total_changes": 2188,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "Airquality_index.csv",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 2188,
+          "changes": 2188
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "Coherence25_SacredScripts_WebApp",
+        "owner": "nishant-bhandigare",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp"
+      },
+      "commit": {
+        "sha": "7920f9b69ef46faf2ab87db158a4e94c5006c4f7",
+        "message": "Delete AQI_ExtraTreesRegressor.ipynb",
+        "date": "2025-03-28T10:59:37+00:00",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp/commit/7920f9b69ef46faf2ab87db158a4e94c5006c4f7",
+        "branch": "main"
+      },
+      "author": {
+        "name": "karan hareshwar sankhe",
+        "username": "Karansankhe",
+        "email": "98593148+Karansankhe@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 2158,
+        "total_changes": 2158,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "AQI_ExtraTreesRegressor.ipynb",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 2158,
+          "changes": 2158
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "Coherence25_SacredScripts_WebApp",
+        "owner": "nishant-bhandigare",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp"
+      },
+      "commit": {
+        "sha": "1dcfe3eb417372db74081e6c13034be3bc790130",
+        "message": "Aqi",
+        "date": "2025-03-28T10:51:06+00:00",
+        "url": "https://github.com/nishant-bhandigare/Coherence25_SacredScripts_WebApp/commit/1dcfe3eb417372db74081e6c13034be3bc790130",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Karan Sankhe",
+        "username": "Karan-scogo",
+        "email": "karan.sankhe@scogo.in",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 4543,
+        "total_deletions": 0,
+        "total_changes": 4543,
+        "files_changed": 6
+      },
+      "file_changes": [
+        {
+          "filename": ".gitignore",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "AQI_ExtraTreesRegressor.ipynb",
+          "status": "added",
+          "additions": 2158,
+          "deletions": 0,
+          "changes": 2158
+        },
+        {
+          "filename": "Airquality_index.csv",
+          "status": "added",
+          "additions": 2188,
+          "deletions": 0,
+          "changes": 2188
+        },
+        {
+          "filename": "air_quality_model.pkl",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "main.py",
+          "status": "added",
+          "additions": 39,
+          "deletions": 0,
+          "changes": 39
+        },
+        {
+          "filename": "streamlit_run.py",
+          "status": "added",
+          "additions": 157,
+          "deletions": 0,
+          "changes": 157
+        }
+      ]
+    }
+  ],
+  "total_commits": 16,
+  "metadata": {
+    "collection_date": "2026-01-31T21:20:25.165358",
+    "total_repositories": 1,
+    "total_commits_collected": 16,
+    "repositories_processed": [
+      "nishant-bhandigare/Coherence25_SacredScripts_WebApp"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  }
+}

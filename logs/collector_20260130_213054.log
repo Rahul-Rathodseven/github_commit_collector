@@ -1,0 +1,29 @@
+2026-01-30 21:30:54 - root - INFO - Logging to file: logs/collector_20260130_213054.log
+2026-01-30 21:30:54 - root - INFO - Logging configured with level: DEBUG
+2026-01-30 21:30:54 - __main__ - INFO - ================================================================================
+2026-01-30 21:30:54 - __main__ - INFO - GitHub Commit Data Collector Starting
+2026-01-30 21:30:54 - __main__ - INFO - ================================================================================
+2026-01-30 21:30:54 - config_manager - INFO - Loaded environment variables from .env
+2026-01-30 21:30:54 - config_manager - INFO - Loaded configuration from config/repositories.yaml
+2026-01-30 21:30:54 - github_client - INFO - GitHub API client initialized
+2026-01-30 21:30:54 - config_manager - INFO - Loaded configuration from config/teams.yaml
+2026-01-30 21:30:54 - team_mapper - INFO - Team mapper initialized with 10 user mappings
+2026-01-30 21:30:54 - commit_processor - INFO - Commit processor initialized
+2026-01-30 21:30:54 - data_collector - INFO - Data collector initialized
+2026-01-30 21:30:54 - config_manager - INFO - Loaded configuration from config/repositories.yaml
+2026-01-30 21:30:54 - __main__ - INFO - Collecting commits from 1 repository(ies)
+2026-01-30 21:30:54 - __main__ - INFO - Active filters: {'date_from': None, 'date_to': None, 'authors': [], 'teams': []}
+2026-01-30 21:30:54 - data_collector - INFO - Collecting commits from octocat/Hello-World (branch: main)
+2026-01-30 21:30:54 - github_client - INFO - Fetching repository info: octocat/Hello-World
+2026-01-30 21:30:55 - github_client - DEBUG - Rate limit: 4995 requests remaining
+2026-01-30 21:30:55 - github_client - INFO - Fetching commits from octocat/Hello-World (branch: main)
+2026-01-30 21:30:56 - github_client - DEBUG - Rate limit: 4994 requests remaining
+2026-01-30 21:30:56 - github_client - ERROR - HTTP error for https://api.github.com/repos/octocat/Hello-World/commits: 404 Client Error: Not Found for url: https://api.github.com/repos/octocat/Hello-World/commits?sha=main&per_page=100&page=1
+2026-01-30 21:30:58 - github_client - DEBUG - Rate limit: 4993 requests remaining
+2026-01-30 21:30:59 - github_client - ERROR - HTTP error for https://api.github.com/repos/octocat/Hello-World/commits: 404 Client Error: Not Found for url: https://api.github.com/repos/octocat/Hello-World/commits?sha=main&per_page=100&page=1
+2026-01-30 21:31:01 - github_client - DEBUG - Rate limit: 4992 requests remaining
+2026-01-30 21:31:01 - github_client - ERROR - HTTP error for https://api.github.com/repos/octocat/Hello-World/commits: 404 Client Error: Not Found for url: https://api.github.com/repos/octocat/Hello-World/commits?sha=main&per_page=100&page=1
+2026-01-30 21:31:01 - data_collector - ERROR - Error collecting commits from https://github.com/octocat/Hello-World: RetryError[<Future at 0x102a30f10 state=finished raised HTTPError>]
+2026-01-30 21:31:01 - data_collector - ERROR - Failed to collect from repository https://github.com/octocat/Hello-World: RetryError[<Future at 0x102a30f10 state=finished raised HTTPError>]
+2026-01-30 21:31:01 - data_collector - INFO - Collected total of 0 commits from 1 repositories
+2026-01-30 21:31:01 - __main__ - WARNING - No commits collected!

@@ -1,0 +1,502 @@
+{
+  "commits": [
+    {
+      "repository": {
+        "name": "COHERENCE-25_Dot_Sol_BlockChain",
+        "owner": "OMKAR2810P",
+        "url": "https://github.com/OMKAR2810P/COHERENCE-25_Dot_Sol_BlockChain"
+      },
+      "commit": {
+        "sha": "afdf51fb28291556123dee83459886bf67a19779",
+        "message": "wallet connected",
+        "date": "2025-03-28T12:03:52+00:00",
+        "url": "https://github.com/OMKAR2810P/COHERENCE-25_Dot_Sol_BlockChain/commit/afdf51fb28291556123dee83459886bf67a19779",
+        "branch": "main"
+      },
+      "author": {
+        "name": "IMxSPYDER",
+        "username": "IMxSPYDER",
+        "email": "hostingpurposee@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 250,
+        "total_deletions": 102,
+        "total_changes": 352,
+        "files_changed": 5
+      },
+      "file_changes": [
+        {
+          "filename": "src/App.jsx",
+          "status": "modified",
+          "additions": 77,
+          "deletions": 2,
+          "changes": 79
+        },
+        {
+          "filename": "src/app.css",
+          "status": "added",
+          "additions": 73,
+          "deletions": 0,
+          "changes": 73
+        },
+        {
+          "filename": "src/components/Navbar.jsx",
+          "status": "modified",
+          "additions": 96,
+          "deletions": 26,
+          "changes": 122
+        },
+        {
+          "filename": "src/index.css",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 73,
+          "changes": 73
+        },
+        {
+          "filename": "src/main.jsx",
+          "status": "modified",
+          "additions": 4,
+          "deletions": 1,
+          "changes": 5
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Dot_Sol_BlockChain",
+        "owner": "OMKAR2810P",
+        "url": "https://github.com/OMKAR2810P/COHERENCE-25_Dot_Sol_BlockChain"
+      },
+      "commit": {
+        "sha": "a7dc6c9e6639536e313b4743270405fc378055f6",
+        "message": "Merge branch 'main' of https://github.com/IMxSPYDER/Dot_Sol__TruChain",
+        "date": "2025-03-28T11:08:26+00:00",
+        "url": "https://github.com/OMKAR2810P/COHERENCE-25_Dot_Sol_BlockChain/commit/a7dc6c9e6639536e313b4743270405fc378055f6",
+        "branch": "main"
+      },
+      "author": {
+        "name": "IMxSPYDER",
+        "username": "IMxSPYDER",
+        "email": "hostingpurposee@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 324,
+        "total_deletions": 2,
+        "total_changes": 326,
+        "files_changed": 11
+      },
+      "file_changes": [
+        {
+          "filename": "src/App.css",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        },
+        {
+          "filename": "src/Home.jsx",
+          "status": "modified",
+          "additions": 39,
+          "deletions": 0,
+          "changes": 39
+        },
+        {
+          "filename": "src/assets/landing.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "src/assets/logo.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "src/components/BenefitCard.jsx",
+          "status": "added",
+          "additions": 46,
+          "deletions": 0,
+          "changes": 46
+        },
+        {
+          "filename": "src/components/Button.jsx",
+          "status": "added",
+          "additions": 14,
+          "deletions": 0,
+          "changes": 14
+        },
+        {
+          "filename": "src/components/Footer.jsx",
+          "status": "added",
+          "additions": 55,
+          "deletions": 0,
+          "changes": 55
+        },
+        {
+          "filename": "src/components/Landing.jsx",
+          "status": "added",
+          "additions": 34,
+          "deletions": 0,
+          "changes": 34
+        },
+        {
+          "filename": "src/components/Navbar.jsx",
+          "status": "added",
+          "additions": 31,
+          "deletions": 0,
+          "changes": 31
+        },
+        {
+          "filename": "src/components/TeamMember.jsx",
+          "status": "added",
+          "additions": 31,
+          "deletions": 0,
+          "changes": 31
+        },
+        {
+          "filename": "src/index.css",
+          "status": "modified",
+          "additions": 74,
+          "deletions": 1,
+          "changes": 75
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Dot_Sol_BlockChain",
+        "owner": "OMKAR2810P",
+        "url": "https://github.com/OMKAR2810P/COHERENCE-25_Dot_Sol_BlockChain"
+      },
+      "commit": {
+        "sha": "871da33fba33b41393727f75c5777188f473a4ba",
+        "message": "4.38",
+        "date": "2025-03-28T11:08:21+00:00",
+        "url": "https://github.com/OMKAR2810P/COHERENCE-25_Dot_Sol_BlockChain/commit/871da33fba33b41393727f75c5777188f473a4ba",
+        "branch": "main"
+      },
+      "author": {
+        "name": "IMxSPYDER",
+        "username": "IMxSPYDER",
+        "email": "hostingpurposee@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1524,
+        "total_deletions": 83,
+        "total_changes": 1607,
+        "files_changed": 6
+      },
+      "file_changes": [
+        {
+          "filename": "package-lock.json",
+          "status": "modified",
+          "additions": 1013,
+          "deletions": 1,
+          "changes": 1014
+        },
+        {
+          "filename": "package.json",
+          "status": "modified",
+          "additions": 4,
+          "deletions": 1,
+          "changes": 5
+        },
+        {
+          "filename": "src/App.jsx",
+          "status": "modified",
+          "additions": 17,
+          "deletions": 30,
+          "changes": 47
+        },
+        {
+          "filename": "src/main.jsx",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 2,
+          "changes": 4
+        },
+        {
+          "filename": "src/web3/DecentralizedIdentity.sol",
+          "status": "added",
+          "additions": 145,
+          "deletions": 0,
+          "changes": 145
+        },
+        {
+          "filename": "src/web3/abi.json",
+          "status": "modified",
+          "additions": 343,
+          "deletions": 49,
+          "changes": 392
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Dot_Sol_BlockChain",
+        "owner": "OMKAR2810P",
+        "url": "https://github.com/OMKAR2810P/COHERENCE-25_Dot_Sol_BlockChain"
+      },
+      "commit": {
+        "sha": "a659a2d045a86082e9b91733a854dd994e69f1de",
+        "message": "navbar and landing done",
+        "date": "2025-03-28T11:02:08+00:00",
+        "url": "https://github.com/OMKAR2810P/COHERENCE-25_Dot_Sol_BlockChain/commit/a659a2d045a86082e9b91733a854dd994e69f1de",
+        "branch": "main"
+      },
+      "author": {
+        "name": "prathamm2506",
+        "username": "prathamm2506",
+        "email": "fs20if005@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 341,
+        "total_deletions": 32,
+        "total_changes": 373,
+        "files_changed": 12
+      },
+      "file_changes": [
+        {
+          "filename": "src/App.css",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        },
+        {
+          "filename": "src/App.jsx",
+          "status": "modified",
+          "additions": 17,
+          "deletions": 30,
+          "changes": 47
+        },
+        {
+          "filename": "src/Home.jsx",
+          "status": "modified",
+          "additions": 39,
+          "deletions": 0,
+          "changes": 39
+        },
+        {
+          "filename": "src/assets/landing.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "src/assets/logo.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "src/components/BenefitCard.jsx",
+          "status": "added",
+          "additions": 46,
+          "deletions": 0,
+          "changes": 46
+        },
+        {
+          "filename": "src/components/Button.jsx",
+          "status": "added",
+          "additions": 14,
+          "deletions": 0,
+          "changes": 14
+        },
+        {
+          "filename": "src/components/Footer.jsx",
+          "status": "added",
+          "additions": 55,
+          "deletions": 0,
+          "changes": 55
+        },
+        {
+          "filename": "src/components/Landing.jsx",
+          "status": "added",
+          "additions": 34,
+          "deletions": 0,
+          "changes": 34
+        },
+        {
+          "filename": "src/components/Navbar.jsx",
+          "status": "added",
+          "additions": 31,
+          "deletions": 0,
+          "changes": 31
+        },
+        {
+          "filename": "src/components/TeamMember.jsx",
+          "status": "added",
+          "additions": 31,
+          "deletions": 0,
+          "changes": 31
+        },
+        {
+          "filename": "src/index.css",
+          "status": "modified",
+          "additions": 74,
+          "deletions": 1,
+          "changes": 75
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Dot_Sol_BlockChain",
+        "owner": "OMKAR2810P",
+        "url": "https://github.com/OMKAR2810P/COHERENCE-25_Dot_Sol_BlockChain"
+      },
+      "commit": {
+        "sha": "d9538f85a491280d94fab029bdbf56d35026c9ed",
+        "message": "2.33",
+        "date": "2025-03-28T09:03:37+00:00",
+        "url": "https://github.com/OMKAR2810P/COHERENCE-25_Dot_Sol_BlockChain/commit/d9538f85a491280d94fab029bdbf56d35026c9ed",
+        "branch": "main"
+      },
+      "author": {
+        "name": "IMxSPYDER",
+        "username": "IMxSPYDER",
+        "email": "hostingpurposee@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 3507,
+        "total_deletions": 0,
+        "total_changes": 3507,
+        "files_changed": 15
+      },
+      "file_changes": [
+        {
+          "filename": ".gitignore",
+          "status": "added",
+          "additions": 24,
+          "deletions": 0,
+          "changes": 24
+        },
+        {
+          "filename": "README.md",
+          "status": "added",
+          "additions": 12,
+          "deletions": 0,
+          "changes": 12
+        },
+        {
+          "filename": "eslint.config.js",
+          "status": "added",
+          "additions": 33,
+          "deletions": 0,
+          "changes": 33
+        },
+        {
+          "filename": "index.html",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "package-lock.json",
+          "status": "added",
+          "additions": 3136,
+          "deletions": 0,
+          "changes": 3136
+        },
+        {
+          "filename": "package.json",
+          "status": "added",
+          "additions": 32,
+          "deletions": 0,
+          "changes": 32
+        },
+        {
+          "filename": "public/vite.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "src/App.css",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "src/App.jsx",
+          "status": "added",
+          "additions": 35,
+          "deletions": 0,
+          "changes": 35
+        },
+        {
+          "filename": "src/Home.jsx",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "src/assets/react.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "src/index.css",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "src/main.jsx",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "src/web3/abi.json",
+          "status": "added",
+          "additions": 194,
+          "deletions": 0,
+          "changes": 194
+        },
+        {
+          "filename": "vite.config.js",
+          "status": "added",
+          "additions": 11,
+          "deletions": 0,
+          "changes": 11
+        }
+      ]
+    }
+  ],
+  "total_commits": 5,
+  "metadata": {
+    "collection_date": "2026-01-31T21:25:46.601349",
+    "total_repositories": 1,
+    "total_commits_collected": 5,
+    "repositories_processed": [
+      "OMKAR2810P/COHERENCE-25_Dot_Sol_BlockChain"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  }
+}

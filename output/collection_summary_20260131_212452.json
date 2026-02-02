@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "collection_date": "2026-01-31T21:24:52.839119",
+    "total_repositories": 1,
+    "total_commits_collected": 3,
+    "repositories_processed": [
+      "Sohamore/COHERENCE-25_OGCoders_Web-App"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  },
+  "overall_statistics": {
+    "total_commits": 3,
+    "unique_authors": 1,
+    "unique_teams": 1,
+    "total_additions": 1988,
+    "total_deletions": 311,
+    "total_files_changed": 15
+  },
+  "repository_statistics": [
+    {
+      "repository": "Sohamore/COHERENCE-25_OGCoders_Web-App",
+      "total_commits": 3,
+      "total_additions": 1988,
+      "total_deletions": 311,
+      "total_files_changed": 15,
+      "unique_authors": 1,
+      "date_range": {
+        "start": "2025-03-28T11:10:44+00:00",
+        "end": "2025-03-31T09:35:36+00:00"
+      },
+      "teams_involved": [
+        "unassigned"
+      ]
+    }
+  ]
+}

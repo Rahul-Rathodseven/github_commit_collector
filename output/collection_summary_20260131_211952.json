@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "collection_date": "2026-01-31T21:19:52.865226",
+    "total_repositories": 1,
+    "total_commits_collected": 14,
+    "repositories_processed": [
+      "Satya481/COHERENCES25_Strom-Breaker_Web-App"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  },
+  "overall_statistics": {
+    "total_commits": 14,
+    "unique_authors": 3,
+    "unique_teams": 1,
+    "total_additions": 34667,
+    "total_deletions": 3278,
+    "total_files_changed": 139
+  },
+  "repository_statistics": [
+    {
+      "repository": "Satya481/COHERENCES25_Strom-Breaker_Web-App",
+      "total_commits": 14,
+      "total_additions": 34667,
+      "total_deletions": 3278,
+      "total_files_changed": 139,
+      "unique_authors": 3,
+      "date_range": {
+        "start": "2025-03-28T10:47:21+00:00",
+        "end": "2025-03-29T08:07:58+00:00"
+      },
+      "teams_involved": [
+        "unassigned"
+      ]
+    }
+  ]
+}

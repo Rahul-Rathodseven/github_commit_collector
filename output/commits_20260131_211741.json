@@ -1,0 +1,2539 @@
+{
+  "commits": [
+    {
+      "repository": {
+        "name": "COHERENCE-25_ORPS_WebApp",
+        "owner": "omsingh10",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp"
+      },
+      "commit": {
+        "sha": "27b63a4b922b3b523e350f2215bded6c62cae9d8",
+        "message": "Update README.md",
+        "date": "2025-04-01T17:09:55+00:00",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp/commit/27b63a4b922b3b523e350f2215bded6c62cae9d8",
+        "branch": "master"
+      },
+      "author": {
+        "name": "Om singh(shiv)",
+        "username": "omsingh10",
+        "email": "114778480+omsingh10@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 4,
+        "total_deletions": 1,
+        "total_changes": 5,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "modified",
+          "additions": 4,
+          "deletions": 1,
+          "changes": 5
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_ORPS_WebApp",
+        "owner": "omsingh10",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp"
+      },
+      "commit": {
+        "sha": "791a10cb935d389ae76cb6c402aea3ca5a2428fe",
+        "message": "Merge branch 'master' of https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp",
+        "date": "2025-03-30T04:46:49+00:00",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp/commit/791a10cb935d389ae76cb6c402aea3ca5a2428fe",
+        "branch": "master"
+      },
+      "author": {
+        "name": "omsingh10",
+        "username": "omsingh10",
+        "email": "os0106897@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 3,
+        "total_deletions": 1,
+        "total_changes": 4,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "smart-city-dashboard/components/CitySearch.tsx",
+          "status": "modified",
+          "additions": 3,
+          "deletions": 1,
+          "changes": 4
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_ORPS_WebApp",
+        "owner": "omsingh10",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp"
+      },
+      "commit": {
+        "sha": "e4f2f484d954313b233fec8a461887697ff2aa37",
+        "message": "lala",
+        "date": "2025-03-30T04:46:40+00:00",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp/commit/e4f2f484d954313b233fec8a461887697ff2aa37",
+        "branch": "master"
+      },
+      "author": {
+        "name": "omsingh10",
+        "username": "omsingh10",
+        "email": "os0106897@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 261,
+        "total_deletions": 2,
+        "total_changes": 263,
+        "files_changed": 2
+      },
+      "file_changes": [
+        {
+          "filename": "package-lock.json",
+          "status": "modified",
+          "additions": 259,
+          "deletions": 1,
+          "changes": 260
+        },
+        {
+          "filename": "package.json",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 1,
+          "changes": 3
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_ORPS_WebApp",
+        "owner": "omsingh10",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp"
+      },
+      "commit": {
+        "sha": "3a623c8a3aecbb40b1e9a07c0f21cd32c643893d",
+        "message": "issue",
+        "date": "2025-03-30T03:55:13+00:00",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp/commit/3a623c8a3aecbb40b1e9a07c0f21cd32c643893d",
+        "branch": "master"
+      },
+      "author": {
+        "name": "Om singh(shiv)",
+        "username": "omsingh10",
+        "email": "114778480+omsingh10@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 3,
+        "total_deletions": 1,
+        "total_changes": 4,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "smart-city-dashboard/components/CitySearch.tsx",
+          "status": "modified",
+          "additions": 3,
+          "deletions": 1,
+          "changes": 4
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_ORPS_WebApp",
+        "owner": "omsingh10",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp"
+      },
+      "commit": {
+        "sha": "12e58c64467ccb6f329b095e063924306274340d",
+        "message": "Merged remote repository with local changes",
+        "date": "2025-03-29T05:48:05+00:00",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp/commit/12e58c64467ccb6f329b095e063924306274340d",
+        "branch": "master"
+      },
+      "author": {
+        "name": "omsingh10",
+        "username": "omsingh10",
+        "email": "os0106897@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 41900,
+        "total_deletions": 0,
+        "total_changes": 41900,
+        "files_changed": 99
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "added",
+          "additions": 143,
+          "deletions": 0,
+          "changes": 143
+        },
+        {
+          "filename": "backend/.env",
+          "status": "added",
+          "additions": 4,
+          "deletions": 0,
+          "changes": 4
+        },
+        {
+          "filename": "backend/.env.example",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "backend/.gitignore",
+          "status": "added",
+          "additions": 32,
+          "deletions": 0,
+          "changes": 32
+        },
+        {
+          "filename": "backend/package-lock.json",
+          "status": "added",
+          "additions": 2204,
+          "deletions": 0,
+          "changes": 2204
+        },
+        {
+          "filename": "backend/package.json",
+          "status": "added",
+          "additions": 35,
+          "deletions": 0,
+          "changes": 35
+        },
+        {
+          "filename": "backend/src/middleware/auth.ts",
+          "status": "added",
+          "additions": 48,
+          "deletions": 0,
+          "changes": 48
+        },
+        {
+          "filename": "backend/src/models/SensorData.ts",
+          "status": "added",
+          "additions": 90,
+          "deletions": 0,
+          "changes": 90
+        },
+        {
+          "filename": "backend/src/models/User.ts",
+          "status": "added",
+          "additions": 119,
+          "deletions": 0,
+          "changes": 119
+        },
+        {
+          "filename": "backend/src/routes/admin.ts",
+          "status": "added",
+          "additions": 155,
+          "deletions": 0,
+          "changes": 155
+        },
+        {
+          "filename": "backend/src/routes/alerts.ts",
+          "status": "added",
+          "additions": 185,
+          "deletions": 0,
+          "changes": 185
+        },
+        {
+          "filename": "backend/src/routes/auth.ts",
+          "status": "added",
+          "additions": 196,
+          "deletions": 0,
+          "changes": 196
+        },
+        {
+          "filename": "backend/src/routes/sensors.ts",
+          "status": "added",
+          "additions": 89,
+          "deletions": 0,
+          "changes": 89
+        },
+        {
+          "filename": "backend/src/scripts/setup.ts",
+          "status": "added",
+          "additions": 165,
+          "deletions": 0,
+          "changes": 165
+        },
+        {
+          "filename": "backend/src/server.ts",
+          "status": "added",
+          "additions": 76,
+          "deletions": 0,
+          "changes": 76
+        },
+        {
+          "filename": "backend/tsconfig.json",
+          "status": "added",
+          "additions": 20,
+          "deletions": 0,
+          "changes": 20
+        },
+        {
+          "filename": "components/AlertSystem.tsx",
+          "status": "added",
+          "additions": 211,
+          "deletions": 0,
+          "changes": 211
+        },
+        {
+          "filename": "components/Dashboard.tsx",
+          "status": "added",
+          "additions": 166,
+          "deletions": 0,
+          "changes": 166
+        },
+        {
+          "filename": "components/DataChart.tsx",
+          "status": "added",
+          "additions": 132,
+          "deletions": 0,
+          "changes": 132
+        },
+        {
+          "filename": "components/Header.tsx",
+          "status": "added",
+          "additions": 57,
+          "deletions": 0,
+          "changes": 57
+        },
+        {
+          "filename": "components/Map.tsx",
+          "status": "added",
+          "additions": 308,
+          "deletions": 0,
+          "changes": 308
+        },
+        {
+          "filename": "components/MapView.tsx",
+          "status": "added",
+          "additions": 14,
+          "deletions": 0,
+          "changes": 14
+        },
+        {
+          "filename": "components/ReportForm.tsx",
+          "status": "added",
+          "additions": 220,
+          "deletions": 0,
+          "changes": 220
+        },
+        {
+          "filename": "components/Sidebar.tsx",
+          "status": "added",
+          "additions": 117,
+          "deletions": 0,
+          "changes": 117
+        },
+        {
+          "filename": "components/StatCard.tsx",
+          "status": "added",
+          "additions": 109,
+          "deletions": 0,
+          "changes": 109
+        },
+        {
+          "filename": "contexts/ThemeContext.tsx",
+          "status": "added",
+          "additions": 58,
+          "deletions": 0,
+          "changes": 58
+        },
+        {
+          "filename": "frontend/.env.example",
+          "status": "added",
+          "additions": 3,
+          "deletions": 0,
+          "changes": 3
+        },
+        {
+          "filename": "frontend/.gitignore",
+          "status": "added",
+          "additions": 32,
+          "deletions": 0,
+          "changes": 32
+        },
+        {
+          "filename": "frontend/package-lock.json",
+          "status": "added",
+          "additions": 20184,
+          "deletions": 0,
+          "changes": 20184
+        },
+        {
+          "filename": "frontend/package.json",
+          "status": "added",
+          "additions": 55,
+          "deletions": 0,
+          "changes": 55
+        },
+        {
+          "filename": "frontend/public/index.html",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        },
+        {
+          "filename": "frontend/public/manifest.json",
+          "status": "added",
+          "additions": 25,
+          "deletions": 0,
+          "changes": 25
+        },
+        {
+          "filename": "frontend/src/App.tsx",
+          "status": "added",
+          "additions": 44,
+          "deletions": 0,
+          "changes": 44
+        },
+        {
+          "filename": "frontend/src/MainApp.tsx",
+          "status": "added",
+          "additions": 44,
+          "deletions": 0,
+          "changes": 44
+        },
+        {
+          "filename": "frontend/src/components/AdminPanel.tsx",
+          "status": "added",
+          "additions": 543,
+          "deletions": 0,
+          "changes": 543
+        },
+        {
+          "filename": "frontend/src/components/AlertsPanel.tsx",
+          "status": "added",
+          "additions": 249,
+          "deletions": 0,
+          "changes": 249
+        },
+        {
+          "filename": "frontend/src/components/Dashboard.tsx",
+          "status": "added",
+          "additions": 358,
+          "deletions": 0,
+          "changes": 358
+        },
+        {
+          "filename": "frontend/src/components/Login.tsx",
+          "status": "added",
+          "additions": 119,
+          "deletions": 0,
+          "changes": 119
+        },
+        {
+          "filename": "frontend/src/components/Navbar.tsx",
+          "status": "added",
+          "additions": 314,
+          "deletions": 0,
+          "changes": 314
+        },
+        {
+          "filename": "frontend/src/components/Register.tsx",
+          "status": "added",
+          "additions": 144,
+          "deletions": 0,
+          "changes": 144
+        },
+        {
+          "filename": "frontend/src/components/cards/AirQualityCard.tsx",
+          "status": "added",
+          "additions": 120,
+          "deletions": 0,
+          "changes": 120
+        },
+        {
+          "filename": "frontend/src/contexts/AuthContext.tsx",
+          "status": "added",
+          "additions": 128,
+          "deletions": 0,
+          "changes": 128
+        },
+        {
+          "filename": "frontend/src/index.css",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "frontend/src/index.tsx",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "frontend/src/reportWebVitals.ts",
+          "status": "added",
+          "additions": 15,
+          "deletions": 0,
+          "changes": 15
+        },
+        {
+          "filename": "frontend/temp_import.txt",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "new-frontend/.gitigignore",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "new-frontend/.gitignore",
+          "status": "added",
+          "additions": 24,
+          "deletions": 0,
+          "changes": 24
+        },
+        {
+          "filename": "new-frontend/README.md",
+          "status": "added",
+          "additions": 104,
+          "deletions": 0,
+          "changes": 104
+        },
+        {
+          "filename": "new-frontend/eslint.config.js",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        },
+        {
+          "filename": "new-frontend/index.html",
+          "status": "added",
+          "additions": 20,
+          "deletions": 0,
+          "changes": 20
+        },
+        {
+          "filename": "new-frontend/package-lock.json",
+          "status": "added",
+          "additions": 4750,
+          "deletions": 0,
+          "changes": 4750
+        },
+        {
+          "filename": "new-frontend/package.json",
+          "status": "added",
+          "additions": 45,
+          "deletions": 0,
+          "changes": 45
+        },
+        {
+          "filename": "new-frontend/public/redirect.html",
+          "status": "added",
+          "additions": 80,
+          "deletions": 0,
+          "changes": 80
+        },
+        {
+          "filename": "new-frontend/public/test-server.html",
+          "status": "added",
+          "additions": 92,
+          "deletions": 0,
+          "changes": 92
+        },
+        {
+          "filename": "new-frontend/public/vite.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "new-frontend/src/App.css",
+          "status": "added",
+          "additions": 42,
+          "deletions": 0,
+          "changes": 42
+        },
+        {
+          "filename": "new-frontend/src/App.tsx",
+          "status": "added",
+          "additions": 178,
+          "deletions": 0,
+          "changes": 178
+        },
+        {
+          "filename": "new-frontend/src/assets/react.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "new-frontend/src/components/ColorModeToggle.tsx",
+          "status": "added",
+          "additions": 33,
+          "deletions": 0,
+          "changes": 33
+        },
+        {
+          "filename": "new-frontend/src/components/ErrorBoundary.tsx",
+          "status": "added",
+          "additions": 89,
+          "deletions": 0,
+          "changes": 89
+        },
+        {
+          "filename": "new-frontend/src/components/LiveChart.tsx",
+          "status": "added",
+          "additions": 272,
+          "deletions": 0,
+          "changes": 272
+        },
+        {
+          "filename": "new-frontend/src/components/LiveMap.tsx",
+          "status": "added",
+          "additions": 278,
+          "deletions": 0,
+          "changes": 278
+        },
+        {
+          "filename": "new-frontend/src/components/Navbar.tsx",
+          "status": "added",
+          "additions": 275,
+          "deletions": 0,
+          "changes": 275
+        },
+        {
+          "filename": "new-frontend/src/components/ProtectedRoute.tsx",
+          "status": "added",
+          "additions": 66,
+          "deletions": 0,
+          "changes": 66
+        },
+        {
+          "filename": "new-frontend/src/components/Sidebar.tsx",
+          "status": "added",
+          "additions": 194,
+          "deletions": 0,
+          "changes": 194
+        },
+        {
+          "filename": "new-frontend/src/components/TomTomMap.tsx",
+          "status": "added",
+          "additions": 432,
+          "deletions": 0,
+          "changes": 432
+        },
+        {
+          "filename": "new-frontend/src/components/WeatherCard.tsx",
+          "status": "added",
+          "additions": 226,
+          "deletions": 0,
+          "changes": 226
+        },
+        {
+          "filename": "new-frontend/src/contexts/AuthContext.tsx",
+          "status": "added",
+          "additions": 159,
+          "deletions": 0,
+          "changes": 159
+        },
+        {
+          "filename": "new-frontend/src/contexts/ThemeContext.tsx",
+          "status": "added",
+          "additions": 43,
+          "deletions": 0,
+          "changes": 43
+        },
+        {
+          "filename": "new-frontend/src/index.css",
+          "status": "added",
+          "additions": 63,
+          "deletions": 0,
+          "changes": 63
+        },
+        {
+          "filename": "new-frontend/src/main.tsx",
+          "status": "added",
+          "additions": 10,
+          "deletions": 0,
+          "changes": 10
+        },
+        {
+          "filename": "new-frontend/src/pages/AdminDashboard.tsx",
+          "status": "added",
+          "additions": 837,
+          "deletions": 0,
+          "changes": 837
+        },
+        {
+          "filename": "new-frontend/src/pages/AdminPanel.tsx",
+          "status": "added",
+          "additions": 155,
+          "deletions": 0,
+          "changes": 155
+        },
+        {
+          "filename": "new-frontend/src/pages/Alerts.tsx",
+          "status": "added",
+          "additions": 910,
+          "deletions": 0,
+          "changes": 910
+        },
+        {
+          "filename": "new-frontend/src/pages/Analytics.tsx",
+          "status": "added",
+          "additions": 516,
+          "deletions": 0,
+          "changes": 516
+        },
+        {
+          "filename": "new-frontend/src/pages/CityMap.tsx",
+          "status": "added",
+          "additions": 327,
+          "deletions": 0,
+          "changes": 327
+        },
+        {
+          "filename": "new-frontend/src/pages/Dashboard.tsx",
+          "status": "added",
+          "additions": 753,
+          "deletions": 0,
+          "changes": 753
+        },
+        {
+          "filename": "new-frontend/src/pages/Home.tsx",
+          "status": "added",
+          "additions": 340,
+          "deletions": 0,
+          "changes": 340
+        },
+        {
+          "filename": "new-frontend/src/pages/Login.tsx",
+          "status": "added",
+          "additions": 146,
+          "deletions": 0,
+          "changes": 146
+        },
+        {
+          "filename": "new-frontend/src/pages/NotFound.tsx",
+          "status": "added",
+          "additions": 76,
+          "deletions": 0,
+          "changes": 76
+        },
+        {
+          "filename": "new-frontend/src/pages/Register.tsx",
+          "status": "added",
+          "additions": 186,
+          "deletions": 0,
+          "changes": 186
+        },
+        {
+          "filename": "new-frontend/src/pages/Reports.tsx",
+          "status": "added",
+          "additions": 553,
+          "deletions": 0,
+          "changes": 553
+        },
+        {
+          "filename": "new-frontend/src/pages/Settings.tsx",
+          "status": "added",
+          "additions": 548,
+          "deletions": 0,
+          "changes": 548
+        },
+        {
+          "filename": "new-frontend/src/pages/UserDashboard.tsx",
+          "status": "added",
+          "additions": 449,
+          "deletions": 0,
+          "changes": 449
+        },
+        {
+          "filename": "new-frontend/src/setupProxy.js",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "new-frontend/src/theme/AdminTheme.ts",
+          "status": "added",
+          "additions": 114,
+          "deletions": 0,
+          "changes": 114
+        },
+        {
+          "filename": "new-frontend/src/theme/UserTheme.ts",
+          "status": "added",
+          "additions": 120,
+          "deletions": 0,
+          "changes": 120
+        },
+        {
+          "filename": "new-frontend/src/utils/realTimeData.ts",
+          "status": "added",
+          "additions": 232,
+          "deletions": 0,
+          "changes": 232
+        },
+        {
+          "filename": "new-frontend/src/utils/tomtomMapService.ts",
+          "status": "added",
+          "additions": 231,
+          "deletions": 0,
+          "changes": 231
+        },
+        {
+          "filename": "new-frontend/src/utils/weatherService.ts",
+          "status": "added",
+          "additions": 137,
+          "deletions": 0,
+          "changes": 137
+        },
+        {
+          "filename": "new-frontend/src/vite-env.d.ts",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "new-frontend/tsconfig.app.json",
+          "status": "added",
+          "additions": 26,
+          "deletions": 0,
+          "changes": 26
+        },
+        {
+          "filename": "new-frontend/tsconfig.json",
+          "status": "added",
+          "additions": 7,
+          "deletions": 0,
+          "changes": 7
+        },
+        {
+          "filename": "new-frontend/tsconfig.node.json",
+          "status": "added",
+          "additions": 24,
+          "deletions": 0,
+          "changes": 24
+        },
+        {
+          "filename": "new-frontend/vite.config.ts",
+          "status": "added",
+          "additions": 11,
+          "deletions": 0,
+          "changes": 11
+        },
+        {
+          "filename": "serve-map.js",
+          "status": "added",
+          "additions": 61,
+          "deletions": 0,
+          "changes": 61
+        },
+        {
+          "filename": "test-map.html",
+          "status": "added",
+          "additions": 133,
+          "deletions": 0,
+          "changes": 133
+        },
+        {
+          "filename": "test-server.html",
+          "status": "added",
+          "additions": 92,
+          "deletions": 0,
+          "changes": 92
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_ORPS_WebApp",
+        "owner": "omsingh10",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp"
+      },
+      "commit": {
+        "sha": "865b48a289227ce128adfa8547645ba497b07f32",
+        "message": "humanlala",
+        "date": "2025-03-29T05:44:09+00:00",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp/commit/865b48a289227ce128adfa8547645ba497b07f32",
+        "branch": "master"
+      },
+      "author": {
+        "name": "omsingh10",
+        "username": "omsingh10",
+        "email": "os0106897@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 10829,
+        "total_deletions": 0,
+        "total_changes": 10829,
+        "files_changed": 33
+      },
+      "file_changes": [
+        {
+          "filename": ".gitignore",
+          "status": "added",
+          "additions": 31,
+          "deletions": 0,
+          "changes": 31
+        },
+        {
+          "filename": "package-lock.json",
+          "status": "added",
+          "additions": 896,
+          "deletions": 0,
+          "changes": 896
+        },
+        {
+          "filename": "package.json",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "smart-city-dashboard/.gitignore",
+          "status": "added",
+          "additions": 31,
+          "deletions": 0,
+          "changes": 31
+        },
+        {
+          "filename": "smart-city-dashboard/README.md",
+          "status": "added",
+          "additions": 60,
+          "deletions": 0,
+          "changes": 60
+        },
+        {
+          "filename": "smart-city-dashboard/app/admin/page.tsx",
+          "status": "added",
+          "additions": 841,
+          "deletions": 0,
+          "changes": 841
+        },
+        {
+          "filename": "smart-city-dashboard/app/alerts/page.tsx",
+          "status": "added",
+          "additions": 181,
+          "deletions": 0,
+          "changes": 181
+        },
+        {
+          "filename": "smart-city-dashboard/app/analytics/page.tsx",
+          "status": "added",
+          "additions": 247,
+          "deletions": 0,
+          "changes": 247
+        },
+        {
+          "filename": "smart-city-dashboard/app/globals.css",
+          "status": "added",
+          "additions": 54,
+          "deletions": 0,
+          "changes": 54
+        },
+        {
+          "filename": "smart-city-dashboard/app/layout.tsx",
+          "status": "added",
+          "additions": 30,
+          "deletions": 0,
+          "changes": 30
+        },
+        {
+          "filename": "smart-city-dashboard/app/map/page.tsx",
+          "status": "added",
+          "additions": 114,
+          "deletions": 0,
+          "changes": 114
+        },
+        {
+          "filename": "smart-city-dashboard/app/notifications/page.tsx",
+          "status": "added",
+          "additions": 122,
+          "deletions": 0,
+          "changes": 122
+        },
+        {
+          "filename": "smart-city-dashboard/app/page.tsx",
+          "status": "added",
+          "additions": 21,
+          "deletions": 0,
+          "changes": 21
+        },
+        {
+          "filename": "smart-city-dashboard/app/reports/page.tsx",
+          "status": "added",
+          "additions": 199,
+          "deletions": 0,
+          "changes": 199
+        },
+        {
+          "filename": "smart-city-dashboard/app/settings/page.tsx",
+          "status": "added",
+          "additions": 599,
+          "deletions": 0,
+          "changes": 599
+        },
+        {
+          "filename": "smart-city-dashboard/components/AdminPage.tsx",
+          "status": "added",
+          "additions": 82,
+          "deletions": 0,
+          "changes": 82
+        },
+        {
+          "filename": "smart-city-dashboard/components/AlertSystem.tsx",
+          "status": "added",
+          "additions": 105,
+          "deletions": 0,
+          "changes": 105
+        },
+        {
+          "filename": "smart-city-dashboard/components/CitySearch.tsx",
+          "status": "added",
+          "additions": 37,
+          "deletions": 0,
+          "changes": 37
+        },
+        {
+          "filename": "smart-city-dashboard/components/Dashboard.tsx",
+          "status": "added",
+          "additions": 318,
+          "deletions": 0,
+          "changes": 318
+        },
+        {
+          "filename": "smart-city-dashboard/components/DataChart.tsx",
+          "status": "added",
+          "additions": 132,
+          "deletions": 0,
+          "changes": 132
+        },
+        {
+          "filename": "smart-city-dashboard/components/Header.tsx",
+          "status": "added",
+          "additions": 87,
+          "deletions": 0,
+          "changes": 87
+        },
+        {
+          "filename": "smart-city-dashboard/components/Map.tsx",
+          "status": "added",
+          "additions": 308,
+          "deletions": 0,
+          "changes": 308
+        },
+        {
+          "filename": "smart-city-dashboard/components/MapView.tsx",
+          "status": "added",
+          "additions": 37,
+          "deletions": 0,
+          "changes": 37
+        },
+        {
+          "filename": "smart-city-dashboard/components/ReportForm.tsx",
+          "status": "added",
+          "additions": 220,
+          "deletions": 0,
+          "changes": 220
+        },
+        {
+          "filename": "smart-city-dashboard/components/Sidebar.tsx",
+          "status": "added",
+          "additions": 117,
+          "deletions": 0,
+          "changes": 117
+        },
+        {
+          "filename": "smart-city-dashboard/components/StatCard.tsx",
+          "status": "added",
+          "additions": 109,
+          "deletions": 0,
+          "changes": 109
+        },
+        {
+          "filename": "smart-city-dashboard/contexts/ThemeContext.tsx",
+          "status": "added",
+          "additions": 58,
+          "deletions": 0,
+          "changes": 58
+        },
+        {
+          "filename": "smart-city-dashboard/next-env.d.ts",
+          "status": "added",
+          "additions": 5,
+          "deletions": 0,
+          "changes": 5
+        },
+        {
+          "filename": "smart-city-dashboard/package-lock.json",
+          "status": "added",
+          "additions": 5635,
+          "deletions": 0,
+          "changes": 5635
+        },
+        {
+          "filename": "smart-city-dashboard/package.json",
+          "status": "added",
+          "additions": 36,
+          "deletions": 0,
+          "changes": 36
+        },
+        {
+          "filename": "smart-city-dashboard/postcss.config.js",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        },
+        {
+          "filename": "smart-city-dashboard/tailwind.config.js",
+          "status": "added",
+          "additions": 70,
+          "deletions": 0,
+          "changes": 70
+        },
+        {
+          "filename": "smart-city-dashboard/tsconfig.json",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_ORPS_WebApp",
+        "owner": "omsingh10",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp"
+      },
+      "commit": {
+        "sha": "5b7e326d68a20322b14096ee6ab18d922e79c2a4",
+        "message": "maybe-maybenot",
+        "date": "2025-03-28T23:05:03+00:00",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp/commit/5b7e326d68a20322b14096ee6ab18d922e79c2a4",
+        "branch": "master"
+      },
+      "author": {
+        "name": "omsingh10",
+        "username": "omsingh10",
+        "email": "os0106897@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 3665,
+        "total_deletions": 890,
+        "total_changes": 4555,
+        "files_changed": 21
+      },
+      "file_changes": [
+        {
+          "filename": "new-frontend/package-lock.json",
+          "status": "modified",
+          "additions": 551,
+          "deletions": 15,
+          "changes": 566
+        },
+        {
+          "filename": "new-frontend/package.json",
+          "status": "modified",
+          "additions": 4,
+          "deletions": 0,
+          "changes": 4
+        },
+        {
+          "filename": "new-frontend/public/redirect.html",
+          "status": "added",
+          "additions": 80,
+          "deletions": 0,
+          "changes": 80
+        },
+        {
+          "filename": "new-frontend/public/test-server.html",
+          "status": "added",
+          "additions": 92,
+          "deletions": 0,
+          "changes": 92
+        },
+        {
+          "filename": "new-frontend/src/components/ColorModeToggle.tsx",
+          "status": "modified",
+          "additions": 12,
+          "deletions": 7,
+          "changes": 19
+        },
+        {
+          "filename": "new-frontend/src/components/ErrorBoundary.tsx",
+          "status": "added",
+          "additions": 89,
+          "deletions": 0,
+          "changes": 89
+        },
+        {
+          "filename": "new-frontend/src/components/Navbar.tsx",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 9,
+          "changes": 11
+        },
+        {
+          "filename": "new-frontend/src/components/Sidebar.tsx",
+          "status": "added",
+          "additions": 194,
+          "deletions": 0,
+          "changes": 194
+        },
+        {
+          "filename": "new-frontend/src/components/TomTomMap.tsx",
+          "status": "added",
+          "additions": 432,
+          "deletions": 0,
+          "changes": 432
+        },
+        {
+          "filename": "new-frontend/src/components/WeatherCard.tsx",
+          "status": "added",
+          "additions": 226,
+          "deletions": 0,
+          "changes": 226
+        },
+        {
+          "filename": "new-frontend/src/pages/AdminDashboard.tsx",
+          "status": "modified",
+          "additions": 458,
+          "deletions": 251,
+          "changes": 709
+        },
+        {
+          "filename": "new-frontend/src/pages/Analytics.tsx",
+          "status": "modified",
+          "additions": 112,
+          "deletions": 9,
+          "changes": 121
+        },
+        {
+          "filename": "new-frontend/src/pages/CityMap.tsx",
+          "status": "modified",
+          "additions": 219,
+          "deletions": 233,
+          "changes": 452
+        },
+        {
+          "filename": "new-frontend/src/pages/Home.tsx",
+          "status": "modified",
+          "additions": 256,
+          "deletions": 150,
+          "changes": 406
+        },
+        {
+          "filename": "new-frontend/src/pages/UserDashboard.tsx",
+          "status": "modified",
+          "additions": 271,
+          "deletions": 216,
+          "changes": 487
+        },
+        {
+          "filename": "new-frontend/src/setupProxy.js",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "new-frontend/src/utils/tomtomMapService.ts",
+          "status": "added",
+          "additions": 231,
+          "deletions": 0,
+          "changes": 231
+        },
+        {
+          "filename": "new-frontend/src/utils/weatherService.ts",
+          "status": "added",
+          "additions": 137,
+          "deletions": 0,
+          "changes": 137
+        },
+        {
+          "filename": "serve-map.js",
+          "status": "added",
+          "additions": 61,
+          "deletions": 0,
+          "changes": 61
+        },
+        {
+          "filename": "test-map.html",
+          "status": "added",
+          "additions": 133,
+          "deletions": 0,
+          "changes": 133
+        },
+        {
+          "filename": "test-server.html",
+          "status": "added",
+          "additions": 92,
+          "deletions": 0,
+          "changes": 92
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_ORPS_WebApp",
+        "owner": "omsingh10",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp"
+      },
+      "commit": {
+        "sha": "a045881baf2bb77704b7e1c45329132ee204f054",
+        "message": "silly mistakes real time",
+        "date": "2025-03-28T20:32:46+00:00",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp/commit/a045881baf2bb77704b7e1c45329132ee204f054",
+        "branch": "master"
+      },
+      "author": {
+        "name": "omsingh10",
+        "username": "omsingh10",
+        "email": "os0106897@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 3123,
+        "total_deletions": 1157,
+        "total_changes": 4280,
+        "files_changed": 19
+      },
+      "file_changes": [
+        {
+          "filename": "new-frontend/index.html",
+          "status": "modified",
+          "additions": 7,
+          "deletions": 0,
+          "changes": 7
+        },
+        {
+          "filename": "new-frontend/package-lock.json",
+          "status": "modified",
+          "additions": 44,
+          "deletions": 1,
+          "changes": 45
+        },
+        {
+          "filename": "new-frontend/package.json",
+          "status": "modified",
+          "additions": 4,
+          "deletions": 1,
+          "changes": 5
+        },
+        {
+          "filename": "new-frontend/src/App.tsx",
+          "status": "modified",
+          "additions": 78,
+          "deletions": 98,
+          "changes": 176
+        },
+        {
+          "filename": "new-frontend/src/components/LiveChart.tsx",
+          "status": "added",
+          "additions": 272,
+          "deletions": 0,
+          "changes": 272
+        },
+        {
+          "filename": "new-frontend/src/components/LiveMap.tsx",
+          "status": "added",
+          "additions": 278,
+          "deletions": 0,
+          "changes": 278
+        },
+        {
+          "filename": "new-frontend/src/components/Navbar.tsx",
+          "status": "modified",
+          "additions": 237,
+          "deletions": 207,
+          "changes": 444
+        },
+        {
+          "filename": "new-frontend/src/components/ProtectedRoute.tsx",
+          "status": "added",
+          "additions": 66,
+          "deletions": 0,
+          "changes": 66
+        },
+        {
+          "filename": "new-frontend/src/contexts/ThemeContext.tsx",
+          "status": "added",
+          "additions": 43,
+          "deletions": 0,
+          "changes": 43
+        },
+        {
+          "filename": "new-frontend/src/main.tsx",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "new-frontend/src/pages/AdminPanel.tsx",
+          "status": "added",
+          "additions": 155,
+          "deletions": 0,
+          "changes": 155
+        },
+        {
+          "filename": "new-frontend/src/pages/Alerts.tsx",
+          "status": "modified",
+          "additions": 516,
+          "deletions": 311,
+          "changes": 827
+        },
+        {
+          "filename": "new-frontend/src/pages/Analytics.tsx",
+          "status": "modified",
+          "additions": 259,
+          "deletions": 376,
+          "changes": 635
+        },
+        {
+          "filename": "new-frontend/src/pages/CityMap.tsx",
+          "status": "modified",
+          "additions": 227,
+          "deletions": 162,
+          "changes": 389
+        },
+        {
+          "filename": "new-frontend/src/pages/NotFound.tsx",
+          "status": "added",
+          "additions": 76,
+          "deletions": 0,
+          "changes": 76
+        },
+        {
+          "filename": "new-frontend/src/pages/UserDashboard.tsx",
+          "status": "added",
+          "additions": 394,
+          "deletions": 0,
+          "changes": 394
+        },
+        {
+          "filename": "new-frontend/src/theme/AdminTheme.ts",
+          "status": "added",
+          "additions": 114,
+          "deletions": 0,
+          "changes": 114
+        },
+        {
+          "filename": "new-frontend/src/theme/UserTheme.ts",
+          "status": "added",
+          "additions": 120,
+          "deletions": 0,
+          "changes": 120
+        },
+        {
+          "filename": "new-frontend/src/utils/realTimeData.ts",
+          "status": "added",
+          "additions": 232,
+          "deletions": 0,
+          "changes": 232
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_ORPS_WebApp",
+        "owner": "omsingh10",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp"
+      },
+      "commit": {
+        "sha": "480d7308dc9c0f6b64a464c8ccb0dc410aafb466",
+        "message": "update",
+        "date": "2025-03-28T18:26:54+00:00",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp/commit/480d7308dc9c0f6b64a464c8ccb0dc410aafb466",
+        "branch": "master"
+      },
+      "author": {
+        "name": "omsingh10",
+        "username": "omsingh10",
+        "email": "os0106897@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 272,
+        "total_deletions": 136,
+        "total_changes": 408,
+        "files_changed": 7
+      },
+      "file_changes": [
+        {
+          "filename": "new-frontend/src/App.tsx",
+          "status": "modified",
+          "additions": 120,
+          "deletions": 95,
+          "changes": 215
+        },
+        {
+          "filename": "new-frontend/src/components/ColorModeToggle.tsx",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        },
+        {
+          "filename": "new-frontend/src/components/Navbar.tsx",
+          "status": "modified",
+          "additions": 10,
+          "deletions": 1,
+          "changes": 11
+        },
+        {
+          "filename": "new-frontend/src/pages/Alerts.tsx",
+          "status": "modified",
+          "additions": 51,
+          "deletions": 17,
+          "changes": 68
+        },
+        {
+          "filename": "new-frontend/src/pages/Home.tsx",
+          "status": "modified",
+          "additions": 21,
+          "deletions": 15,
+          "changes": 36
+        },
+        {
+          "filename": "new-frontend/src/pages/Login.tsx",
+          "status": "modified",
+          "additions": 21,
+          "deletions": 4,
+          "changes": 25
+        },
+        {
+          "filename": "new-frontend/src/pages/Register.tsx",
+          "status": "modified",
+          "additions": 21,
+          "deletions": 4,
+          "changes": 25
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_ORPS_WebApp",
+        "owner": "omsingh10",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp"
+      },
+      "commit": {
+        "sha": "f157b678a0240b0e286d68b5bf62f0b2151df9b5",
+        "message": "okay-okay",
+        "date": "2025-03-28T15:48:49+00:00",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp/commit/f157b678a0240b0e286d68b5bf62f0b2151df9b5",
+        "branch": "master"
+      },
+      "author": {
+        "name": "omsingh10",
+        "username": "omsingh10",
+        "email": "os0106897@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 164,
+        "total_deletions": 96,
+        "total_changes": 260,
+        "files_changed": 4
+      },
+      "file_changes": [
+        {
+          "filename": "new-frontend/src/App.tsx",
+          "status": "modified",
+          "additions": 102,
+          "deletions": 90,
+          "changes": 192
+        },
+        {
+          "filename": "new-frontend/src/contexts/AuthContext.tsx",
+          "status": "modified",
+          "additions": 27,
+          "deletions": 1,
+          "changes": 28
+        },
+        {
+          "filename": "new-frontend/src/pages/Login.tsx",
+          "status": "modified",
+          "additions": 12,
+          "deletions": 4,
+          "changes": 16
+        },
+        {
+          "filename": "new-frontend/src/pages/Register.tsx",
+          "status": "modified",
+          "additions": 23,
+          "deletions": 1,
+          "changes": 24
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_ORPS_WebApp",
+        "owner": "omsingh10",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp"
+      },
+      "commit": {
+        "sha": "14d6ae0763537362e1d497d0102c003ff9d9feab",
+        "message": "lulu",
+        "date": "2025-03-28T15:25:24+00:00",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp/commit/14d6ae0763537362e1d497d0102c003ff9d9feab",
+        "branch": "master"
+      },
+      "author": {
+        "name": "omsingh10",
+        "username": "omsingh10",
+        "email": "os0106897@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 3459,
+        "total_deletions": 558,
+        "total_changes": 4017,
+        "files_changed": 8
+      },
+      "file_changes": [
+        {
+          "filename": "new-frontend/src/App.tsx",
+          "status": "modified",
+          "additions": 129,
+          "deletions": 53,
+          "changes": 182
+        },
+        {
+          "filename": "new-frontend/src/pages/AdminDashboard.tsx",
+          "status": "modified",
+          "additions": 478,
+          "deletions": 439,
+          "changes": 917
+        },
+        {
+          "filename": "new-frontend/src/pages/Alerts.tsx",
+          "status": "added",
+          "additions": 671,
+          "deletions": 0,
+          "changes": 671
+        },
+        {
+          "filename": "new-frontend/src/pages/Analytics.tsx",
+          "status": "added",
+          "additions": 530,
+          "deletions": 0,
+          "changes": 530
+        },
+        {
+          "filename": "new-frontend/src/pages/CityMap.tsx",
+          "status": "added",
+          "additions": 276,
+          "deletions": 0,
+          "changes": 276
+        },
+        {
+          "filename": "new-frontend/src/pages/Dashboard.tsx",
+          "status": "modified",
+          "additions": 274,
+          "deletions": 66,
+          "changes": 340
+        },
+        {
+          "filename": "new-frontend/src/pages/Reports.tsx",
+          "status": "added",
+          "additions": 553,
+          "deletions": 0,
+          "changes": 553
+        },
+        {
+          "filename": "new-frontend/src/pages/Settings.tsx",
+          "status": "added",
+          "additions": 548,
+          "deletions": 0,
+          "changes": 548
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_ORPS_WebApp",
+        "owner": "omsingh10",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp"
+      },
+      "commit": {
+        "sha": "738621282c5d66f7a8e7f32dc7237ca700223636",
+        "message": "Merge branch 'master' of https://github.com/omsingh10/ORPS_WebApp",
+        "date": "2025-03-28T14:00:26+00:00",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp/commit/738621282c5d66f7a8e7f32dc7237ca700223636",
+        "branch": "master"
+      },
+      "author": {
+        "name": "omsingh10",
+        "username": "omsingh10",
+        "email": "os0106897@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1392,
+        "total_deletions": 0,
+        "total_changes": 1392,
+        "files_changed": 10
+      },
+      "file_changes": [
+        {
+          "filename": "components/AlertSystem.tsx",
+          "status": "added",
+          "additions": 211,
+          "deletions": 0,
+          "changes": 211
+        },
+        {
+          "filename": "components/Dashboard.tsx",
+          "status": "added",
+          "additions": 166,
+          "deletions": 0,
+          "changes": 166
+        },
+        {
+          "filename": "components/DataChart.tsx",
+          "status": "added",
+          "additions": 132,
+          "deletions": 0,
+          "changes": 132
+        },
+        {
+          "filename": "components/Header.tsx",
+          "status": "added",
+          "additions": 57,
+          "deletions": 0,
+          "changes": 57
+        },
+        {
+          "filename": "components/Map.tsx",
+          "status": "added",
+          "additions": 308,
+          "deletions": 0,
+          "changes": 308
+        },
+        {
+          "filename": "components/MapView.tsx",
+          "status": "added",
+          "additions": 14,
+          "deletions": 0,
+          "changes": 14
+        },
+        {
+          "filename": "components/ReportForm.tsx",
+          "status": "added",
+          "additions": 220,
+          "deletions": 0,
+          "changes": 220
+        },
+        {
+          "filename": "components/Sidebar.tsx",
+          "status": "added",
+          "additions": 117,
+          "deletions": 0,
+          "changes": 117
+        },
+        {
+          "filename": "components/StatCard.tsx",
+          "status": "added",
+          "additions": 109,
+          "deletions": 0,
+          "changes": 109
+        },
+        {
+          "filename": "contexts/ThemeContext.tsx",
+          "status": "added",
+          "additions": 58,
+          "deletions": 0,
+          "changes": 58
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_ORPS_WebApp",
+        "owner": "omsingh10",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp"
+      },
+      "commit": {
+        "sha": "d8ae5e0b8777d49ed8e053a637d431d613912ad6",
+        "message": "3rd",
+        "date": "2025-03-28T14:00:19+00:00",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp/commit/d8ae5e0b8777d49ed8e053a637d431d613912ad6",
+        "branch": "master"
+      },
+      "author": {
+        "name": "omsingh10",
+        "username": "omsingh10",
+        "email": "os0106897@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 32601,
+        "total_deletions": 39,
+        "total_changes": 32640,
+        "files_changed": 62
+      },
+      "file_changes": [
+        {
+          "filename": ".gitignore",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "README.md",
+          "status": "modified",
+          "additions": 90,
+          "deletions": 35,
+          "changes": 125
+        },
+        {
+          "filename": "backend/.env",
+          "status": "added",
+          "additions": 4,
+          "deletions": 0,
+          "changes": 4
+        },
+        {
+          "filename": "backend/.env.example",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "backend/.gitignore",
+          "status": "added",
+          "additions": 32,
+          "deletions": 0,
+          "changes": 32
+        },
+        {
+          "filename": "backend/package-lock.json",
+          "status": "added",
+          "additions": 2204,
+          "deletions": 0,
+          "changes": 2204
+        },
+        {
+          "filename": "backend/package.json",
+          "status": "modified",
+          "additions": 27,
+          "deletions": 4,
+          "changes": 31
+        },
+        {
+          "filename": "backend/src/middleware/auth.ts",
+          "status": "added",
+          "additions": 48,
+          "deletions": 0,
+          "changes": 48
+        },
+        {
+          "filename": "backend/src/models/SensorData.ts",
+          "status": "added",
+          "additions": 90,
+          "deletions": 0,
+          "changes": 90
+        },
+        {
+          "filename": "backend/src/models/User.ts",
+          "status": "added",
+          "additions": 119,
+          "deletions": 0,
+          "changes": 119
+        },
+        {
+          "filename": "backend/src/routes/admin.ts",
+          "status": "added",
+          "additions": 155,
+          "deletions": 0,
+          "changes": 155
+        },
+        {
+          "filename": "backend/src/routes/alerts.ts",
+          "status": "added",
+          "additions": 185,
+          "deletions": 0,
+          "changes": 185
+        },
+        {
+          "filename": "backend/src/routes/auth.ts",
+          "status": "added",
+          "additions": 196,
+          "deletions": 0,
+          "changes": 196
+        },
+        {
+          "filename": "backend/src/routes/sensors.ts",
+          "status": "added",
+          "additions": 89,
+          "deletions": 0,
+          "changes": 89
+        },
+        {
+          "filename": "backend/src/scripts/setup.ts",
+          "status": "added",
+          "additions": 165,
+          "deletions": 0,
+          "changes": 165
+        },
+        {
+          "filename": "backend/src/server.ts",
+          "status": "added",
+          "additions": 76,
+          "deletions": 0,
+          "changes": 76
+        },
+        {
+          "filename": "backend/tsconfig.json",
+          "status": "added",
+          "additions": 20,
+          "deletions": 0,
+          "changes": 20
+        },
+        {
+          "filename": "frontend/.env.example",
+          "status": "added",
+          "additions": 3,
+          "deletions": 0,
+          "changes": 3
+        },
+        {
+          "filename": "frontend/.gitignore",
+          "status": "added",
+          "additions": 32,
+          "deletions": 0,
+          "changes": 32
+        },
+        {
+          "filename": "frontend/package-lock.json",
+          "status": "added",
+          "additions": 20184,
+          "deletions": 0,
+          "changes": 20184
+        },
+        {
+          "filename": "frontend/package.json",
+          "status": "added",
+          "additions": 55,
+          "deletions": 0,
+          "changes": 55
+        },
+        {
+          "filename": "frontend/public/index.html",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        },
+        {
+          "filename": "frontend/public/manifest.json",
+          "status": "added",
+          "additions": 25,
+          "deletions": 0,
+          "changes": 25
+        },
+        {
+          "filename": "frontend/src/App.tsx",
+          "status": "added",
+          "additions": 44,
+          "deletions": 0,
+          "changes": 44
+        },
+        {
+          "filename": "frontend/src/MainApp.tsx",
+          "status": "added",
+          "additions": 44,
+          "deletions": 0,
+          "changes": 44
+        },
+        {
+          "filename": "frontend/src/components/AdminPanel.tsx",
+          "status": "added",
+          "additions": 543,
+          "deletions": 0,
+          "changes": 543
+        },
+        {
+          "filename": "frontend/src/components/AlertsPanel.tsx",
+          "status": "added",
+          "additions": 249,
+          "deletions": 0,
+          "changes": 249
+        },
+        {
+          "filename": "frontend/src/components/Dashboard.tsx",
+          "status": "added",
+          "additions": 358,
+          "deletions": 0,
+          "changes": 358
+        },
+        {
+          "filename": "frontend/src/components/Login.tsx",
+          "status": "added",
+          "additions": 119,
+          "deletions": 0,
+          "changes": 119
+        },
+        {
+          "filename": "frontend/src/components/Navbar.tsx",
+          "status": "added",
+          "additions": 314,
+          "deletions": 0,
+          "changes": 314
+        },
+        {
+          "filename": "frontend/src/components/Register.tsx",
+          "status": "added",
+          "additions": 144,
+          "deletions": 0,
+          "changes": 144
+        },
+        {
+          "filename": "frontend/src/components/cards/AirQualityCard.tsx",
+          "status": "added",
+          "additions": 120,
+          "deletions": 0,
+          "changes": 120
+        },
+        {
+          "filename": "frontend/src/contexts/AuthContext.tsx",
+          "status": "added",
+          "additions": 128,
+          "deletions": 0,
+          "changes": 128
+        },
+        {
+          "filename": "frontend/src/index.css",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "frontend/src/index.tsx",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "frontend/src/reportWebVitals.ts",
+          "status": "added",
+          "additions": 15,
+          "deletions": 0,
+          "changes": 15
+        },
+        {
+          "filename": "frontend/temp_import.txt",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "new-frontend/.gitigignore",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "new-frontend/.gitignore",
+          "status": "added",
+          "additions": 24,
+          "deletions": 0,
+          "changes": 24
+        },
+        {
+          "filename": "new-frontend/README.md",
+          "status": "added",
+          "additions": 104,
+          "deletions": 0,
+          "changes": 104
+        },
+        {
+          "filename": "new-frontend/eslint.config.js",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        },
+        {
+          "filename": "new-frontend/index.html",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "new-frontend/package-lock.json",
+          "status": "added",
+          "additions": 4171,
+          "deletions": 0,
+          "changes": 4171
+        },
+        {
+          "filename": "new-frontend/package.json",
+          "status": "added",
+          "additions": 38,
+          "deletions": 0,
+          "changes": 38
+        },
+        {
+          "filename": "new-frontend/public/vite.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "new-frontend/src/App.css",
+          "status": "added",
+          "additions": 42,
+          "deletions": 0,
+          "changes": 42
+        },
+        {
+          "filename": "new-frontend/src/App.tsx",
+          "status": "added",
+          "additions": 85,
+          "deletions": 0,
+          "changes": 85
+        },
+        {
+          "filename": "new-frontend/src/assets/react.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "new-frontend/src/components/Navbar.tsx",
+          "status": "added",
+          "additions": 243,
+          "deletions": 0,
+          "changes": 243
+        },
+        {
+          "filename": "new-frontend/src/contexts/AuthContext.tsx",
+          "status": "added",
+          "additions": 133,
+          "deletions": 0,
+          "changes": 133
+        },
+        {
+          "filename": "new-frontend/src/index.css",
+          "status": "added",
+          "additions": 63,
+          "deletions": 0,
+          "changes": 63
+        },
+        {
+          "filename": "new-frontend/src/main.tsx",
+          "status": "added",
+          "additions": 10,
+          "deletions": 0,
+          "changes": 10
+        },
+        {
+          "filename": "new-frontend/src/pages/AdminDashboard.tsx",
+          "status": "added",
+          "additions": 591,
+          "deletions": 0,
+          "changes": 591
+        },
+        {
+          "filename": "new-frontend/src/pages/Dashboard.tsx",
+          "status": "added",
+          "additions": 545,
+          "deletions": 0,
+          "changes": 545
+        },
+        {
+          "filename": "new-frontend/src/pages/Home.tsx",
+          "status": "added",
+          "additions": 228,
+          "deletions": 0,
+          "changes": 228
+        },
+        {
+          "filename": "new-frontend/src/pages/Login.tsx",
+          "status": "added",
+          "additions": 121,
+          "deletions": 0,
+          "changes": 121
+        },
+        {
+          "filename": "new-frontend/src/pages/Register.tsx",
+          "status": "added",
+          "additions": 147,
+          "deletions": 0,
+          "changes": 147
+        },
+        {
+          "filename": "new-frontend/src/vite-env.d.ts",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "new-frontend/tsconfig.app.json",
+          "status": "added",
+          "additions": 26,
+          "deletions": 0,
+          "changes": 26
+        },
+        {
+          "filename": "new-frontend/tsconfig.json",
+          "status": "added",
+          "additions": 7,
+          "deletions": 0,
+          "changes": 7
+        },
+        {
+          "filename": "new-frontend/tsconfig.node.json",
+          "status": "added",
+          "additions": 24,
+          "deletions": 0,
+          "changes": 24
+        },
+        {
+          "filename": "new-frontend/vite.config.ts",
+          "status": "added",
+          "additions": 11,
+          "deletions": 0,
+          "changes": 11
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_ORPS_WebApp",
+        "owner": "omsingh10",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp"
+      },
+      "commit": {
+        "sha": "c9e5bee643eb26bf38b270f1b47140b5fa9b49a9",
+        "message": "Merge pull request #1 from Vaishnavi226/master\n\nfrontend",
+        "date": "2025-03-28T13:41:53+00:00",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp/commit/c9e5bee643eb26bf38b270f1b47140b5fa9b49a9",
+        "branch": "master"
+      },
+      "author": {
+        "name": "Om singh(shiv)",
+        "username": "omsingh10",
+        "email": "114778480+omsingh10@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1392,
+        "total_deletions": 0,
+        "total_changes": 1392,
+        "files_changed": 10
+      },
+      "file_changes": [
+        {
+          "filename": "components/AlertSystem.tsx",
+          "status": "added",
+          "additions": 211,
+          "deletions": 0,
+          "changes": 211
+        },
+        {
+          "filename": "components/Dashboard.tsx",
+          "status": "added",
+          "additions": 166,
+          "deletions": 0,
+          "changes": 166
+        },
+        {
+          "filename": "components/DataChart.tsx",
+          "status": "added",
+          "additions": 132,
+          "deletions": 0,
+          "changes": 132
+        },
+        {
+          "filename": "components/Header.tsx",
+          "status": "added",
+          "additions": 57,
+          "deletions": 0,
+          "changes": 57
+        },
+        {
+          "filename": "components/Map.tsx",
+          "status": "added",
+          "additions": 308,
+          "deletions": 0,
+          "changes": 308
+        },
+        {
+          "filename": "components/MapView.tsx",
+          "status": "added",
+          "additions": 14,
+          "deletions": 0,
+          "changes": 14
+        },
+        {
+          "filename": "components/ReportForm.tsx",
+          "status": "added",
+          "additions": 220,
+          "deletions": 0,
+          "changes": 220
+        },
+        {
+          "filename": "components/Sidebar.tsx",
+          "status": "added",
+          "additions": 117,
+          "deletions": 0,
+          "changes": 117
+        },
+        {
+          "filename": "components/StatCard.tsx",
+          "status": "added",
+          "additions": 109,
+          "deletions": 0,
+          "changes": 109
+        },
+        {
+          "filename": "contexts/ThemeContext.tsx",
+          "status": "added",
+          "additions": 58,
+          "deletions": 0,
+          "changes": 58
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_ORPS_WebApp",
+        "owner": "omsingh10",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp"
+      },
+      "commit": {
+        "sha": "096f23543af95257aa9f661e33235369a36f25d2",
+        "message": "Merge branch 'master' of https://github.com/Vaishnavi226/COHERENCE-25_ORPS_WebApp",
+        "date": "2025-03-28T11:25:46+00:00",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp/commit/096f23543af95257aa9f661e33235369a36f25d2",
+        "branch": "master"
+      },
+      "author": {
+        "name": "Vaishnavi226",
+        "username": "Vaishnavi226",
+        "email": "vaishnavitripathi226@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 100,
+        "total_deletions": 0,
+        "total_changes": 100,
+        "files_changed": 2
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "added",
+          "additions": 88,
+          "deletions": 0,
+          "changes": 88
+        },
+        {
+          "filename": "backend/package.json",
+          "status": "added",
+          "additions": 12,
+          "deletions": 0,
+          "changes": 12
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_ORPS_WebApp",
+        "owner": "omsingh10",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp"
+      },
+      "commit": {
+        "sha": "e26851065628550052af861de3003bfc635efb81",
+        "message": "Navi1commit",
+        "date": "2025-03-28T11:20:36+00:00",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp/commit/e26851065628550052af861de3003bfc635efb81",
+        "branch": "master"
+      },
+      "author": {
+        "name": "Vaishnavi226",
+        "username": "Vaishnavi226",
+        "email": "vaishnavitripathi226@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1392,
+        "total_deletions": 0,
+        "total_changes": 1392,
+        "files_changed": 10
+      },
+      "file_changes": [
+        {
+          "filename": "components/AlertSystem.tsx",
+          "status": "added",
+          "additions": 211,
+          "deletions": 0,
+          "changes": 211
+        },
+        {
+          "filename": "components/Dashboard.tsx",
+          "status": "added",
+          "additions": 166,
+          "deletions": 0,
+          "changes": 166
+        },
+        {
+          "filename": "components/DataChart.tsx",
+          "status": "added",
+          "additions": 132,
+          "deletions": 0,
+          "changes": 132
+        },
+        {
+          "filename": "components/Header.tsx",
+          "status": "added",
+          "additions": 57,
+          "deletions": 0,
+          "changes": 57
+        },
+        {
+          "filename": "components/Map.tsx",
+          "status": "added",
+          "additions": 308,
+          "deletions": 0,
+          "changes": 308
+        },
+        {
+          "filename": "components/MapView.tsx",
+          "status": "added",
+          "additions": 14,
+          "deletions": 0,
+          "changes": 14
+        },
+        {
+          "filename": "components/ReportForm.tsx",
+          "status": "added",
+          "additions": 220,
+          "deletions": 0,
+          "changes": 220
+        },
+        {
+          "filename": "components/Sidebar.tsx",
+          "status": "added",
+          "additions": 117,
+          "deletions": 0,
+          "changes": 117
+        },
+        {
+          "filename": "components/StatCard.tsx",
+          "status": "added",
+          "additions": 109,
+          "deletions": 0,
+          "changes": 109
+        },
+        {
+          "filename": "contexts/ThemeContext.tsx",
+          "status": "added",
+          "additions": 58,
+          "deletions": 0,
+          "changes": 58
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_ORPS_WebApp",
+        "owner": "omsingh10",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp"
+      },
+      "commit": {
+        "sha": "47ed584c55cf55631657d56fb773a7d52bb00bc4",
+        "message": "backendpart",
+        "date": "2025-03-28T10:33:50+00:00",
+        "url": "https://github.com/omsingh10/COHERENCE-25_ORPS_WebApp/commit/47ed584c55cf55631657d56fb773a7d52bb00bc4",
+        "branch": "master"
+      },
+      "author": {
+        "name": "omsingh10",
+        "username": "omsingh10",
+        "email": "os0106897@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 100,
+        "total_deletions": 0,
+        "total_changes": 100,
+        "files_changed": 2
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "added",
+          "additions": 88,
+          "deletions": 0,
+          "changes": 88
+        },
+        {
+          "filename": "backend/package.json",
+          "status": "added",
+          "additions": 12,
+          "deletions": 0,
+          "changes": 12
+        }
+      ]
+    }
+  ],
+  "total_commits": 17,
+  "metadata": {
+    "collection_date": "2026-01-31T21:17:41.805834",
+    "total_repositories": 1,
+    "total_commits_collected": 17,
+    "repositories_processed": [
+      "omsingh10/COHERENCE-25_ORPS_WebApp"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  }
+}

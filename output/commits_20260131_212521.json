@@ -1,0 +1,1069 @@
+{
+  "commits": [
+    {
+      "repository": {
+        "name": "Coherence-25_ChandaMama_AIML",
+        "owner": "obitojod",
+        "url": "https://github.com/obitojod/Coherence-25_ChandaMama_AIML"
+      },
+      "commit": {
+        "sha": "4cf7a7075ab324046d0195a09674a73de0ac0d0e",
+        "message": "Initial commit",
+        "date": "2025-03-28T20:42:25+00:00",
+        "url": "https://github.com/obitojod/Coherence-25_ChandaMama_AIML/commit/4cf7a7075ab324046d0195a09674a73de0ac0d0e",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Piyush Sahani",
+        "username": "piyuVR",
+        "email": "piyushsahani675@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 20843,
+        "total_deletions": 0,
+        "total_changes": 20843,
+        "files_changed": 54
+      },
+      "file_changes": [
+        {
+          "filename": ".env.bak",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": ".gitignore",
+          "status": "added",
+          "additions": 36,
+          "deletions": 0,
+          "changes": 36
+        },
+        {
+          "filename": "App.js",
+          "status": "added",
+          "additions": 16,
+          "deletions": 0,
+          "changes": 16
+        },
+        {
+          "filename": "README.md",
+          "status": "added",
+          "additions": 59,
+          "deletions": 0,
+          "changes": 59
+        },
+        {
+          "filename": "api/config.js",
+          "status": "added",
+          "additions": 26,
+          "deletions": 0,
+          "changes": 26
+        },
+        {
+          "filename": "app.json",
+          "status": "added",
+          "additions": 37,
+          "deletions": 0,
+          "changes": 37
+        },
+        {
+          "filename": "app/_layout.js",
+          "status": "added",
+          "additions": 94,
+          "deletions": 0,
+          "changes": 94
+        },
+        {
+          "filename": "app/forgot-password.js",
+          "status": "added",
+          "additions": 206,
+          "deletions": 0,
+          "changes": 206
+        },
+        {
+          "filename": "app/form/[id].js",
+          "status": "added",
+          "additions": 732,
+          "deletions": 0,
+          "changes": 732
+        },
+        {
+          "filename": "app/form/_layout.js",
+          "status": "added",
+          "additions": 5,
+          "deletions": 0,
+          "changes": 5
+        },
+        {
+          "filename": "app/home/create-form.js",
+          "status": "added",
+          "additions": 990,
+          "deletions": 0,
+          "changes": 990
+        },
+        {
+          "filename": "app/home/form-details.js",
+          "status": "added",
+          "additions": 809,
+          "deletions": 0,
+          "changes": 809
+        },
+        {
+          "filename": "app/home/index.js",
+          "status": "added",
+          "additions": 334,
+          "deletions": 0,
+          "changes": 334
+        },
+        {
+          "filename": "app/index.js",
+          "status": "added",
+          "additions": 7,
+          "deletions": 0,
+          "changes": 7
+        },
+        {
+          "filename": "app/login.js",
+          "status": "added",
+          "additions": 279,
+          "deletions": 0,
+          "changes": 279
+        },
+        {
+          "filename": "app/profile.js",
+          "status": "added",
+          "additions": 659,
+          "deletions": 0,
+          "changes": 659
+        },
+        {
+          "filename": "app/register.js",
+          "status": "added",
+          "additions": 472,
+          "deletions": 0,
+          "changes": 472
+        },
+        {
+          "filename": "app/reset-password.js",
+          "status": "added",
+          "additions": 269,
+          "deletions": 0,
+          "changes": 269
+        },
+        {
+          "filename": "app/verify-otp.js",
+          "status": "added",
+          "additions": 289,
+          "deletions": 0,
+          "changes": 289
+        },
+        {
+          "filename": "assets/adaptive-icon.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/empty-state.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/favicon.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/icon.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/adaptive-icon.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/app-icon.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/favicon.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/icon.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/login.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/logo.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/partial-react-logo.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/profile-icon.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/react-logo.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/react-logo@2x.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/react-logo@3x.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/splash.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/recruitment-logo.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/splash-icon.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "babel.config.js",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "backend/server.js",
+          "status": "added",
+          "additions": 1157,
+          "deletions": 0,
+          "changes": 1157
+        },
+        {
+          "filename": "backend/tmp/1743184675524-MukeshkumarPrajapat-tech.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/tmp/1743184692602-MukeshkumarPrajapat-tech.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "components/CustomAlert.js",
+          "status": "added",
+          "additions": 52,
+          "deletions": 0,
+          "changes": 52
+        },
+        {
+          "filename": "components/EndScreen.js",
+          "status": "added",
+          "additions": 374,
+          "deletions": 0,
+          "changes": 374
+        },
+        {
+          "filename": "context/AuthContext.js",
+          "status": "added",
+          "additions": 231,
+          "deletions": 0,
+          "changes": 231
+        },
+        {
+          "filename": "index.js",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "metro.config.js",
+          "status": "added",
+          "additions": 26,
+          "deletions": 0,
+          "changes": 26
+        },
+        {
+          "filename": "ml/demo_req_hr.json",
+          "status": "added",
+          "additions": 64,
+          "deletions": 0,
+          "changes": 64
+        },
+        {
+          "filename": "ml/scrape.js",
+          "status": "added",
+          "additions": 240,
+          "deletions": 0,
+          "changes": 240
+        },
+        {
+          "filename": "ml/test.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "package-lock.json",
+          "status": "added",
+          "additions": 13275,
+          "deletions": 0,
+          "changes": 13275
+        },
+        {
+          "filename": "package.json",
+          "status": "added",
+          "additions": 57,
+          "deletions": 0,
+          "changes": 57
+        },
+        {
+          "filename": "tsconfig.json",
+          "status": "added",
+          "additions": 4,
+          "deletions": 0,
+          "changes": 4
+        },
+        {
+          "filename": "web.whatsapp.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "webpack.config.js",
+          "status": "added",
+          "additions": 23,
+          "deletions": 0,
+          "changes": 23
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "Coherence-25_ChandaMama_AIML",
+        "owner": "obitojod",
+        "url": "https://github.com/obitojod/Coherence-25_ChandaMama_AIML"
+      },
+      "commit": {
+        "sha": "dbedf4a29a9d2d7dee461aca1495f507101e556d",
+        "message": "final 1",
+        "date": "2025-03-28T20:37:01+00:00",
+        "url": "https://github.com/obitojod/Coherence-25_ChandaMama_AIML/commit/dbedf4a29a9d2d7dee461aca1495f507101e556d",
+        "branch": "main"
+      },
+      "author": {
+        "name": "meleo2125",
+        "username": "meleo2125",
+        "email": "mukeshprajapat3093@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 0,
+        "total_changes": 0,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "assets/empty-state.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "Coherence-25_ChandaMama_AIML",
+        "owner": "obitojod",
+        "url": "https://github.com/obitojod/Coherence-25_ChandaMama_AIML"
+      },
+      "commit": {
+        "sha": "3d28285c6ef236a82e0c1c9e73366fc1a704ea45",
+        "message": "Added Valo as a normal folder",
+        "date": "2025-03-28T20:35:15+00:00",
+        "url": "https://github.com/obitojod/Coherence-25_ChandaMama_AIML/commit/3d28285c6ef236a82e0c1c9e73366fc1a704ea45",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Piyush Sahani",
+        "username": "piyuVR",
+        "email": "piyushsahani675@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1,
+        "total_deletions": 0,
+        "total_changes": 1,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "Valo",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "Coherence-25_ChandaMama_AIML",
+        "owner": "obitojod",
+        "url": "https://github.com/obitojod/Coherence-25_ChandaMama_AIML"
+      },
+      "commit": {
+        "sha": "2859febce37d730f5c41dc3da259dcd270692500",
+        "message": "final 1",
+        "date": "2025-03-28T20:09:06+00:00",
+        "url": "https://github.com/obitojod/Coherence-25_ChandaMama_AIML/commit/2859febce37d730f5c41dc3da259dcd270692500",
+        "branch": "main"
+      },
+      "author": {
+        "name": "meleo2125",
+        "username": "meleo2125",
+        "email": "mukeshprajapat3093@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 2768,
+        "total_deletions": 1058,
+        "total_changes": 3826,
+        "files_changed": 15
+      },
+      "file_changes": [
+        {
+          "filename": "app/home/create-form.js",
+          "status": "modified",
+          "additions": 412,
+          "deletions": 1,
+          "changes": 413
+        },
+        {
+          "filename": "app/home/form-details.js",
+          "status": "modified",
+          "additions": 376,
+          "deletions": 33,
+          "changes": 409
+        },
+        {
+          "filename": "babel.config.js",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        },
+        {
+          "filename": "backend/server.js",
+          "status": "modified",
+          "additions": 373,
+          "deletions": 4,
+          "changes": 377
+        },
+        {
+          "filename": "backend/tmp/1743184675524-MukeshkumarPrajapat-tech.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/tmp/1743184692602-MukeshkumarPrajapat-tech.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "metro.config.js",
+          "status": "modified",
+          "additions": 23,
+          "deletions": 3,
+          "changes": 26
+        },
+        {
+          "filename": "ml/AuthContext.js",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 219,
+          "changes": 219
+        },
+        {
+          "filename": "ml/demo_req_hr.json",
+          "status": "added",
+          "additions": 64,
+          "deletions": 0,
+          "changes": 64
+        },
+        {
+          "filename": "ml/scrape.js",
+          "status": "added",
+          "additions": 240,
+          "deletions": 0,
+          "changes": 240
+        },
+        {
+          "filename": "ml/server.js",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 452,
+          "changes": 452
+        },
+        {
+          "filename": "ml/test.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "package-lock.json",
+          "status": "modified",
+          "additions": 1248,
+          "deletions": 340,
+          "changes": 1588
+        },
+        {
+          "filename": "package.json",
+          "status": "modified",
+          "additions": 9,
+          "deletions": 5,
+          "changes": 14
+        },
+        {
+          "filename": "webpack.config.js",
+          "status": "added",
+          "additions": 23,
+          "deletions": 0,
+          "changes": 23
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "Coherence-25_ChandaMama_AIML",
+        "owner": "obitojod",
+        "url": "https://github.com/obitojod/Coherence-25_ChandaMama_AIML"
+      },
+      "commit": {
+        "sha": "7169070a7621a50fe19c8c23876a8b6f6b69e7b1",
+        "message": "forms s3",
+        "date": "2025-03-28T15:51:00+00:00",
+        "url": "https://github.com/obitojod/Coherence-25_ChandaMama_AIML/commit/7169070a7621a50fe19c8c23876a8b6f6b69e7b1",
+        "branch": "main"
+      },
+      "author": {
+        "name": "meleo2125",
+        "username": "meleo2125",
+        "email": "mukeshprajapat3093@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 416,
+        "total_deletions": 143,
+        "total_changes": 559,
+        "files_changed": 6
+      },
+      "file_changes": [
+        {
+          "filename": "app/form/[id].js",
+          "status": "modified",
+          "additions": 77,
+          "deletions": 44,
+          "changes": 121
+        },
+        {
+          "filename": "backend/server.js",
+          "status": "modified",
+          "additions": 295,
+          "deletions": 99,
+          "changes": 394
+        },
+        {
+          "filename": "ml/AuthContext.js",
+          "status": "renamed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "ml/server.js",
+          "status": "renamed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "package-lock.json",
+          "status": "modified",
+          "additions": 43,
+          "deletions": 0,
+          "changes": 43
+        },
+        {
+          "filename": "package.json",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "Coherence-25_ChandaMama_AIML",
+        "owner": "obitojod",
+        "url": "https://github.com/obitojod/Coherence-25_ChandaMama_AIML"
+      },
+      "commit": {
+        "sha": "5c1fa3cd8984fd7e85d5dd6e0267031ca7afc7d2",
+        "message": "hello",
+        "date": "2025-03-28T14:44:38+00:00",
+        "url": "https://github.com/obitojod/Coherence-25_ChandaMama_AIML/commit/5c1fa3cd8984fd7e85d5dd6e0267031ca7afc7d2",
+        "branch": "main"
+      },
+      "author": {
+        "name": "meleo2125",
+        "username": "meleo2125",
+        "email": "mukeshprajapat3093@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 18860,
+        "total_deletions": 0,
+        "total_changes": 18860,
+        "files_changed": 49
+      },
+      "file_changes": [
+        {
+          "filename": ".env.bak",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": ".gitignore",
+          "status": "added",
+          "additions": 36,
+          "deletions": 0,
+          "changes": 36
+        },
+        {
+          "filename": "App.js",
+          "status": "added",
+          "additions": 16,
+          "deletions": 0,
+          "changes": 16
+        },
+        {
+          "filename": "README.md",
+          "status": "added",
+          "additions": 59,
+          "deletions": 0,
+          "changes": 59
+        },
+        {
+          "filename": "api/config.js",
+          "status": "added",
+          "additions": 26,
+          "deletions": 0,
+          "changes": 26
+        },
+        {
+          "filename": "app.json",
+          "status": "added",
+          "additions": 37,
+          "deletions": 0,
+          "changes": 37
+        },
+        {
+          "filename": "app/_layout.js",
+          "status": "added",
+          "additions": 94,
+          "deletions": 0,
+          "changes": 94
+        },
+        {
+          "filename": "app/forgot-password.js",
+          "status": "added",
+          "additions": 206,
+          "deletions": 0,
+          "changes": 206
+        },
+        {
+          "filename": "app/form/[id].js",
+          "status": "added",
+          "additions": 699,
+          "deletions": 0,
+          "changes": 699
+        },
+        {
+          "filename": "app/form/_layout.js",
+          "status": "added",
+          "additions": 5,
+          "deletions": 0,
+          "changes": 5
+        },
+        {
+          "filename": "app/home/create-form.js",
+          "status": "added",
+          "additions": 579,
+          "deletions": 0,
+          "changes": 579
+        },
+        {
+          "filename": "app/home/form-details.js",
+          "status": "added",
+          "additions": 466,
+          "deletions": 0,
+          "changes": 466
+        },
+        {
+          "filename": "app/home/index.js",
+          "status": "added",
+          "additions": 334,
+          "deletions": 0,
+          "changes": 334
+        },
+        {
+          "filename": "app/index.js",
+          "status": "added",
+          "additions": 7,
+          "deletions": 0,
+          "changes": 7
+        },
+        {
+          "filename": "app/login.js",
+          "status": "added",
+          "additions": 279,
+          "deletions": 0,
+          "changes": 279
+        },
+        {
+          "filename": "app/profile.js",
+          "status": "added",
+          "additions": 659,
+          "deletions": 0,
+          "changes": 659
+        },
+        {
+          "filename": "app/register.js",
+          "status": "added",
+          "additions": 472,
+          "deletions": 0,
+          "changes": 472
+        },
+        {
+          "filename": "app/reset-password.js",
+          "status": "added",
+          "additions": 269,
+          "deletions": 0,
+          "changes": 269
+        },
+        {
+          "filename": "app/verify-otp.js",
+          "status": "added",
+          "additions": 289,
+          "deletions": 0,
+          "changes": 289
+        },
+        {
+          "filename": "assets/adaptive-icon.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/favicon.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/icon.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/adaptive-icon.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/app-icon.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/favicon.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/icon.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/login.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/logo.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/partial-react-logo.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/profile-icon.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/react-logo.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/react-logo@2x.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/react-logo@3x.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/images/splash.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/recruitment-logo.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "assets/splash-icon.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "babel.config.js",
+          "status": "added",
+          "additions": 20,
+          "deletions": 0,
+          "changes": 20
+        },
+        {
+          "filename": "backend/server.js",
+          "status": "added",
+          "additions": 592,
+          "deletions": 0,
+          "changes": 592
+        },
+        {
+          "filename": "components/CustomAlert.js",
+          "status": "added",
+          "additions": 52,
+          "deletions": 0,
+          "changes": 52
+        },
+        {
+          "filename": "components/EndScreen.js",
+          "status": "added",
+          "additions": 374,
+          "deletions": 0,
+          "changes": 374
+        },
+        {
+          "filename": "context/AuthContext.js",
+          "status": "added",
+          "additions": 231,
+          "deletions": 0,
+          "changes": 231
+        },
+        {
+          "filename": "index.js",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "metro.config.js",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        },
+        {
+          "filename": "old/AuthContext.js",
+          "status": "added",
+          "additions": 219,
+          "deletions": 0,
+          "changes": 219
+        },
+        {
+          "filename": "old/server.js",
+          "status": "added",
+          "additions": 452,
+          "deletions": 0,
+          "changes": 452
+        },
+        {
+          "filename": "package-lock.json",
+          "status": "added",
+          "additions": 12324,
+          "deletions": 0,
+          "changes": 12324
+        },
+        {
+          "filename": "package.json",
+          "status": "added",
+          "additions": 52,
+          "deletions": 0,
+          "changes": 52
+        },
+        {
+          "filename": "tsconfig.json",
+          "status": "added",
+          "additions": 4,
+          "deletions": 0,
+          "changes": 4
+        },
+        {
+          "filename": "web.whatsapp.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    }
+  ],
+  "total_commits": 6,
+  "metadata": {
+    "collection_date": "2026-01-31T21:25:21.209831",
+    "total_repositories": 1,
+    "total_commits_collected": 6,
+    "repositories_processed": [
+      "obitojod/Coherence-25_ChandaMama_AIML"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  }
+}

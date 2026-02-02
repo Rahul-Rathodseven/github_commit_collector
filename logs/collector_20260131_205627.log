@@ -1,0 +1,44 @@
+2026-01-31 20:56:27 - root - INFO - Logging to file: logs/collector_20260131_205627.log
+2026-01-31 20:56:27 - root - INFO - Logging configured with level: INFO
+2026-01-31 20:56:27 - __main__ - INFO - ================================================================================
+2026-01-31 20:56:27 - __main__ - INFO - GitHub Commit Data Collector Starting
+2026-01-31 20:56:27 - __main__ - INFO - ================================================================================
+2026-01-31 20:56:27 - config_manager - INFO - Loaded environment variables from .env
+2026-01-31 20:56:27 - config_manager - INFO - Loaded configuration from config/repositories.yaml
+2026-01-31 20:56:27 - github_client - INFO - GitHub API client initialized
+2026-01-31 20:56:27 - config_manager - INFO - Loaded configuration from config/teams.yaml
+2026-01-31 20:56:27 - team_mapper - INFO - Team mapper initialized with 10 user mappings
+2026-01-31 20:56:27 - commit_processor - INFO - Commit processor initialized
+2026-01-31 20:56:27 - data_collector - INFO - Data collector initialized
+2026-01-31 20:56:27 - config_manager - INFO - Loaded configuration from config/repositories.yaml
+2026-01-31 20:56:27 - __main__ - INFO - Collecting commits from 1 repository(ies)
+2026-01-31 20:56:27 - __main__ - INFO - Active filters: {'date_from': None, 'date_to': None, 'authors': [], 'teams': []}
+2026-01-31 20:56:27 - data_collector - INFO - Collecting commits from AkshaySingh91/COHERENCE-25_Codeyoddha_Web (branch: main)
+2026-01-31 20:56:27 - github_client - INFO - Fetching repository info: AkshaySingh91/COHERENCE-25_Codeyoddha_Web
+2026-01-31 20:56:28 - github_client - INFO - Fetching commits from AkshaySingh91/COHERENCE-25_Codeyoddha_Web (branch: main)
+2026-01-31 20:56:29 - github_client - INFO - Total commits fetched: 2
+2026-01-31 20:56:29 - data_collector - INFO - Fetching detailed data for 2 commits...
+2026-01-31 20:56:31 - commit_processor - INFO - Processed 2 commits for AkshaySingh91/COHERENCE-25_Codeyoddha_Web
+2026-01-31 20:56:31 - data_collector - INFO - Successfully collected 2 commits from AkshaySingh91/COHERENCE-25_Codeyoddha_Web
+2026-01-31 20:56:31 - data_collector - INFO - Collected total of 2 commits from 1 repositories
+2026-01-31 20:56:31 - commit_processor - INFO - Commit processor initialized
+2026-01-31 20:56:31 - data_collector - INFO - Calculated statistics for 1 repositories
+2026-01-31 20:56:31 - data_exporter - INFO - Data exporter initialized with output directory: output
+2026-01-31 20:56:31 - __main__ - INFO - ================================================================================
+2026-01-31 20:56:31 - __main__ - INFO - Exporting Data
+2026-01-31 20:56:31 - __main__ - INFO - ================================================================================
+2026-01-31 20:56:31 - data_exporter - INFO - Exported 2 commits to JSON: output/commits_20260131_205631.json
+2026-01-31 20:56:31 - data_exporter - INFO - Exported collection summary: output/collection_summary_20260131_205631.json
+2026-01-31 20:56:31 - data_exporter - INFO - Exported team summary: output/team_summary_20260131_205631.json
+2026-01-31 20:56:31 - data_exporter - INFO - Exported statistics for 1 repositories: output/repository_stats_20260131_205631.json
+2026-01-31 20:56:31 - __main__ - INFO - ================================================================================
+2026-01-31 20:56:31 - __main__ - INFO - Collection Complete!
+2026-01-31 20:56:31 - __main__ - INFO - ================================================================================
+2026-01-31 20:56:31 - __main__ - INFO - Total commits collected: 2
+2026-01-31 20:56:31 - __main__ - INFO - Repositories processed: 1
+2026-01-31 20:56:31 - __main__ - INFO - Output files created: 4
+2026-01-31 20:56:31 - __main__ - INFO -   - output/commits_20260131_205631.json
+2026-01-31 20:56:31 - __main__ - INFO -   - output/collection_summary_20260131_205631.json
+2026-01-31 20:56:31 - __main__ - INFO -   - output/team_summary_20260131_205631.json
+2026-01-31 20:56:31 - __main__ - INFO -   - output/repository_stats_20260131_205631.json
+2026-01-31 20:56:31 - __main__ - INFO - ================================================================================

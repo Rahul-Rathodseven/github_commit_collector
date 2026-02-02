@@ -1,0 +1,236 @@
+{
+  "commits": [
+    {
+      "repository": {
+        "name": "COHERENCE-25_HackHers_Web-App",
+        "owner": "shrushtikhemnar2005",
+        "url": "https://github.com/shrushtikhemnar2005/COHERENCE-25_HackHers_Web-App"
+      },
+      "commit": {
+        "sha": "526901637d4401cf4bda9792443a448c46a20fce",
+        "message": "Add files via upload",
+        "date": "2025-04-24T02:57:48+00:00",
+        "url": "https://github.com/shrushtikhemnar2005/COHERENCE-25_HackHers_Web-App/commit/526901637d4401cf4bda9792443a448c46a20fce",
+        "branch": "main"
+      },
+      "author": {
+        "name": "shrushtikhemnar2005",
+        "username": "shrushtikhemnar2005",
+        "email": "157136385+shrushtikhemnar2005@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 836,
+        "total_deletions": 0,
+        "total_changes": 836,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "Hospital_Expert_System.py",
+          "status": "added",
+          "additions": 836,
+          "deletions": 0,
+          "changes": 836
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_HackHers_Web-App",
+        "owner": "shrushtikhemnar2005",
+        "url": "https://github.com/shrushtikhemnar2005/COHERENCE-25_HackHers_Web-App"
+      },
+      "commit": {
+        "sha": "cd2f120ce6d11f98909084a5ce67e6a9cca660d8",
+        "message": "Add files via upload",
+        "date": "2025-04-21T09:51:01+00:00",
+        "url": "https://github.com/shrushtikhemnar2005/COHERENCE-25_HackHers_Web-App/commit/cd2f120ce6d11f98909084a5ce67e6a9cca660d8",
+        "branch": "main"
+      },
+      "author": {
+        "name": "shrushtikhemnar2005",
+        "username": "shrushtikhemnar2005",
+        "email": "157136385+shrushtikhemnar2005@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 538,
+        "total_deletions": 0,
+        "total_changes": 538,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "Hospital_7.py",
+          "status": "added",
+          "additions": 538,
+          "deletions": 0,
+          "changes": 538
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_HackHers_Web-App",
+        "owner": "shrushtikhemnar2005",
+        "url": "https://github.com/shrushtikhemnar2005/COHERENCE-25_HackHers_Web-App"
+      },
+      "commit": {
+        "sha": "57c20a3e7b5214cd49cb9f9c2ea58e2c48ea116e",
+        "message": "Add files via upload",
+        "date": "2025-04-20T17:11:39+00:00",
+        "url": "https://github.com/shrushtikhemnar2005/COHERENCE-25_HackHers_Web-App/commit/57c20a3e7b5214cd49cb9f9c2ea58e2c48ea116e",
+        "branch": "main"
+      },
+      "author": {
+        "name": "shrushtikhemnar2005",
+        "username": "shrushtikhemnar2005",
+        "email": "157136385+shrushtikhemnar2005@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1092,
+        "total_deletions": 0,
+        "total_changes": 1092,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "Hospital_4.py",
+          "status": "added",
+          "additions": 1092,
+          "deletions": 0,
+          "changes": 1092
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_HackHers_Web-App",
+        "owner": "shrushtikhemnar2005",
+        "url": "https://github.com/shrushtikhemnar2005/COHERENCE-25_HackHers_Web-App"
+      },
+      "commit": {
+        "sha": "399561b8a69b06d907f781cc7843318e1d3adc31",
+        "message": "Add files via upload",
+        "date": "2025-03-28T12:32:33+00:00",
+        "url": "https://github.com/shrushtikhemnar2005/COHERENCE-25_HackHers_Web-App/commit/399561b8a69b06d907f781cc7843318e1d3adc31",
+        "branch": "main"
+      },
+      "author": {
+        "name": "shrushtikhemnar2005",
+        "username": "shrushtikhemnar2005",
+        "email": "157136385+shrushtikhemnar2005@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 200,
+        "total_deletions": 0,
+        "total_changes": 200,
+        "files_changed": 7
+      },
+      "file_changes": [
+        {
+          "filename": "AirQuality.jsx",
+          "status": "added",
+          "additions": 34,
+          "deletions": 0,
+          "changes": 34
+        },
+        {
+          "filename": "Alerts.jsx",
+          "status": "added",
+          "additions": 33,
+          "deletions": 0,
+          "changes": 33
+        },
+        {
+          "filename": "App.jsx",
+          "status": "added",
+          "additions": 20,
+          "deletions": 0,
+          "changes": 20
+        },
+        {
+          "filename": "Dashboard.jsx",
+          "status": "added",
+          "additions": 14,
+          "deletions": 0,
+          "changes": 14
+        },
+        {
+          "filename": "TrafficMap.jsx",
+          "status": "added",
+          "additions": 49,
+          "deletions": 0,
+          "changes": 49
+        },
+        {
+          "filename": "fetchTrafficData.js",
+          "status": "added",
+          "additions": 15,
+          "deletions": 0,
+          "changes": 15
+        },
+        {
+          "filename": "weather.jsx",
+          "status": "added",
+          "additions": 35,
+          "deletions": 0,
+          "changes": 35
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_HackHers_Web-App",
+        "owner": "shrushtikhemnar2005",
+        "url": "https://github.com/shrushtikhemnar2005/COHERENCE-25_HackHers_Web-App"
+      },
+      "commit": {
+        "sha": "b14c153f2d883e788cd6d1fcdbcbdb3bb501f65e",
+        "message": "Initial commit",
+        "date": "2025-03-28T10:19:01+00:00",
+        "url": "https://github.com/shrushtikhemnar2005/COHERENCE-25_HackHers_Web-App/commit/b14c153f2d883e788cd6d1fcdbcbdb3bb501f65e",
+        "branch": "main"
+      },
+      "author": {
+        "name": "shrushtikhemnar2005",
+        "username": "shrushtikhemnar2005",
+        "email": "157136385+shrushtikhemnar2005@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1,
+        "total_deletions": 0,
+        "total_changes": 1,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        }
+      ]
+    }
+  ],
+  "total_commits": 5,
+  "metadata": {
+    "collection_date": "2026-01-31T21:25:56.018108",
+    "total_repositories": 1,
+    "total_commits_collected": 5,
+    "repositories_processed": [
+      "shrushtikhemnar2005/COHERENCE-25_HackHers_Web-App"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  }
+}

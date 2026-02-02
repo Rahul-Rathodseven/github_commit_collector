@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "collection_date": "2026-01-31T21:27:06.167303",
+    "total_repositories": 1,
+    "total_commits_collected": 31,
+    "repositories_processed": [
+      "Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  },
+  "overall_statistics": {
+    "total_commits": 31,
+    "unique_authors": 3,
+    "unique_teams": 1,
+    "total_additions": 33063,
+    "total_deletions": 20702,
+    "total_files_changed": 247
+  },
+  "repository_statistics": [
+    {
+      "repository": "Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML",
+      "total_commits": 31,
+      "total_additions": 33063,
+      "total_deletions": 20702,
+      "total_files_changed": 247,
+      "unique_authors": 3,
+      "date_range": {
+        "start": "2025-03-28T10:18:44+00:00",
+        "end": "2025-05-05T06:17:00+00:00"
+      },
+      "teams_involved": [
+        "unassigned"
+      ]
+    }
+  ]
+}

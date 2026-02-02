@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "collection_date": "2026-01-31T21:19:30.822031",
+    "total_repositories": 1,
+    "total_commits_collected": 38,
+    "repositories_processed": [
+      "VedantKale29/coherence25_hackermons_aiml"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  },
+  "overall_statistics": {
+    "total_commits": 38,
+    "unique_authors": 4,
+    "unique_teams": 1,
+    "total_additions": 663942,
+    "total_deletions": 737,
+    "total_files_changed": 730
+  },
+  "repository_statistics": [
+    {
+      "repository": "VedantKale29/coherence25_hackermons_aiml",
+      "total_commits": 38,
+      "total_additions": 663942,
+      "total_deletions": 737,
+      "total_files_changed": 730,
+      "unique_authors": 4,
+      "date_range": {
+        "start": "2025-03-28T10:40:33+00:00",
+        "end": "2025-03-29T11:19:27+00:00"
+      },
+      "teams_involved": [
+        "unassigned"
+      ]
+    }
+  ]
+}

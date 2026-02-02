@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "collection_date": "2026-01-31T21:22:53.945995",
+    "total_repositories": 1,
+    "total_commits_collected": 2,
+    "repositories_processed": [
+      "Akash2432004/COHERENCE-25_ByteMe_AIML"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  },
+  "overall_statistics": {
+    "total_commits": 2,
+    "unique_authors": 2,
+    "unique_teams": 1,
+    "total_additions": 141,
+    "total_deletions": 0,
+    "total_files_changed": 9
+  },
+  "repository_statistics": [
+    {
+      "repository": "Akash2432004/COHERENCE-25_ByteMe_AIML",
+      "total_commits": 2,
+      "total_additions": 141,
+      "total_deletions": 0,
+      "total_files_changed": 9,
+      "unique_authors": 2,
+      "date_range": {
+        "start": "2025-03-28T10:20:12+00:00",
+        "end": "2025-03-28T13:27:50+00:00"
+      },
+      "teams_involved": [
+        "unassigned"
+      ]
+    }
+  ]
+}

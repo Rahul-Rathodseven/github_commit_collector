@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "collection_date": "2026-01-31T21:25:30.535412",
+    "total_repositories": 1,
+    "total_commits_collected": 4,
+    "repositories_processed": [
+      "Shivam-sati/COHERENCE-25_Cyber-Ninjas_AI-ML"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  },
+  "overall_statistics": {
+    "total_commits": 4,
+    "unique_authors": 1,
+    "unique_teams": 1,
+    "total_additions": 27169,
+    "total_deletions": 7362,
+    "total_files_changed": 213
+  },
+  "repository_statistics": [
+    {
+      "repository": "Shivam-sati/COHERENCE-25_Cyber-Ninjas_AI-ML",
+      "total_commits": 4,
+      "total_additions": 27169,
+      "total_deletions": 7362,
+      "total_files_changed": 213,
+      "unique_authors": 1,
+      "date_range": {
+        "start": "2025-03-28T11:31:43+00:00",
+        "end": "2025-03-28T18:00:45+00:00"
+      },
+      "teams_involved": [
+        "unassigned"
+      ]
+    }
+  ]
+}

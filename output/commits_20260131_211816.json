@@ -1,0 +1,1376 @@
+{
+  "commits": [
+    {
+      "repository": {
+        "name": "COHERENCE-25_TechNinja_WEB-APP",
+        "owner": "Saumya10a",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP"
+      },
+      "commit": {
+        "sha": "586afbf1601432c30c30a943c72feee4d699c1e7",
+        "message": "Updated README.md\n\nName",
+        "date": "2025-03-29T10:02:52+00:00",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP/commit/586afbf1601432c30c30a943c72feee4d699c1e7",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Harsh-Hub-Studio",
+        "username": "Harsh-Hub-Studio",
+        "email": "harsh5163196@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1,
+        "total_deletions": 1,
+        "total_changes": 2,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TechNinja_WEB-APP",
+        "owner": "Saumya10a",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP"
+      },
+      "commit": {
+        "sha": "aedd2723cf4c4b4173e88d4165218782734b217a",
+        "message": "Add files via upload",
+        "date": "2025-03-29T08:42:56+00:00",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP/commit/aedd2723cf4c4b4173e88d4165218782734b217a",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Saumya Shah",
+        "username": "Saumya10a",
+        "email": "157307047+Saumya10a@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 11991,
+        "total_deletions": 0,
+        "total_changes": 11991,
+        "files_changed": 49
+      },
+      "file_changes": [
+        {
+          "filename": "WAVE/WAVE in REACT/README.md",
+          "status": "added",
+          "additions": 12,
+          "deletions": 0,
+          "changes": 12
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/eslint.config.js",
+          "status": "added",
+          "additions": 33,
+          "deletions": 0,
+          "changes": 33
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/index.html",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/package-lock.json",
+          "status": "added",
+          "additions": 7024,
+          "deletions": 0,
+          "changes": 7024
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/package.json",
+          "status": "added",
+          "additions": 49,
+          "deletions": 0,
+          "changes": 49
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/postcss.config.js",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/public/favicon.svg",
+          "status": "added",
+          "additions": 4,
+          "deletions": 0,
+          "changes": 4
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/App.css",
+          "status": "added",
+          "additions": 42,
+          "deletions": 0,
+          "changes": 42
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/App.jsx",
+          "status": "added",
+          "additions": 34,
+          "deletions": 0,
+          "changes": 34
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/assets/react.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/components/dashboard/alert-card.jsx",
+          "status": "added",
+          "additions": 52,
+          "deletions": 0,
+          "changes": 52
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/components/dashboard/area-chart.jsx",
+          "status": "added",
+          "additions": 73,
+          "deletions": 0,
+          "changes": 73
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/components/dashboard/map-card.jsx",
+          "status": "added",
+          "additions": 286,
+          "deletions": 0,
+          "changes": 286
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/components/dashboard/stat-card.jsx",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/components/mode-toggle.jsx",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/components/theme-provider.jsx",
+          "status": "added",
+          "additions": 47,
+          "deletions": 0,
+          "changes": 47
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/components/ui/avatar.jsx",
+          "status": "added",
+          "additions": 30,
+          "deletions": 0,
+          "changes": 30
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/components/ui/badge.jsx",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/components/ui/button.jsx",
+          "status": "added",
+          "additions": 40,
+          "deletions": 0,
+          "changes": 40
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/components/ui/card.jsx",
+          "status": "added",
+          "additions": 36,
+          "deletions": 0,
+          "changes": 36
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/components/ui/dropdown-menu.jsx",
+          "status": "added",
+          "additions": 150,
+          "deletions": 0,
+          "changes": 150
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/components/ui/input.jsx",
+          "status": "added",
+          "additions": 21,
+          "deletions": 0,
+          "changes": 21
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/components/ui/label.jsx",
+          "status": "added",
+          "additions": 15,
+          "deletions": 0,
+          "changes": 15
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/components/ui/progress.jsx",
+          "status": "added",
+          "additions": 21,
+          "deletions": 0,
+          "changes": 21
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/components/ui/select.jsx",
+          "status": "added",
+          "additions": 123,
+          "deletions": 0,
+          "changes": 123
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/components/ui/separator.jsx",
+          "status": "added",
+          "additions": 18,
+          "deletions": 0,
+          "changes": 18
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/components/ui/sheet.jsx",
+          "status": "added",
+          "additions": 93,
+          "deletions": 0,
+          "changes": 93
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/components/ui/sidebar.jsx",
+          "status": "added",
+          "additions": 274,
+          "deletions": 0,
+          "changes": 274
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/components/ui/switch.jsx",
+          "status": "added",
+          "additions": 25,
+          "deletions": 0,
+          "changes": 25
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/components/ui/tabs.jsx",
+          "status": "added",
+          "additions": 45,
+          "deletions": 0,
+          "changes": 45
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/components/ui/toast.jsx",
+          "status": "added",
+          "additions": 80,
+          "deletions": 0,
+          "changes": 80
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/components/ui/toaster.jsx",
+          "status": "added",
+          "additions": 4,
+          "deletions": 0,
+          "changes": 4
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/components/ui/use-toast.js",
+          "status": "added",
+          "additions": 151,
+          "deletions": 0,
+          "changes": 151
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/hooks/use-mobile.jsx",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/index.css",
+          "status": "added",
+          "additions": 95,
+          "deletions": 0,
+          "changes": 95
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/layouts/dashboard-layout.jsx",
+          "status": "added",
+          "additions": 149,
+          "deletions": 0,
+          "changes": 149
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/lib/api.js",
+          "status": "added",
+          "additions": 284,
+          "deletions": 0,
+          "changes": 284
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/lib/livetraffic.jsx",
+          "status": "added",
+          "additions": 51,
+          "deletions": 0,
+          "changes": 51
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/lib/utils.js",
+          "status": "added",
+          "additions": 7,
+          "deletions": 0,
+          "changes": 7
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/main.jsx",
+          "status": "added",
+          "additions": 10,
+          "deletions": 0,
+          "changes": 10
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/pages/air-quality.jsx",
+          "status": "added",
+          "additions": 295,
+          "deletions": 0,
+          "changes": 295
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/pages/alerts.jsx",
+          "status": "added",
+          "additions": 400,
+          "deletions": 0,
+          "changes": 400
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/pages/dashboard.jsx",
+          "status": "added",
+          "additions": 164,
+          "deletions": 0,
+          "changes": 164
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/pages/energy-usage.jsx",
+          "status": "added",
+          "additions": 366,
+          "deletions": 0,
+          "changes": 366
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/pages/settings.jsx",
+          "status": "added",
+          "additions": 560,
+          "deletions": 0,
+          "changes": 560
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/pages/traffic-management.jsx",
+          "status": "added",
+          "additions": 377,
+          "deletions": 0,
+          "changes": 377
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/src/pages/water-levels.jsx",
+          "status": "added",
+          "additions": 226,
+          "deletions": 0,
+          "changes": 226
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/tailwind.config.js",
+          "status": "added",
+          "additions": 83,
+          "deletions": 0,
+          "changes": 83
+        },
+        {
+          "filename": "WAVE/WAVE in REACT/vite.config.js",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TechNinja_WEB-APP",
+        "owner": "Saumya10a",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP"
+      },
+      "commit": {
+        "sha": "bab79140d2b214c242d5bbf566b655675fe10af5",
+        "message": "Update README.md",
+        "date": "2025-03-29T08:42:51+00:00",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP/commit/bab79140d2b214c242d5bbf566b655675fe10af5",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Harsh-Hub-Studio",
+        "username": "Harsh-Hub-Studio",
+        "email": "harsh5163196@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 9,
+        "total_deletions": 1,
+        "total_changes": 10,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "modified",
+          "additions": 9,
+          "deletions": 1,
+          "changes": 10
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TechNinja_WEB-APP",
+        "owner": "Saumya10a",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP"
+      },
+      "commit": {
+        "sha": "f0deccd974359b8a6f1f7f81f8401f28e318ae2c",
+        "message": "Add files via upload",
+        "date": "2025-03-29T08:33:17+00:00",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP/commit/f0deccd974359b8a6f1f7f81f8401f28e318ae2c",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Saumya Shah",
+        "username": "Saumya10a",
+        "email": "157307047+Saumya10a@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 994,
+        "total_deletions": 0,
+        "total_changes": 994,
+        "files_changed": 6
+      },
+      "file_changes": [
+        {
+          "filename": "WAVE/scripts/air.js",
+          "status": "added",
+          "additions": 17,
+          "deletions": 0,
+          "changes": 17
+        },
+        {
+          "filename": "WAVE/scripts/dashboard.js",
+          "status": "added",
+          "additions": 164,
+          "deletions": 0,
+          "changes": 164
+        },
+        {
+          "filename": "WAVE/scripts/home.js",
+          "status": "added",
+          "additions": 23,
+          "deletions": 0,
+          "changes": 23
+        },
+        {
+          "filename": "WAVE/scripts/profile.js",
+          "status": "added",
+          "additions": 242,
+          "deletions": 0,
+          "changes": 242
+        },
+        {
+          "filename": "WAVE/scripts/server.js",
+          "status": "added",
+          "additions": 136,
+          "deletions": 0,
+          "changes": 136
+        },
+        {
+          "filename": "WAVE/scripts/waterlevel.js",
+          "status": "added",
+          "additions": 412,
+          "deletions": 0,
+          "changes": 412
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TechNinja_WEB-APP",
+        "owner": "Saumya10a",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP"
+      },
+      "commit": {
+        "sha": "a1125f1e6a338a6f79c9f9b0018ba63df8a98f54",
+        "message": "Add files via upload",
+        "date": "2025-03-29T08:32:47+00:00",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP/commit/a1125f1e6a338a6f79c9f9b0018ba63df8a98f54",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Saumya Shah",
+        "username": "Saumya10a",
+        "email": "157307047+Saumya10a@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 2399,
+        "total_deletions": 0,
+        "total_changes": 2399,
+        "files_changed": 8
+      },
+      "file_changes": [
+        {
+          "filename": "WAVE/styles/air_quality.css",
+          "status": "added",
+          "additions": 461,
+          "deletions": 0,
+          "changes": 461
+        },
+        {
+          "filename": "WAVE/styles/dashboard.css",
+          "status": "added",
+          "additions": 649,
+          "deletions": 0,
+          "changes": 649
+        },
+        {
+          "filename": "WAVE/styles/home.css",
+          "status": "added",
+          "additions": 274,
+          "deletions": 0,
+          "changes": 274
+        },
+        {
+          "filename": "WAVE/styles/profile.css",
+          "status": "added",
+          "additions": 21,
+          "deletions": 0,
+          "changes": 21
+        },
+        {
+          "filename": "WAVE/styles/real_air_quality.css",
+          "status": "added",
+          "additions": 252,
+          "deletions": 0,
+          "changes": 252
+        },
+        {
+          "filename": "WAVE/styles/styles.css",
+          "status": "added",
+          "additions": 181,
+          "deletions": 0,
+          "changes": 181
+        },
+        {
+          "filename": "WAVE/styles/traffic.css",
+          "status": "added",
+          "additions": 206,
+          "deletions": 0,
+          "changes": 206
+        },
+        {
+          "filename": "WAVE/styles/waterlevel.css",
+          "status": "added",
+          "additions": 355,
+          "deletions": 0,
+          "changes": 355
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TechNinja_WEB-APP",
+        "owner": "Saumya10a",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP"
+      },
+      "commit": {
+        "sha": "7ab28b3dedcd91de8f2515b999539338b9433774",
+        "message": "Add files via upload",
+        "date": "2025-03-29T08:32:12+00:00",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP/commit/7ab28b3dedcd91de8f2515b999539338b9433774",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Saumya Shah",
+        "username": "Saumya10a",
+        "email": "157307047+Saumya10a@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 4797,
+        "total_deletions": 0,
+        "total_changes": 4797,
+        "files_changed": 15
+      },
+      "file_changes": [
+        {
+          "filename": "WAVE/dashboard.html",
+          "status": "added",
+          "additions": 380,
+          "deletions": 0,
+          "changes": 380
+        },
+        {
+          "filename": "WAVE/edit-profile.html",
+          "status": "added",
+          "additions": 106,
+          "deletions": 0,
+          "changes": 106
+        },
+        {
+          "filename": "WAVE/home.html",
+          "status": "added",
+          "additions": 127,
+          "deletions": 0,
+          "changes": 127
+        },
+        {
+          "filename": "WAVE/img 1.jpeg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "WAVE/login.html",
+          "status": "added",
+          "additions": 69,
+          "deletions": 0,
+          "changes": 69
+        },
+        {
+          "filename": "WAVE/logo.jpeg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "WAVE/package-lock.json",
+          "status": "added",
+          "additions": 2996,
+          "deletions": 0,
+          "changes": 2996
+        },
+        {
+          "filename": "WAVE/package.json",
+          "status": "added",
+          "additions": 20,
+          "deletions": 0,
+          "changes": 20
+        },
+        {
+          "filename": "WAVE/profile.html",
+          "status": "added",
+          "additions": 274,
+          "deletions": 0,
+          "changes": 274
+        },
+        {
+          "filename": "WAVE/real_air_quality.html",
+          "status": "added",
+          "additions": 208,
+          "deletions": 0,
+          "changes": 208
+        },
+        {
+          "filename": "WAVE/register.html",
+          "status": "added",
+          "additions": 90,
+          "deletions": 0,
+          "changes": 90
+        },
+        {
+          "filename": "WAVE/signUp.html",
+          "status": "added",
+          "additions": 117,
+          "deletions": 0,
+          "changes": 117
+        },
+        {
+          "filename": "WAVE/traffic.txt",
+          "status": "added",
+          "additions": 261,
+          "deletions": 0,
+          "changes": 261
+        },
+        {
+          "filename": "WAVE/waterlevel.html",
+          "status": "added",
+          "additions": 149,
+          "deletions": 0,
+          "changes": 149
+        },
+        {
+          "filename": "WAVE/wave.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TechNinja_WEB-APP",
+        "owner": "Saumya10a",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP"
+      },
+      "commit": {
+        "sha": "5e5e35eb295ee41c3b5927190fd0ed4f019db365",
+        "message": "Add files via upload",
+        "date": "2025-03-29T08:31:37+00:00",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP/commit/5e5e35eb295ee41c3b5927190fd0ed4f019db365",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Saumya Shah",
+        "username": "Saumya10a",
+        "email": "157307047+Saumya10a@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 232,
+        "total_deletions": 0,
+        "total_changes": 232,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "WAVE/air_quality.html",
+          "status": "added",
+          "additions": 232,
+          "deletions": 0,
+          "changes": 232
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TechNinja_WEB-APP",
+        "owner": "Saumya10a",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP"
+      },
+      "commit": {
+        "sha": "0b2d5dea912961e40cc7c7441443efae2c6a4007",
+        "message": "Add files via upload",
+        "date": "2025-03-29T06:30:43+00:00",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP/commit/0b2d5dea912961e40cc7c7441443efae2c6a4007",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Harsh-Hub-Studio",
+        "username": "Harsh-Hub-Studio",
+        "email": "harsh5163196@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 223,
+        "total_deletions": 0,
+        "total_changes": 223,
+        "files_changed": 3
+      },
+      "file_changes": [
+        {
+          "filename": "review.css",
+          "status": "added",
+          "additions": 117,
+          "deletions": 0,
+          "changes": 117
+        },
+        {
+          "filename": "review.html",
+          "status": "added",
+          "additions": 49,
+          "deletions": 0,
+          "changes": 49
+        },
+        {
+          "filename": "review.js",
+          "status": "added",
+          "additions": 57,
+          "deletions": 0,
+          "changes": 57
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TechNinja_WEB-APP",
+        "owner": "Saumya10a",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP"
+      },
+      "commit": {
+        "sha": "3a64b93107e7daa2e205bbf87bec5c5a166f826a",
+        "message": "Updated dashboard.js\n\nchatbot",
+        "date": "2025-03-29T06:11:17+00:00",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP/commit/3a64b93107e7daa2e205bbf87bec5c5a166f826a",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Saish Satam",
+        "username": "SaishSatam063",
+        "email": "saish.232573101@vcet.edu.in",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 9,
+        "total_deletions": 20,
+        "total_changes": 29,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "dashboard/dashboard.js",
+          "status": "modified",
+          "additions": 9,
+          "deletions": 20,
+          "changes": 29
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TechNinja_WEB-APP",
+        "owner": "Saumya10a",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP"
+      },
+      "commit": {
+        "sha": "20e5d41ef8837656fe7570bb74559fadb1284760",
+        "message": "Updated dashboard.css\n\nbg color and chatbot features",
+        "date": "2025-03-29T06:10:05+00:00",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP/commit/20e5d41ef8837656fe7570bb74559fadb1284760",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Saish Satam",
+        "username": "SaishSatam063",
+        "email": "saish.232573101@vcet.edu.in",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 121,
+        "total_deletions": 9,
+        "total_changes": 130,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "dashboard/dashboard.css",
+          "status": "modified",
+          "additions": 121,
+          "deletions": 9,
+          "changes": 130
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TechNinja_WEB-APP",
+        "owner": "Saumya10a",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP"
+      },
+      "commit": {
+        "sha": "337ac8025310008c02a288dee2985157effbf091",
+        "message": "Updated dashboard.html\n\nchatbot text box and chat circle\r\nnavbar and logout and review button",
+        "date": "2025-03-29T06:08:55+00:00",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP/commit/337ac8025310008c02a288dee2985157effbf091",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Saish Satam",
+        "username": "SaishSatam063",
+        "email": "saish.232573101@vcet.edu.in",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 75,
+        "total_deletions": 260,
+        "total_changes": 335,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "dashboard/dashboard.html",
+          "status": "modified",
+          "additions": 75,
+          "deletions": 260,
+          "changes": 335
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TechNinja_WEB-APP",
+        "owner": "Saumya10a",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP"
+      },
+      "commit": {
+        "sha": "530233790cb02efb550ec82f828d01aa33b1f98a",
+        "message": "Add files via upload",
+        "date": "2025-03-29T02:16:11+00:00",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP/commit/530233790cb02efb550ec82f828d01aa33b1f98a",
+        "branch": "main"
+      },
+      "author": {
+        "name": "tirthrana007",
+        "username": "tirthrana007",
+        "email": "ranatirth7@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1193,
+        "total_deletions": 0,
+        "total_changes": 1193,
+        "files_changed": 3
+      },
+      "file_changes": [
+        {
+          "filename": "dashboard/dashboard.css",
+          "status": "added",
+          "additions": 649,
+          "deletions": 0,
+          "changes": 649
+        },
+        {
+          "filename": "dashboard/dashboard.html",
+          "status": "added",
+          "additions": 380,
+          "deletions": 0,
+          "changes": 380
+        },
+        {
+          "filename": "dashboard/dashboard.js",
+          "status": "added",
+          "additions": 164,
+          "deletions": 0,
+          "changes": 164
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TechNinja_WEB-APP",
+        "owner": "Saumya10a",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP"
+      },
+      "commit": {
+        "sha": "1c6f6229b0b2167aaf297bd8e881083c98dc1cbf",
+        "message": "Add files via upload",
+        "date": "2025-03-29T01:58:26+00:00",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP/commit/1c6f6229b0b2167aaf297bd8e881083c98dc1cbf",
+        "branch": "main"
+      },
+      "author": {
+        "name": "tirthrana007",
+        "username": "tirthrana007",
+        "email": "ranatirth7@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 641,
+        "total_deletions": 0,
+        "total_changes": 641,
+        "files_changed": 4
+      },
+      "file_changes": [
+        {
+          "filename": "air.js",
+          "status": "added",
+          "additions": 17,
+          "deletions": 0,
+          "changes": 17
+        },
+        {
+          "filename": "dashboard.js",
+          "status": "added",
+          "additions": 164,
+          "deletions": 0,
+          "changes": 164
+        },
+        {
+          "filename": "real_air_quality.css",
+          "status": "added",
+          "additions": 252,
+          "deletions": 0,
+          "changes": 252
+        },
+        {
+          "filename": "real_air_quality.html",
+          "status": "added",
+          "additions": 208,
+          "deletions": 0,
+          "changes": 208
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TechNinja_WEB-APP",
+        "owner": "Saumya10a",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP"
+      },
+      "commit": {
+        "sha": "d0333a9a3c221ee9089e8020974cbdbd33678b07",
+        "message": "Add files via upload",
+        "date": "2025-03-29T01:56:40+00:00",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP/commit/d0333a9a3c221ee9089e8020974cbdbd33678b07",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Saish Satam",
+        "username": "SaishSatam063",
+        "email": "saish.232573101@vcet.edu.in",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 0,
+        "total_changes": 0,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "wave.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TechNinja_WEB-APP",
+        "owner": "Saumya10a",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP"
+      },
+      "commit": {
+        "sha": "eb5ae8f2eb5ce663fc5ccc452e786581cf51e718",
+        "message": "Update home.js\n\ndark mode",
+        "date": "2025-03-28T21:19:23+00:00",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP/commit/eb5ae8f2eb5ce663fc5ccc452e786581cf51e718",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Saish Satam",
+        "username": "SaishSatam063",
+        "email": "saish.232573101@vcet.edu.in",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 0,
+        "total_changes": 0,
+        "files_changed": 0
+      },
+      "file_changes": []
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TechNinja_WEB-APP",
+        "owner": "Saumya10a",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP"
+      },
+      "commit": {
+        "sha": "44123e5e4bdc05df8f541ce7f75072b9bbbc5ba8",
+        "message": "Update home.js\n\ndark mode toggle",
+        "date": "2025-03-28T21:18:31+00:00",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP/commit/44123e5e4bdc05df8f541ce7f75072b9bbbc5ba8",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Saish Satam",
+        "username": "SaishSatam063",
+        "email": "saish.232573101@vcet.edu.in",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 20,
+        "total_deletions": 25,
+        "total_changes": 45,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "home.js",
+          "status": "modified",
+          "additions": 20,
+          "deletions": 25,
+          "changes": 45
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TechNinja_WEB-APP",
+        "owner": "Saumya10a",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP"
+      },
+      "commit": {
+        "sha": "0a48e73caf050391f3657a6f9908a39190952a2e",
+        "message": "Update home.css\n\nlogo and dark mode",
+        "date": "2025-03-28T21:17:54+00:00",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP/commit/0a48e73caf050391f3657a6f9908a39190952a2e",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Saish Satam",
+        "username": "SaishSatam063",
+        "email": "saish.232573101@vcet.edu.in",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 39,
+        "total_deletions": 98,
+        "total_changes": 137,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "home.css",
+          "status": "modified",
+          "additions": 39,
+          "deletions": 98,
+          "changes": 137
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TechNinja_WEB-APP",
+        "owner": "Saumya10a",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP"
+      },
+      "commit": {
+        "sha": "239f464a217d045d7bca7d5d470fbd2afaa7ba0a",
+        "message": "Updated home.html\n\ndarkmode and logo",
+        "date": "2025-03-28T21:17:22+00:00",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP/commit/239f464a217d045d7bca7d5d470fbd2afaa7ba0a",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Saish Satam",
+        "username": "SaishSatam063",
+        "email": "saish.232573101@vcet.edu.in",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 27,
+        "total_deletions": 10,
+        "total_changes": 37,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "home.html",
+          "status": "modified",
+          "additions": 27,
+          "deletions": 10,
+          "changes": 37
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TechNinja_WEB-APP",
+        "owner": "Saumya10a",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP"
+      },
+      "commit": {
+        "sha": "cf85307888c05388214f42255c563b87967d99cc",
+        "message": "Add files via upload",
+        "date": "2025-03-28T18:48:28+00:00",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP/commit/cf85307888c05388214f42255c563b87967d99cc",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Saish Satam",
+        "username": "SaishSatam063",
+        "email": "saish.232573101@vcet.edu.in",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 414,
+        "total_deletions": 0,
+        "total_changes": 414,
+        "files_changed": 4
+      },
+      "file_changes": [
+        {
+          "filename": "login s.html",
+          "status": "added",
+          "additions": 36,
+          "deletions": 0,
+          "changes": 36
+        },
+        {
+          "filename": "login.css",
+          "status": "added",
+          "additions": 181,
+          "deletions": 0,
+          "changes": 181
+        },
+        {
+          "filename": "register.html",
+          "status": "added",
+          "additions": 90,
+          "deletions": 0,
+          "changes": 90
+        },
+        {
+          "filename": "server.js",
+          "status": "added",
+          "additions": 107,
+          "deletions": 0,
+          "changes": 107
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TechNinja_WEB-APP",
+        "owner": "Saumya10a",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP"
+      },
+      "commit": {
+        "sha": "871442405e50252d3c3afd2625b7a7e965d79235",
+        "message": "Add files via upload",
+        "date": "2025-03-28T11:24:59+00:00",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP/commit/871442405e50252d3c3afd2625b7a7e965d79235",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Saumya Shah",
+        "username": "Saumya10a",
+        "email": "157307047+Saumya10a@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 361,
+        "total_deletions": 0,
+        "total_changes": 361,
+        "files_changed": 2
+      },
+      "file_changes": [
+        {
+          "filename": "home.css",
+          "status": "added",
+          "additions": 333,
+          "deletions": 0,
+          "changes": 333
+        },
+        {
+          "filename": "home.js",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TechNinja_WEB-APP",
+        "owner": "Saumya10a",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP"
+      },
+      "commit": {
+        "sha": "1e0cf3a6f36ad1a464346df7efec42c1f5b88337",
+        "message": "Add files via upload",
+        "date": "2025-03-28T11:09:33+00:00",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP/commit/1e0cf3a6f36ad1a464346df7efec42c1f5b88337",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Saumya Shah",
+        "username": "Saumya10a",
+        "email": "157307047+Saumya10a@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 109,
+        "total_deletions": 0,
+        "total_changes": 109,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "home.html",
+          "status": "added",
+          "additions": 109,
+          "deletions": 0,
+          "changes": 109
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TechNinja_WEB-APP",
+        "owner": "Saumya10a",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP"
+      },
+      "commit": {
+        "sha": "d5fbfeb3114a44991e9235b54307180a3e46c4e7",
+        "message": "Initial commit",
+        "date": "2025-03-28T10:22:41+00:00",
+        "url": "https://github.com/Saumya10a/COHERENCE-25_TechNinja_WEB-APP/commit/d5fbfeb3114a44991e9235b54307180a3e46c4e7",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Saumya Shah",
+        "username": "Saumya10a",
+        "email": "157307047+Saumya10a@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1,
+        "total_deletions": 0,
+        "total_changes": 1,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        }
+      ]
+    }
+  ],
+  "total_commits": 22,
+  "metadata": {
+    "collection_date": "2026-01-31T21:18:16.004622",
+    "total_repositories": 1,
+    "total_commits_collected": 22,
+    "repositories_processed": [
+      "Saumya10a/COHERENCE-25_TechNinja_WEB-APP"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  }
+}

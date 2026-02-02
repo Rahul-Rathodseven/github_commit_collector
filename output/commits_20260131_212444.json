@@ -1,0 +1,844 @@
+{
+  "commits": [
+    {
+      "repository": {
+        "name": "COHERENCE-25_TeamAlliance_AIML",
+        "owner": "anish4463",
+        "url": "https://github.com/anish4463/COHERENCE-25_TeamAlliance_AIML"
+      },
+      "commit": {
+        "sha": "f83e216c5a025366ab81ce3ac7a73c76864d2c33",
+        "message": "Add files via upload",
+        "date": "2025-03-29T07:16:45+00:00",
+        "url": "https://github.com/anish4463/COHERENCE-25_TeamAlliance_AIML/commit/f83e216c5a025366ab81ce3ac7a73c76864d2c33",
+        "branch": "main"
+      },
+      "author": {
+        "name": "anish4463",
+        "username": "anish4463",
+        "email": "145772077+anish4463@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 808,
+        "total_deletions": 59,
+        "total_changes": 867,
+        "files_changed": 12
+      },
+      "file_changes": [
+        {
+          "filename": "__pycache__/authenticity_checker.cpython-311.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "__pycache__/fake_resume_detector.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "__pycache__/grammar_checker.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "__pycache__/hr_criteria.cpython-312.pyc",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "__pycache__/ml_processor.cpython-311.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "__pycache__/plagiarism_checker.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "__pycache__/ranking.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "__pycache__/resume_parser.cpython-311.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "__pycache__/resume_parser.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "__pycache__/skill_matcher.cpython-311.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "__pycache__/text_similarity.cpython-311.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "static/careerTrajectory.js",
+          "status": "modified",
+          "additions": 808,
+          "deletions": 59,
+          "changes": 867
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TeamAlliance_AIML",
+        "owner": "anish4463",
+        "url": "https://github.com/anish4463/COHERENCE-25_TeamAlliance_AIML"
+      },
+      "commit": {
+        "sha": "ebfcfe9a5251719722b5eb0998ab17c31fb68c1c",
+        "message": "Add files via upload",
+        "date": "2025-03-29T05:37:45+00:00",
+        "url": "https://github.com/anish4463/COHERENCE-25_TeamAlliance_AIML/commit/ebfcfe9a5251719722b5eb0998ab17c31fb68c1c",
+        "branch": "main"
+      },
+      "author": {
+        "name": "anish4463",
+        "username": "anish4463",
+        "email": "145772077+anish4463@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 43204,
+        "total_deletions": 191,
+        "total_changes": 43395,
+        "files_changed": 22
+      },
+      "file_changes": [
+        {
+          "filename": "app.py",
+          "status": "modified",
+          "additions": 86,
+          "deletions": 44,
+          "changes": 130
+        },
+        {
+          "filename": "authenticity_checker.py",
+          "status": "added",
+          "additions": 47,
+          "deletions": 0,
+          "changes": 47
+        },
+        {
+          "filename": "fake_resume_detector.py",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "grammar_checker.py",
+          "status": "modified",
+          "additions": 43,
+          "deletions": 4,
+          "changes": 47
+        },
+        {
+          "filename": "hr_criteria.py",
+          "status": "modified",
+          "additions": 18,
+          "deletions": 5,
+          "changes": 23
+        },
+        {
+          "filename": "ml_processor.py",
+          "status": "added",
+          "additions": 58,
+          "deletions": 0,
+          "changes": 58
+        },
+        {
+          "filename": "models/fake_resume_model.pkl",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "models/nlp_vectorizer.pkl",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "plagiarism_checker.py",
+          "status": "modified",
+          "additions": 33,
+          "deletions": 5,
+          "changes": 38
+        },
+        {
+          "filename": "ranking.py",
+          "status": "modified",
+          "additions": 46,
+          "deletions": 21,
+          "changes": 67
+        },
+        {
+          "filename": "requirements.txt",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "resume_analyzer.py",
+          "status": "added",
+          "additions": 42,
+          "deletions": 0,
+          "changes": 42
+        },
+        {
+          "filename": "resume_parser.py",
+          "status": "modified",
+          "additions": 44,
+          "deletions": 8,
+          "changes": 52
+        },
+        {
+          "filename": "skill_matcher.py",
+          "status": "added",
+          "additions": 22,
+          "deletions": 0,
+          "changes": 22
+        },
+        {
+          "filename": "static/careerTrajectory.js",
+          "status": "added",
+          "additions": 74,
+          "deletions": 0,
+          "changes": 74
+        },
+        {
+          "filename": "static/images/ai-icon.png.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "static/images/ranking-icon.png.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "static/images/speed-icon.png.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "templates/index.html",
+          "status": "modified",
+          "additions": 482,
+          "deletions": 103,
+          "changes": 585
+        },
+        {
+          "filename": "text_similarity.py",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "training_scripts/UpdatedResumeDataSet.csv",
+          "status": "added",
+          "additions": 42105,
+          "deletions": 0,
+          "changes": 42105
+        },
+        {
+          "filename": "training_scripts/train_fake_resume_model.py",
+          "status": "added",
+          "additions": 76,
+          "deletions": 0,
+          "changes": 76
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TeamAlliance_AIML",
+        "owner": "anish4463",
+        "url": "https://github.com/anish4463/COHERENCE-25_TeamAlliance_AIML"
+      },
+      "commit": {
+        "sha": "89dd5a19656f36bfdd51a5b0b9406b553850c6e4",
+        "message": "Add files via upload",
+        "date": "2025-03-28T23:30:52+00:00",
+        "url": "https://github.com/anish4463/COHERENCE-25_TeamAlliance_AIML/commit/89dd5a19656f36bfdd51a5b0b9406b553850c6e4",
+        "branch": "main"
+      },
+      "author": {
+        "name": "anish4463",
+        "username": "anish4463",
+        "email": "145772077+anish4463@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 0,
+        "total_changes": 0,
+        "files_changed": 0
+      },
+      "file_changes": []
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TeamAlliance_AIML",
+        "owner": "anish4463",
+        "url": "https://github.com/anish4463/COHERENCE-25_TeamAlliance_AIML"
+      },
+      "commit": {
+        "sha": "06b6750f6c55ac57d46dc598c01e6efbbbe7cbef",
+        "message": "Add files via upload",
+        "date": "2025-03-28T18:52:50+00:00",
+        "url": "https://github.com/anish4463/COHERENCE-25_TeamAlliance_AIML/commit/06b6750f6c55ac57d46dc598c01e6efbbbe7cbef",
+        "branch": "main"
+      },
+      "author": {
+        "name": "anish4463",
+        "username": "anish4463",
+        "email": "145772077+anish4463@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 128,
+        "total_deletions": 0,
+        "total_changes": 128,
+        "files_changed": 2
+      },
+      "file_changes": [
+        {
+          "filename": "index.html",
+          "status": "added",
+          "additions": 113,
+          "deletions": 0,
+          "changes": 113
+        },
+        {
+          "filename": "style.css",
+          "status": "added",
+          "additions": 15,
+          "deletions": 0,
+          "changes": 15
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TeamAlliance_AIML",
+        "owner": "anish4463",
+        "url": "https://github.com/anish4463/COHERENCE-25_TeamAlliance_AIML"
+      },
+      "commit": {
+        "sha": "40a2c2c7452c7e36a1b44618185467396ec5a88c",
+        "message": "Add files via upload",
+        "date": "2025-03-28T17:10:04+00:00",
+        "url": "https://github.com/anish4463/COHERENCE-25_TeamAlliance_AIML/commit/40a2c2c7452c7e36a1b44618185467396ec5a88c",
+        "branch": "main"
+      },
+      "author": {
+        "name": "anish4463",
+        "username": "anish4463",
+        "email": "145772077+anish4463@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 781,
+        "total_deletions": 0,
+        "total_changes": 781,
+        "files_changed": 22
+      },
+      "file_changes": [
+        {
+          "filename": "Dataset/Accoount executive.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "Dataset/Accoount executives.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "Dataset/Content creators.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "Dataset/Data Scientist-1.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "Dataset/Data Scientist-2.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "Dataset/Senior accountants.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "Dataset/Software Engineer.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "Dataset/Software Engineers.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "Dataset/junior data analyst.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "Dataset/junior data analysts.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "Dataset/sales representative.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "Dataset/sales representatives.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "Dataset/web & graphic designer.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "Dataset/web & graphic designers.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "__pycache__/hr_criteria.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "models/nlp_vectorizer.pkl",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "models/ranking_model.pkl",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "static/script.js",
+          "status": "added",
+          "additions": 70,
+          "deletions": 0,
+          "changes": 70
+        },
+        {
+          "filename": "static/style.css",
+          "status": "added",
+          "additions": 15,
+          "deletions": 0,
+          "changes": 15
+        },
+        {
+          "filename": "templates/index.html",
+          "status": "added",
+          "additions": 113,
+          "deletions": 0,
+          "changes": 113
+        },
+        {
+          "filename": "training_scripts/resume_data.csv",
+          "status": "added",
+          "additions": 501,
+          "deletions": 0,
+          "changes": 501
+        },
+        {
+          "filename": "training_scripts/train_ranking_model.py",
+          "status": "added",
+          "additions": 82,
+          "deletions": 0,
+          "changes": 82
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TeamAlliance_AIML",
+        "owner": "anish4463",
+        "url": "https://github.com/anish4463/COHERENCE-25_TeamAlliance_AIML"
+      },
+      "commit": {
+        "sha": "6f877c9010ce055f00952892c7acff471c42c31e",
+        "message": "Add files via upload",
+        "date": "2025-03-28T17:05:56+00:00",
+        "url": "https://github.com/anish4463/COHERENCE-25_TeamAlliance_AIML/commit/6f877c9010ce055f00952892c7acff471c42c31e",
+        "branch": "main"
+      },
+      "author": {
+        "name": "anish4463",
+        "username": "anish4463",
+        "email": "145772077+anish4463@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 228,
+        "total_deletions": 0,
+        "total_changes": 228,
+        "files_changed": 10
+      },
+      "file_changes": [
+        {
+          "filename": "app.py",
+          "status": "added",
+          "additions": 56,
+          "deletions": 0,
+          "changes": 56
+        },
+        {
+          "filename": "bias_detection.py",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "fake_resume_detector.py",
+          "status": "added",
+          "additions": 15,
+          "deletions": 0,
+          "changes": 15
+        },
+        {
+          "filename": "grammar_checker.py",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "hr_criteria.py",
+          "status": "added",
+          "additions": 34,
+          "deletions": 0,
+          "changes": 34
+        },
+        {
+          "filename": "plagiarism_checker.py",
+          "status": "added",
+          "additions": 9,
+          "deletions": 0,
+          "changes": 9
+        },
+        {
+          "filename": "process_resumes.py",
+          "status": "added",
+          "additions": 41,
+          "deletions": 0,
+          "changes": 41
+        },
+        {
+          "filename": "ranking.py",
+          "status": "added",
+          "additions": 25,
+          "deletions": 0,
+          "changes": 25
+        },
+        {
+          "filename": "resume_parser.py",
+          "status": "added",
+          "additions": 9,
+          "deletions": 0,
+          "changes": 9
+        },
+        {
+          "filename": "test.py",
+          "status": "added",
+          "additions": 23,
+          "deletions": 0,
+          "changes": 23
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TeamAlliance_AIML",
+        "owner": "anish4463",
+        "url": "https://github.com/anish4463/COHERENCE-25_TeamAlliance_AIML"
+      },
+      "commit": {
+        "sha": "4f13eea8335ee21d6d6115813cf0ca2f082d0786",
+        "message": "Delete resume-screener directory",
+        "date": "2025-03-28T16:59:59+00:00",
+        "url": "https://github.com/anish4463/COHERENCE-25_TeamAlliance_AIML/commit/4f13eea8335ee21d6d6115813cf0ca2f082d0786",
+        "branch": "main"
+      },
+      "author": {
+        "name": "anish4463",
+        "username": "anish4463",
+        "email": "145772077+anish4463@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 285,
+        "total_changes": 285,
+        "files_changed": 7
+      },
+      "file_changes": [
+        {
+          "filename": "resume-screener/app.py",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 56,
+          "changes": 56
+        },
+        {
+          "filename": "resume-screener/bias_detection.py",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 8,
+          "changes": 8
+        },
+        {
+          "filename": "resume-screener/fake_resume_detector.py",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 15,
+          "changes": 15
+        },
+        {
+          "filename": "resume-screener/grammar_checker.py",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 8,
+          "changes": 8
+        },
+        {
+          "filename": "resume-screener/static/script.js",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 70,
+          "changes": 70
+        },
+        {
+          "filename": "resume-screener/static/style.css",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 15,
+          "changes": 15
+        },
+        {
+          "filename": "resume-screener/templates/index.html",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 113,
+          "changes": 113
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TeamAlliance_AIML",
+        "owner": "anish4463",
+        "url": "https://github.com/anish4463/COHERENCE-25_TeamAlliance_AIML"
+      },
+      "commit": {
+        "sha": "e17a591bbd53a45cbd439ab3747b1c64eb9642ea",
+        "message": "Add files via upload",
+        "date": "2025-03-28T12:36:24+00:00",
+        "url": "https://github.com/anish4463/COHERENCE-25_TeamAlliance_AIML/commit/e17a591bbd53a45cbd439ab3747b1c64eb9642ea",
+        "branch": "main"
+      },
+      "author": {
+        "name": "anish4463",
+        "username": "anish4463",
+        "email": "145772077+anish4463@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 87,
+        "total_deletions": 0,
+        "total_changes": 87,
+        "files_changed": 4
+      },
+      "file_changes": [
+        {
+          "filename": "resume-screener/app.py",
+          "status": "added",
+          "additions": 56,
+          "deletions": 0,
+          "changes": 56
+        },
+        {
+          "filename": "resume-screener/bias_detection.py",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "resume-screener/fake_resume_detector.py",
+          "status": "added",
+          "additions": 15,
+          "deletions": 0,
+          "changes": 15
+        },
+        {
+          "filename": "resume-screener/grammar_checker.py",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_TeamAlliance_AIML",
+        "owner": "anish4463",
+        "url": "https://github.com/anish4463/COHERENCE-25_TeamAlliance_AIML"
+      },
+      "commit": {
+        "sha": "2ecb6c99c5f42c9048999116a7012cb911ab1437",
+        "message": "Add files via upload",
+        "date": "2025-03-28T10:44:25+00:00",
+        "url": "https://github.com/anish4463/COHERENCE-25_TeamAlliance_AIML/commit/2ecb6c99c5f42c9048999116a7012cb911ab1437",
+        "branch": "main"
+      },
+      "author": {
+        "name": "anish4463",
+        "username": "anish4463",
+        "email": "145772077+anish4463@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 198,
+        "total_deletions": 0,
+        "total_changes": 198,
+        "files_changed": 3
+      },
+      "file_changes": [
+        {
+          "filename": "resume-screener/static/script.js",
+          "status": "added",
+          "additions": 70,
+          "deletions": 0,
+          "changes": 70
+        },
+        {
+          "filename": "resume-screener/static/style.css",
+          "status": "added",
+          "additions": 15,
+          "deletions": 0,
+          "changes": 15
+        },
+        {
+          "filename": "resume-screener/templates/index.html",
+          "status": "added",
+          "additions": 113,
+          "deletions": 0,
+          "changes": 113
+        }
+      ]
+    }
+  ],
+  "total_commits": 9,
+  "metadata": {
+    "collection_date": "2026-01-31T21:24:44.366289",
+    "total_repositories": 1,
+    "total_commits_collected": 9,
+    "repositories_processed": [
+      "anish4463/COHERENCE-25_TeamAlliance_AIML"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  }
+}

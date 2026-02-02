@@ -1,0 +1,5325 @@
+{
+  "commits": [
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "6ec59d856fb12ebf009aaca2ff4ce1530ce4ac0e",
+        "message": "Update README.md",
+        "date": "2025-05-30T07:39:30+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/6ec59d856fb12ebf009aaca2ff4ce1530ce4ac0e",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 2,
+        "total_deletions": 0,
+        "total_changes": 2,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 0,
+          "changes": 2
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "76c0611e63862fd267e5de613b999a60d355c3ea",
+        "message": "Update README.md",
+        "date": "2025-05-30T07:38:16+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/76c0611e63862fd267e5de613b999a60d355c3ea",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 25,
+        "total_deletions": 1,
+        "total_changes": 26,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "modified",
+          "additions": 25,
+          "deletions": 1,
+          "changes": 26
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "24af6cdbe7c7c08b5cf3e6b18523bbc33961d21f",
+        "message": "Update README.md",
+        "date": "2025-05-30T07:34:38+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/24af6cdbe7c7c08b5cf3e6b18523bbc33961d21f",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 2,
+        "total_deletions": 0,
+        "total_changes": 2,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 0,
+          "changes": 2
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "16391d124f46f8b83f4198eab12fb301389e664b",
+        "message": "Update README.md",
+        "date": "2025-05-30T07:33:27+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/16391d124f46f8b83f4198eab12fb301389e664b",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 33,
+        "total_deletions": 1,
+        "total_changes": 34,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "modified",
+          "additions": 33,
+          "deletions": 1,
+          "changes": 34
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "d982d30e2387eb25ec4414b445932f88842f9001",
+        "message": "Add files via upload",
+        "date": "2025-04-03T13:43:50+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/d982d30e2387eb25ec4414b445932f88842f9001",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mayur-Bhamare-13",
+        "username": "Mayur-Bhamare-13",
+        "email": "fanofshahrukh001@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 4,
+        "total_deletions": 0,
+        "total_changes": 4,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "steps to run blockchain.txt",
+          "status": "added",
+          "additions": 4,
+          "deletions": 0,
+          "changes": 4
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "7b97172b0d768747b69eb526604125d2a11df9f9",
+        "message": "Final",
+        "date": "2025-03-29T11:04:52+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/7b97172b0d768747b69eb526604125d2a11df9f9",
+        "branch": "main"
+      },
+      "author": {
+        "name": "pulkitashara",
+        "username": "pulkitashara",
+        "email": "pulkit.221143101@vcet.edu.in",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1,
+        "total_deletions": 0,
+        "total_changes": 1,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "493b0d200006f1772803e240e07221bc178766b4",
+        "message": "Final",
+        "date": "2025-03-29T11:01:08+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/493b0d200006f1772803e240e07221bc178766b4",
+        "branch": "main"
+      },
+      "author": {
+        "name": "pulkitashara",
+        "username": "pulkitashara",
+        "email": "pulkit.221143101@vcet.edu.in",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 14584,
+        "total_deletions": 0,
+        "total_changes": 14584,
+        "files_changed": 83
+      },
+      "file_changes": [
+        {
+          "filename": ".gitignore",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        },
+        {
+          "filename": "DecentralizedIdentityABI.json",
+          "status": "added",
+          "additions": 394,
+          "deletions": 0,
+          "changes": 394
+        },
+        {
+          "filename": "app/globals.css",
+          "status": "added",
+          "additions": 94,
+          "deletions": 0,
+          "changes": 94
+        },
+        {
+          "filename": "app/layout.tsx",
+          "status": "added",
+          "additions": 20,
+          "deletions": 0,
+          "changes": 20
+        },
+        {
+          "filename": "app/page.js",
+          "status": "added",
+          "additions": 307,
+          "deletions": 0,
+          "changes": 307
+        },
+        {
+          "filename": "app/utils/storage.js",
+          "status": "added",
+          "additions": 24,
+          "deletions": 0,
+          "changes": 24
+        },
+        {
+          "filename": "components.json",
+          "status": "added",
+          "additions": 21,
+          "deletions": 0,
+          "changes": 21
+        },
+        {
+          "filename": "components/admin-panel.js",
+          "status": "added",
+          "additions": 371,
+          "deletions": 0,
+          "changes": 371
+        },
+        {
+          "filename": "components/connect-wallet.js",
+          "status": "added",
+          "additions": 272,
+          "deletions": 0,
+          "changes": 272
+        },
+        {
+          "filename": "components/issuer-portal.js",
+          "status": "added",
+          "additions": 309,
+          "deletions": 0,
+          "changes": 309
+        },
+        {
+          "filename": "components/theme-provider.tsx",
+          "status": "added",
+          "additions": 11,
+          "deletions": 0,
+          "changes": 11
+        },
+        {
+          "filename": "components/ui/accordion.tsx",
+          "status": "added",
+          "additions": 58,
+          "deletions": 0,
+          "changes": 58
+        },
+        {
+          "filename": "components/ui/alert-dialog.tsx",
+          "status": "added",
+          "additions": 141,
+          "deletions": 0,
+          "changes": 141
+        },
+        {
+          "filename": "components/ui/alert.tsx",
+          "status": "added",
+          "additions": 59,
+          "deletions": 0,
+          "changes": 59
+        },
+        {
+          "filename": "components/ui/aspect-ratio.tsx",
+          "status": "added",
+          "additions": 7,
+          "deletions": 0,
+          "changes": 7
+        },
+        {
+          "filename": "components/ui/avatar.tsx",
+          "status": "added",
+          "additions": 50,
+          "deletions": 0,
+          "changes": 50
+        },
+        {
+          "filename": "components/ui/badge.tsx",
+          "status": "added",
+          "additions": 36,
+          "deletions": 0,
+          "changes": 36
+        },
+        {
+          "filename": "components/ui/breadcrumb.tsx",
+          "status": "added",
+          "additions": 115,
+          "deletions": 0,
+          "changes": 115
+        },
+        {
+          "filename": "components/ui/button.tsx",
+          "status": "added",
+          "additions": 56,
+          "deletions": 0,
+          "changes": 56
+        },
+        {
+          "filename": "components/ui/calendar.tsx",
+          "status": "added",
+          "additions": 66,
+          "deletions": 0,
+          "changes": 66
+        },
+        {
+          "filename": "components/ui/card.tsx",
+          "status": "added",
+          "additions": 79,
+          "deletions": 0,
+          "changes": 79
+        },
+        {
+          "filename": "components/ui/carousel.tsx",
+          "status": "added",
+          "additions": 262,
+          "deletions": 0,
+          "changes": 262
+        },
+        {
+          "filename": "components/ui/chart.tsx",
+          "status": "added",
+          "additions": 365,
+          "deletions": 0,
+          "changes": 365
+        },
+        {
+          "filename": "components/ui/checkbox.tsx",
+          "status": "added",
+          "additions": 30,
+          "deletions": 0,
+          "changes": 30
+        },
+        {
+          "filename": "components/ui/collapsible.tsx",
+          "status": "added",
+          "additions": 11,
+          "deletions": 0,
+          "changes": 11
+        },
+        {
+          "filename": "components/ui/command.tsx",
+          "status": "added",
+          "additions": 153,
+          "deletions": 0,
+          "changes": 153
+        },
+        {
+          "filename": "components/ui/context-menu.tsx",
+          "status": "added",
+          "additions": 200,
+          "deletions": 0,
+          "changes": 200
+        },
+        {
+          "filename": "components/ui/dialog.tsx",
+          "status": "added",
+          "additions": 122,
+          "deletions": 0,
+          "changes": 122
+        },
+        {
+          "filename": "components/ui/drawer.tsx",
+          "status": "added",
+          "additions": 118,
+          "deletions": 0,
+          "changes": 118
+        },
+        {
+          "filename": "components/ui/dropdown-menu.tsx",
+          "status": "added",
+          "additions": 200,
+          "deletions": 0,
+          "changes": 200
+        },
+        {
+          "filename": "components/ui/form.tsx",
+          "status": "added",
+          "additions": 178,
+          "deletions": 0,
+          "changes": 178
+        },
+        {
+          "filename": "components/ui/hover-card.tsx",
+          "status": "added",
+          "additions": 29,
+          "deletions": 0,
+          "changes": 29
+        },
+        {
+          "filename": "components/ui/input-otp.tsx",
+          "status": "added",
+          "additions": 71,
+          "deletions": 0,
+          "changes": 71
+        },
+        {
+          "filename": "components/ui/input.tsx",
+          "status": "added",
+          "additions": 22,
+          "deletions": 0,
+          "changes": 22
+        },
+        {
+          "filename": "components/ui/label.tsx",
+          "status": "added",
+          "additions": 26,
+          "deletions": 0,
+          "changes": 26
+        },
+        {
+          "filename": "components/ui/menubar.tsx",
+          "status": "added",
+          "additions": 236,
+          "deletions": 0,
+          "changes": 236
+        },
+        {
+          "filename": "components/ui/navigation-menu.tsx",
+          "status": "added",
+          "additions": 128,
+          "deletions": 0,
+          "changes": 128
+        },
+        {
+          "filename": "components/ui/pagination.tsx",
+          "status": "added",
+          "additions": 117,
+          "deletions": 0,
+          "changes": 117
+        },
+        {
+          "filename": "components/ui/popover.tsx",
+          "status": "added",
+          "additions": 31,
+          "deletions": 0,
+          "changes": 31
+        },
+        {
+          "filename": "components/ui/progress.tsx",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        },
+        {
+          "filename": "components/ui/radio-group.tsx",
+          "status": "added",
+          "additions": 44,
+          "deletions": 0,
+          "changes": 44
+        },
+        {
+          "filename": "components/ui/resizable.tsx",
+          "status": "added",
+          "additions": 45,
+          "deletions": 0,
+          "changes": 45
+        },
+        {
+          "filename": "components/ui/scroll-area.tsx",
+          "status": "added",
+          "additions": 48,
+          "deletions": 0,
+          "changes": 48
+        },
+        {
+          "filename": "components/ui/select.tsx",
+          "status": "added",
+          "additions": 160,
+          "deletions": 0,
+          "changes": 160
+        },
+        {
+          "filename": "components/ui/separator.tsx",
+          "status": "added",
+          "additions": 31,
+          "deletions": 0,
+          "changes": 31
+        },
+        {
+          "filename": "components/ui/sheet.tsx",
+          "status": "added",
+          "additions": 140,
+          "deletions": 0,
+          "changes": 140
+        },
+        {
+          "filename": "components/ui/sidebar.tsx",
+          "status": "added",
+          "additions": 763,
+          "deletions": 0,
+          "changes": 763
+        },
+        {
+          "filename": "components/ui/skeleton.tsx",
+          "status": "added",
+          "additions": 15,
+          "deletions": 0,
+          "changes": 15
+        },
+        {
+          "filename": "components/ui/slider.tsx",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        },
+        {
+          "filename": "components/ui/sonner.tsx",
+          "status": "added",
+          "additions": 31,
+          "deletions": 0,
+          "changes": 31
+        },
+        {
+          "filename": "components/ui/switch.tsx",
+          "status": "added",
+          "additions": 29,
+          "deletions": 0,
+          "changes": 29
+        },
+        {
+          "filename": "components/ui/table.tsx",
+          "status": "added",
+          "additions": 117,
+          "deletions": 0,
+          "changes": 117
+        },
+        {
+          "filename": "components/ui/tabs.tsx",
+          "status": "added",
+          "additions": 55,
+          "deletions": 0,
+          "changes": 55
+        },
+        {
+          "filename": "components/ui/textarea.tsx",
+          "status": "added",
+          "additions": 22,
+          "deletions": 0,
+          "changes": 22
+        },
+        {
+          "filename": "components/ui/toast.tsx",
+          "status": "added",
+          "additions": 129,
+          "deletions": 0,
+          "changes": 129
+        },
+        {
+          "filename": "components/ui/toaster.tsx",
+          "status": "added",
+          "additions": 35,
+          "deletions": 0,
+          "changes": 35
+        },
+        {
+          "filename": "components/ui/toggle-group.tsx",
+          "status": "added",
+          "additions": 61,
+          "deletions": 0,
+          "changes": 61
+        },
+        {
+          "filename": "components/ui/toggle.tsx",
+          "status": "added",
+          "additions": 45,
+          "deletions": 0,
+          "changes": 45
+        },
+        {
+          "filename": "components/ui/tooltip.tsx",
+          "status": "added",
+          "additions": 30,
+          "deletions": 0,
+          "changes": 30
+        },
+        {
+          "filename": "components/ui/use-mobile.tsx",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "components/ui/use-toast.ts",
+          "status": "added",
+          "additions": 194,
+          "deletions": 0,
+          "changes": 194
+        },
+        {
+          "filename": "components/user-dashboard.js",
+          "status": "added",
+          "additions": 423,
+          "deletions": 0,
+          "changes": 423
+        },
+        {
+          "filename": "components/verifier-interface.js",
+          "status": "added",
+          "additions": 275,
+          "deletions": 0,
+          "changes": 275
+        },
+        {
+          "filename": "contracts/DecentralizedIdentity.json",
+          "status": "added",
+          "additions": 394,
+          "deletions": 0,
+          "changes": 394
+        },
+        {
+          "filename": "hooks/use-mobile.tsx",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "hooks/use-toast.ts",
+          "status": "added",
+          "additions": 194,
+          "deletions": 0,
+          "changes": 194
+        },
+        {
+          "filename": "lib/contract-abi.js",
+          "status": "added",
+          "additions": 484,
+          "deletions": 0,
+          "changes": 484
+        },
+        {
+          "filename": "lib/contract.js",
+          "status": "added",
+          "additions": 772,
+          "deletions": 0,
+          "changes": 772
+        },
+        {
+          "filename": "lib/utils.ts",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        },
+        {
+          "filename": "lib/web3.js",
+          "status": "added",
+          "additions": 34,
+          "deletions": 0,
+          "changes": 34
+        },
+        {
+          "filename": "next.config.mjs",
+          "status": "added",
+          "additions": 48,
+          "deletions": 0,
+          "changes": 48
+        },
+        {
+          "filename": "package-lock.json",
+          "status": "added",
+          "additions": 4747,
+          "deletions": 0,
+          "changes": 4747
+        },
+        {
+          "filename": "package.json",
+          "status": "added",
+          "additions": 71,
+          "deletions": 0,
+          "changes": 71
+        },
+        {
+          "filename": "pnpm-lock.yaml",
+          "status": "added",
+          "additions": 5,
+          "deletions": 0,
+          "changes": 5
+        },
+        {
+          "filename": "postcss.config.mjs",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "public/placeholder-logo.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "public/placeholder-logo.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "public/placeholder-user.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "public/placeholder.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "public/placeholder.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "styles/globals.css",
+          "status": "added",
+          "additions": 94,
+          "deletions": 0,
+          "changes": 94
+        },
+        {
+          "filename": "tailwind.config.ts",
+          "status": "added",
+          "additions": 96,
+          "deletions": 0,
+          "changes": 96
+        },
+        {
+          "filename": "tsconfig.json",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "c4f09c29c7bd717412cedfa57f5ee8a0faaa1ce7",
+        "message": "Delete tsconfig.json",
+        "date": "2025-03-29T10:57:20+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/c4f09c29c7bd717412cedfa57f5ee8a0faaa1ce7",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 27,
+        "total_changes": 27,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "tsconfig.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 27,
+          "changes": 27
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "62eefb58937bdbddb039406489bfe035687f2e58",
+        "message": "Delete tailwind.config.ts",
+        "date": "2025-03-29T10:57:13+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/62eefb58937bdbddb039406489bfe035687f2e58",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 92,
+        "total_changes": 92,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "tailwind.config.ts",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 92,
+          "changes": 92
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "6b909426183704a6cccc081d06f0b78ed3bc7a73",
+        "message": "Delete postcss.config.mjs",
+        "date": "2025-03-29T10:57:02+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/6b909426183704a6cccc081d06f0b78ed3bc7a73",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 8,
+        "total_changes": 8,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "postcss.config.mjs",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 8,
+          "changes": 8
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "d0945418a390132f154f2d9850527679bab74f0a",
+        "message": "Delete pnpm-lock.yaml",
+        "date": "2025-03-29T10:56:55+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/d0945418a390132f154f2d9850527679bab74f0a",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 5,
+        "total_changes": 5,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "pnpm-lock.yaml",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 5,
+          "changes": 5
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "639d447de32b70859a11d73c045bc45eb652a1f6",
+        "message": "Delete package.json",
+        "date": "2025-03-29T10:56:48+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/639d447de32b70859a11d73c045bc45eb652a1f6",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 73,
+        "total_changes": 73,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "package.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 73,
+          "changes": 73
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "009cc8547a4dddca82f7f2f0d9e1e55ed15226b3",
+        "message": "Delete package-lock.json",
+        "date": "2025-03-29T10:56:41+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/009cc8547a4dddca82f7f2f0d9e1e55ed15226b3",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 4706,
+        "total_changes": 4706,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "package-lock.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 4706,
+          "changes": 4706
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "73c916c2ab521e9cf499d2f68c07567ce230e5e1",
+        "message": "Delete next.config.mjs",
+        "date": "2025-03-29T10:56:32+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/73c916c2ab521e9cf499d2f68c07567ce230e5e1",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 48,
+        "total_changes": 48,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "next.config.mjs",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 48,
+          "changes": 48
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "649787a821dd5e11377b5a2c15445ba65aea8e39",
+        "message": "Delete components.json",
+        "date": "2025-03-29T10:56:24+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/649787a821dd5e11377b5a2c15445ba65aea8e39",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 21,
+        "total_changes": 21,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "components.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 21,
+          "changes": 21
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "80d55e64947b69cc40a3d43c3b827f89704f52b6",
+        "message": "Delete .gitignore",
+        "date": "2025-03-29T10:56:15+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/80d55e64947b69cc40a3d43c3b827f89704f52b6",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 27,
+        "total_changes": 27,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": ".gitignore",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 27,
+          "changes": 27
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "6f4153ca2294cef4d5a5ad29ba27b1e9bb11b045",
+        "message": "Delete styles directory",
+        "date": "2025-03-29T10:56:05+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/6f4153ca2294cef4d5a5ad29ba27b1e9bb11b045",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 94,
+        "total_changes": 94,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "styles/globals.css",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 94,
+          "changes": 94
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "d5a4b1318e3089cff006d85455bef0f0b6bcffd6",
+        "message": "Delete public directory",
+        "date": "2025-03-29T10:55:59+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/d5a4b1318e3089cff006d85455bef0f0b6bcffd6",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 2,
+        "total_changes": 2,
+        "files_changed": 5
+      },
+      "file_changes": [
+        {
+          "filename": "public/placeholder-logo.png",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "public/placeholder-logo.svg",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        },
+        {
+          "filename": "public/placeholder-user.jpg",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "public/placeholder.jpg",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "public/placeholder.svg",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "5fdb324c36517c761e3d71c59568fbdf607b25eb",
+        "message": "Delete lib directory",
+        "date": "2025-03-29T10:55:51+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/5fdb324c36517c761e3d71c59568fbdf607b25eb",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 6,
+        "total_changes": 6,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "lib/utils.ts",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 6,
+          "changes": 6
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "fdeb36f8275bcc179c271c8241b0f7c1d22d8afa",
+        "message": "Delete hooks directory",
+        "date": "2025-03-29T10:55:43+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/fdeb36f8275bcc179c271c8241b0f7c1d22d8afa",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 213,
+        "total_changes": 213,
+        "files_changed": 2
+      },
+      "file_changes": [
+        {
+          "filename": "hooks/use-mobile.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 19,
+          "changes": 19
+        },
+        {
+          "filename": "hooks/use-toast.ts",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 194,
+          "changes": 194
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "cf1c8a933865a63c52de1a90c8e38cd38e830e69",
+        "message": "Delete components directory",
+        "date": "2025-03-29T10:55:36+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/cf1c8a933865a63c52de1a90c8e38cd38e830e69",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 5722,
+        "total_changes": 5722,
+        "files_changed": 55
+      },
+      "file_changes": [
+        {
+          "filename": "components/CredentialInput.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 257,
+          "changes": 257
+        },
+        {
+          "filename": "components/UserForm.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 202,
+          "changes": 202
+        },
+        {
+          "filename": "components/dashboard-layout.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 188,
+          "changes": 188
+        },
+        {
+          "filename": "components/mode-toggle.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 29,
+          "changes": 29
+        },
+        {
+          "filename": "components/theme-provider.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 11,
+          "changes": 11
+        },
+        {
+          "filename": "components/ui/accordion.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 58,
+          "changes": 58
+        },
+        {
+          "filename": "components/ui/alert-dialog.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 141,
+          "changes": 141
+        },
+        {
+          "filename": "components/ui/alert.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 59,
+          "changes": 59
+        },
+        {
+          "filename": "components/ui/aspect-ratio.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 7,
+          "changes": 7
+        },
+        {
+          "filename": "components/ui/avatar.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 50,
+          "changes": 50
+        },
+        {
+          "filename": "components/ui/badge.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 36,
+          "changes": 36
+        },
+        {
+          "filename": "components/ui/breadcrumb.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 115,
+          "changes": 115
+        },
+        {
+          "filename": "components/ui/button.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 56,
+          "changes": 56
+        },
+        {
+          "filename": "components/ui/calendar.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 66,
+          "changes": 66
+        },
+        {
+          "filename": "components/ui/card.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 79,
+          "changes": 79
+        },
+        {
+          "filename": "components/ui/carousel.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 262,
+          "changes": 262
+        },
+        {
+          "filename": "components/ui/chart.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 365,
+          "changes": 365
+        },
+        {
+          "filename": "components/ui/checkbox.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 30,
+          "changes": 30
+        },
+        {
+          "filename": "components/ui/collapsible.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 11,
+          "changes": 11
+        },
+        {
+          "filename": "components/ui/command.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 153,
+          "changes": 153
+        },
+        {
+          "filename": "components/ui/context-menu.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 200,
+          "changes": 200
+        },
+        {
+          "filename": "components/ui/dialog.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 122,
+          "changes": 122
+        },
+        {
+          "filename": "components/ui/drawer.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 118,
+          "changes": 118
+        },
+        {
+          "filename": "components/ui/dropdown-menu.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 200,
+          "changes": 200
+        },
+        {
+          "filename": "components/ui/form.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 178,
+          "changes": 178
+        },
+        {
+          "filename": "components/ui/hover-card.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 29,
+          "changes": 29
+        },
+        {
+          "filename": "components/ui/input-otp.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 71,
+          "changes": 71
+        },
+        {
+          "filename": "components/ui/input.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 22,
+          "changes": 22
+        },
+        {
+          "filename": "components/ui/label.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 26,
+          "changes": 26
+        },
+        {
+          "filename": "components/ui/menubar.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 236,
+          "changes": 236
+        },
+        {
+          "filename": "components/ui/navigation-menu.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 128,
+          "changes": 128
+        },
+        {
+          "filename": "components/ui/pagination.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 117,
+          "changes": 117
+        },
+        {
+          "filename": "components/ui/popover.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 31,
+          "changes": 31
+        },
+        {
+          "filename": "components/ui/progress.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 28,
+          "changes": 28
+        },
+        {
+          "filename": "components/ui/radio-group.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 44,
+          "changes": 44
+        },
+        {
+          "filename": "components/ui/resizable.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 45,
+          "changes": 45
+        },
+        {
+          "filename": "components/ui/scroll-area.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 48,
+          "changes": 48
+        },
+        {
+          "filename": "components/ui/select.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 160,
+          "changes": 160
+        },
+        {
+          "filename": "components/ui/separator.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 31,
+          "changes": 31
+        },
+        {
+          "filename": "components/ui/sheet.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 140,
+          "changes": 140
+        },
+        {
+          "filename": "components/ui/sidebar.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 763,
+          "changes": 763
+        },
+        {
+          "filename": "components/ui/skeleton.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 15,
+          "changes": 15
+        },
+        {
+          "filename": "components/ui/slider.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 28,
+          "changes": 28
+        },
+        {
+          "filename": "components/ui/sonner.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 31,
+          "changes": 31
+        },
+        {
+          "filename": "components/ui/switch.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 29,
+          "changes": 29
+        },
+        {
+          "filename": "components/ui/table.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 117,
+          "changes": 117
+        },
+        {
+          "filename": "components/ui/tabs.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 55,
+          "changes": 55
+        },
+        {
+          "filename": "components/ui/textarea.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 22,
+          "changes": 22
+        },
+        {
+          "filename": "components/ui/toast.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 129,
+          "changes": 129
+        },
+        {
+          "filename": "components/ui/toaster.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 35,
+          "changes": 35
+        },
+        {
+          "filename": "components/ui/toggle-group.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 61,
+          "changes": 61
+        },
+        {
+          "filename": "components/ui/toggle.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 45,
+          "changes": 45
+        },
+        {
+          "filename": "components/ui/tooltip.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 30,
+          "changes": 30
+        },
+        {
+          "filename": "components/ui/use-mobile.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 19,
+          "changes": 19
+        },
+        {
+          "filename": "components/ui/use-toast.ts",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 194,
+          "changes": 194
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "60304ba6fa19248361afebace5253cc890cfe16f",
+        "message": "Delete blockid directory",
+        "date": "2025-03-29T10:55:27+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/60304ba6fa19248361afebace5253cc890cfe16f",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 1,
+        "total_changes": 1,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "blockid/Readme.md",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "6a2a3c3933ef1df1cc697bbb833f99db5fc07b41",
+        "message": "Delete app directory",
+        "date": "2025-03-29T10:55:19+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/6a2a3c3933ef1df1cc697bbb833f99db5fc07b41",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 3847,
+        "total_changes": 3847,
+        "files_changed": 16
+      },
+      "file_changes": [
+        {
+          "filename": "app/activity/loading.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 4,
+          "changes": 4
+        },
+        {
+          "filename": "app/activity/page.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 342,
+          "changes": 342
+        },
+        {
+          "filename": "app/credentials/loading.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 4,
+          "changes": 4
+        },
+        {
+          "filename": "app/credentials/page.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 478,
+          "changes": 478
+        },
+        {
+          "filename": "app/dashboard/layout.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 11,
+          "changes": 11
+        },
+        {
+          "filename": "app/dashboard/page.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 474,
+          "changes": 474
+        },
+        {
+          "filename": "app/globals.css",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 281,
+          "changes": 281
+        },
+        {
+          "filename": "app/help/loading.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 4,
+          "changes": 4
+        },
+        {
+          "filename": "app/help/page.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 302,
+          "changes": 302
+        },
+        {
+          "filename": "app/layout.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 33,
+          "changes": 33
+        },
+        {
+          "filename": "app/login/page.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 175,
+          "changes": 175
+        },
+        {
+          "filename": "app/page.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 132,
+          "changes": 132
+        },
+        {
+          "filename": "app/profile/page.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 349,
+          "changes": 349
+        },
+        {
+          "filename": "app/security/page.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 445,
+          "changes": 445
+        },
+        {
+          "filename": "app/settings/page.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 399,
+          "changes": 399
+        },
+        {
+          "filename": "app/sharing/page.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 414,
+          "changes": 414
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "c00815055bfa8df684858b67cc46d9f305be0071",
+        "message": "Delete Contract directory",
+        "date": "2025-03-29T10:55:12+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/c00815055bfa8df684858b67cc46d9f305be0071",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 125,
+        "total_changes": 125,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "Contract/DID.sol",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 125,
+          "changes": 125
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "bd3100e502fde0970bf412966a0d3b06d3a5ad25",
+        "message": "Removed decentralized-identity-ui folder",
+        "date": "2025-03-29T10:54:24+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/bd3100e502fde0970bf412966a0d3b06d3a5ad25",
+        "branch": "main"
+      },
+      "author": {
+        "name": "pulkitashara",
+        "username": "pulkitashara",
+        "email": "pulkit.221143101@vcet.edu.in",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 1,
+        "total_changes": 1,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "decentralized-identity-ui",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "b973e44e0916ff01feae36e2c70597acded01a9b",
+        "message": "Smart Contract",
+        "date": "2025-03-29T02:30:54+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/b973e44e0916ff01feae36e2c70597acded01a9b",
+        "branch": "main"
+      },
+      "author": {
+        "name": "pulkitashara",
+        "username": "pulkitashara",
+        "email": "pulkit.221143101@vcet.edu.in",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 15018,
+        "total_deletions": 0,
+        "total_changes": 15018,
+        "files_changed": 92
+      },
+      "file_changes": [
+        {
+          "filename": ".gitignore",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        },
+        {
+          "filename": "Contract/DID.sol",
+          "status": "added",
+          "additions": 125,
+          "deletions": 0,
+          "changes": 125
+        },
+        {
+          "filename": "README.md",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "app/activity/loading.tsx",
+          "status": "added",
+          "additions": 4,
+          "deletions": 0,
+          "changes": 4
+        },
+        {
+          "filename": "app/activity/page.tsx",
+          "status": "added",
+          "additions": 342,
+          "deletions": 0,
+          "changes": 342
+        },
+        {
+          "filename": "app/credentials/loading.tsx",
+          "status": "added",
+          "additions": 4,
+          "deletions": 0,
+          "changes": 4
+        },
+        {
+          "filename": "app/credentials/page.tsx",
+          "status": "added",
+          "additions": 478,
+          "deletions": 0,
+          "changes": 478
+        },
+        {
+          "filename": "app/dashboard/layout.tsx",
+          "status": "added",
+          "additions": 11,
+          "deletions": 0,
+          "changes": 11
+        },
+        {
+          "filename": "app/dashboard/page.tsx",
+          "status": "added",
+          "additions": 474,
+          "deletions": 0,
+          "changes": 474
+        },
+        {
+          "filename": "app/globals.css",
+          "status": "added",
+          "additions": 281,
+          "deletions": 0,
+          "changes": 281
+        },
+        {
+          "filename": "app/help/loading.tsx",
+          "status": "added",
+          "additions": 4,
+          "deletions": 0,
+          "changes": 4
+        },
+        {
+          "filename": "app/help/page.tsx",
+          "status": "added",
+          "additions": 302,
+          "deletions": 0,
+          "changes": 302
+        },
+        {
+          "filename": "app/layout.tsx",
+          "status": "added",
+          "additions": 33,
+          "deletions": 0,
+          "changes": 33
+        },
+        {
+          "filename": "app/login/page.tsx",
+          "status": "added",
+          "additions": 175,
+          "deletions": 0,
+          "changes": 175
+        },
+        {
+          "filename": "app/page.tsx",
+          "status": "added",
+          "additions": 132,
+          "deletions": 0,
+          "changes": 132
+        },
+        {
+          "filename": "app/profile/page.tsx",
+          "status": "added",
+          "additions": 349,
+          "deletions": 0,
+          "changes": 349
+        },
+        {
+          "filename": "app/security/page.tsx",
+          "status": "added",
+          "additions": 445,
+          "deletions": 0,
+          "changes": 445
+        },
+        {
+          "filename": "app/settings/page.tsx",
+          "status": "added",
+          "additions": 399,
+          "deletions": 0,
+          "changes": 399
+        },
+        {
+          "filename": "app/sharing/page.tsx",
+          "status": "added",
+          "additions": 414,
+          "deletions": 0,
+          "changes": 414
+        },
+        {
+          "filename": "blockid/Readme.md",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "components.json",
+          "status": "added",
+          "additions": 21,
+          "deletions": 0,
+          "changes": 21
+        },
+        {
+          "filename": "components/CredentialInput.tsx",
+          "status": "added",
+          "additions": 257,
+          "deletions": 0,
+          "changes": 257
+        },
+        {
+          "filename": "components/UserForm.tsx",
+          "status": "added",
+          "additions": 202,
+          "deletions": 0,
+          "changes": 202
+        },
+        {
+          "filename": "components/dashboard-layout.tsx",
+          "status": "added",
+          "additions": 188,
+          "deletions": 0,
+          "changes": 188
+        },
+        {
+          "filename": "components/mode-toggle.tsx",
+          "status": "added",
+          "additions": 29,
+          "deletions": 0,
+          "changes": 29
+        },
+        {
+          "filename": "components/theme-provider.tsx",
+          "status": "added",
+          "additions": 11,
+          "deletions": 0,
+          "changes": 11
+        },
+        {
+          "filename": "components/ui/accordion.tsx",
+          "status": "added",
+          "additions": 58,
+          "deletions": 0,
+          "changes": 58
+        },
+        {
+          "filename": "components/ui/alert-dialog.tsx",
+          "status": "added",
+          "additions": 141,
+          "deletions": 0,
+          "changes": 141
+        },
+        {
+          "filename": "components/ui/alert.tsx",
+          "status": "added",
+          "additions": 59,
+          "deletions": 0,
+          "changes": 59
+        },
+        {
+          "filename": "components/ui/aspect-ratio.tsx",
+          "status": "added",
+          "additions": 7,
+          "deletions": 0,
+          "changes": 7
+        },
+        {
+          "filename": "components/ui/avatar.tsx",
+          "status": "added",
+          "additions": 50,
+          "deletions": 0,
+          "changes": 50
+        },
+        {
+          "filename": "components/ui/badge.tsx",
+          "status": "added",
+          "additions": 36,
+          "deletions": 0,
+          "changes": 36
+        },
+        {
+          "filename": "components/ui/breadcrumb.tsx",
+          "status": "added",
+          "additions": 115,
+          "deletions": 0,
+          "changes": 115
+        },
+        {
+          "filename": "components/ui/button.tsx",
+          "status": "added",
+          "additions": 56,
+          "deletions": 0,
+          "changes": 56
+        },
+        {
+          "filename": "components/ui/calendar.tsx",
+          "status": "added",
+          "additions": 66,
+          "deletions": 0,
+          "changes": 66
+        },
+        {
+          "filename": "components/ui/card.tsx",
+          "status": "added",
+          "additions": 79,
+          "deletions": 0,
+          "changes": 79
+        },
+        {
+          "filename": "components/ui/carousel.tsx",
+          "status": "added",
+          "additions": 262,
+          "deletions": 0,
+          "changes": 262
+        },
+        {
+          "filename": "components/ui/chart.tsx",
+          "status": "added",
+          "additions": 365,
+          "deletions": 0,
+          "changes": 365
+        },
+        {
+          "filename": "components/ui/checkbox.tsx",
+          "status": "added",
+          "additions": 30,
+          "deletions": 0,
+          "changes": 30
+        },
+        {
+          "filename": "components/ui/collapsible.tsx",
+          "status": "added",
+          "additions": 11,
+          "deletions": 0,
+          "changes": 11
+        },
+        {
+          "filename": "components/ui/command.tsx",
+          "status": "added",
+          "additions": 153,
+          "deletions": 0,
+          "changes": 153
+        },
+        {
+          "filename": "components/ui/context-menu.tsx",
+          "status": "added",
+          "additions": 200,
+          "deletions": 0,
+          "changes": 200
+        },
+        {
+          "filename": "components/ui/dialog.tsx",
+          "status": "added",
+          "additions": 122,
+          "deletions": 0,
+          "changes": 122
+        },
+        {
+          "filename": "components/ui/drawer.tsx",
+          "status": "added",
+          "additions": 118,
+          "deletions": 0,
+          "changes": 118
+        },
+        {
+          "filename": "components/ui/dropdown-menu.tsx",
+          "status": "added",
+          "additions": 200,
+          "deletions": 0,
+          "changes": 200
+        },
+        {
+          "filename": "components/ui/form.tsx",
+          "status": "added",
+          "additions": 178,
+          "deletions": 0,
+          "changes": 178
+        },
+        {
+          "filename": "components/ui/hover-card.tsx",
+          "status": "added",
+          "additions": 29,
+          "deletions": 0,
+          "changes": 29
+        },
+        {
+          "filename": "components/ui/input-otp.tsx",
+          "status": "added",
+          "additions": 71,
+          "deletions": 0,
+          "changes": 71
+        },
+        {
+          "filename": "components/ui/input.tsx",
+          "status": "added",
+          "additions": 22,
+          "deletions": 0,
+          "changes": 22
+        },
+        {
+          "filename": "components/ui/label.tsx",
+          "status": "added",
+          "additions": 26,
+          "deletions": 0,
+          "changes": 26
+        },
+        {
+          "filename": "components/ui/menubar.tsx",
+          "status": "added",
+          "additions": 236,
+          "deletions": 0,
+          "changes": 236
+        },
+        {
+          "filename": "components/ui/navigation-menu.tsx",
+          "status": "added",
+          "additions": 128,
+          "deletions": 0,
+          "changes": 128
+        },
+        {
+          "filename": "components/ui/pagination.tsx",
+          "status": "added",
+          "additions": 117,
+          "deletions": 0,
+          "changes": 117
+        },
+        {
+          "filename": "components/ui/popover.tsx",
+          "status": "added",
+          "additions": 31,
+          "deletions": 0,
+          "changes": 31
+        },
+        {
+          "filename": "components/ui/progress.tsx",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        },
+        {
+          "filename": "components/ui/radio-group.tsx",
+          "status": "added",
+          "additions": 44,
+          "deletions": 0,
+          "changes": 44
+        },
+        {
+          "filename": "components/ui/resizable.tsx",
+          "status": "added",
+          "additions": 45,
+          "deletions": 0,
+          "changes": 45
+        },
+        {
+          "filename": "components/ui/scroll-area.tsx",
+          "status": "added",
+          "additions": 48,
+          "deletions": 0,
+          "changes": 48
+        },
+        {
+          "filename": "components/ui/select.tsx",
+          "status": "added",
+          "additions": 160,
+          "deletions": 0,
+          "changes": 160
+        },
+        {
+          "filename": "components/ui/separator.tsx",
+          "status": "added",
+          "additions": 31,
+          "deletions": 0,
+          "changes": 31
+        },
+        {
+          "filename": "components/ui/sheet.tsx",
+          "status": "added",
+          "additions": 140,
+          "deletions": 0,
+          "changes": 140
+        },
+        {
+          "filename": "components/ui/sidebar.tsx",
+          "status": "added",
+          "additions": 763,
+          "deletions": 0,
+          "changes": 763
+        },
+        {
+          "filename": "components/ui/skeleton.tsx",
+          "status": "added",
+          "additions": 15,
+          "deletions": 0,
+          "changes": 15
+        },
+        {
+          "filename": "components/ui/slider.tsx",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        },
+        {
+          "filename": "components/ui/sonner.tsx",
+          "status": "added",
+          "additions": 31,
+          "deletions": 0,
+          "changes": 31
+        },
+        {
+          "filename": "components/ui/switch.tsx",
+          "status": "added",
+          "additions": 29,
+          "deletions": 0,
+          "changes": 29
+        },
+        {
+          "filename": "components/ui/table.tsx",
+          "status": "added",
+          "additions": 117,
+          "deletions": 0,
+          "changes": 117
+        },
+        {
+          "filename": "components/ui/tabs.tsx",
+          "status": "added",
+          "additions": 55,
+          "deletions": 0,
+          "changes": 55
+        },
+        {
+          "filename": "components/ui/textarea.tsx",
+          "status": "added",
+          "additions": 22,
+          "deletions": 0,
+          "changes": 22
+        },
+        {
+          "filename": "components/ui/toast.tsx",
+          "status": "added",
+          "additions": 129,
+          "deletions": 0,
+          "changes": 129
+        },
+        {
+          "filename": "components/ui/toaster.tsx",
+          "status": "added",
+          "additions": 35,
+          "deletions": 0,
+          "changes": 35
+        },
+        {
+          "filename": "components/ui/toggle-group.tsx",
+          "status": "added",
+          "additions": 61,
+          "deletions": 0,
+          "changes": 61
+        },
+        {
+          "filename": "components/ui/toggle.tsx",
+          "status": "added",
+          "additions": 45,
+          "deletions": 0,
+          "changes": 45
+        },
+        {
+          "filename": "components/ui/tooltip.tsx",
+          "status": "added",
+          "additions": 30,
+          "deletions": 0,
+          "changes": 30
+        },
+        {
+          "filename": "components/ui/use-mobile.tsx",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "components/ui/use-toast.ts",
+          "status": "added",
+          "additions": 194,
+          "deletions": 0,
+          "changes": 194
+        },
+        {
+          "filename": "hooks/use-mobile.tsx",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "hooks/use-toast.ts",
+          "status": "added",
+          "additions": 194,
+          "deletions": 0,
+          "changes": 194
+        },
+        {
+          "filename": "lib/utils.ts",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        },
+        {
+          "filename": "next.config.mjs",
+          "status": "added",
+          "additions": 48,
+          "deletions": 0,
+          "changes": 48
+        },
+        {
+          "filename": "package-lock.json",
+          "status": "added",
+          "additions": 4706,
+          "deletions": 0,
+          "changes": 4706
+        },
+        {
+          "filename": "package.json",
+          "status": "added",
+          "additions": 73,
+          "deletions": 0,
+          "changes": 73
+        },
+        {
+          "filename": "pnpm-lock.yaml",
+          "status": "added",
+          "additions": 5,
+          "deletions": 0,
+          "changes": 5
+        },
+        {
+          "filename": "postcss.config.mjs",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "public/placeholder-logo.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "public/placeholder-logo.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "public/placeholder-user.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "public/placeholder.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "public/placeholder.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "styles/globals.css",
+          "status": "added",
+          "additions": 94,
+          "deletions": 0,
+          "changes": 94
+        },
+        {
+          "filename": "tailwind.config.ts",
+          "status": "added",
+          "additions": 92,
+          "deletions": 0,
+          "changes": 92
+        },
+        {
+          "filename": "tsconfig.json",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "0c6a608585c4765fb875e5ac75035560694f84fc",
+        "message": "smart contract ui",
+        "date": "2025-03-29T02:27:27+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/0c6a608585c4765fb875e5ac75035560694f84fc",
+        "branch": "main"
+      },
+      "author": {
+        "name": "pulkitashara",
+        "username": "pulkitashara",
+        "email": "pulkit.221143101@vcet.edu.in",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1,
+        "total_deletions": 0,
+        "total_changes": 1,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "decentralized-identity-ui",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "0cb1a5f4921ccf44fd560d6d2dabee35511b082e",
+        "message": "done",
+        "date": "2025-03-28T18:30:16+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/0cb1a5f4921ccf44fd560d6d2dabee35511b082e",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mayur-Bhamare-13",
+        "username": "Mayur-Bhamare-13",
+        "email": "fanofshahrukh001@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 127,
+        "total_deletions": 0,
+        "total_changes": 127,
+        "files_changed": 3
+      },
+      "file_changes": [
+        {
+          "filename": "Contract/DID.sol",
+          "status": "added",
+          "additions": 125,
+          "deletions": 0,
+          "changes": 125
+        },
+        {
+          "filename": "README.md",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "blockid/Readme.md",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "b9bfdab9ca942ec274b6195a25e4214a1de7ae7b",
+        "message": "done",
+        "date": "2025-03-28T18:20:44+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/b9bfdab9ca942ec274b6195a25e4214a1de7ae7b",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mayur-Bhamare-13",
+        "username": "Mayur-Bhamare-13",
+        "email": "fanofshahrukh001@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 14891,
+        "total_deletions": 0,
+        "total_changes": 14891,
+        "files_changed": 89
+      },
+      "file_changes": [
+        {
+          "filename": ".gitignore",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        },
+        {
+          "filename": "app/activity/loading.tsx",
+          "status": "added",
+          "additions": 4,
+          "deletions": 0,
+          "changes": 4
+        },
+        {
+          "filename": "app/activity/page.tsx",
+          "status": "added",
+          "additions": 342,
+          "deletions": 0,
+          "changes": 342
+        },
+        {
+          "filename": "app/credentials/loading.tsx",
+          "status": "added",
+          "additions": 4,
+          "deletions": 0,
+          "changes": 4
+        },
+        {
+          "filename": "app/credentials/page.tsx",
+          "status": "added",
+          "additions": 478,
+          "deletions": 0,
+          "changes": 478
+        },
+        {
+          "filename": "app/dashboard/layout.tsx",
+          "status": "added",
+          "additions": 11,
+          "deletions": 0,
+          "changes": 11
+        },
+        {
+          "filename": "app/dashboard/page.tsx",
+          "status": "added",
+          "additions": 474,
+          "deletions": 0,
+          "changes": 474
+        },
+        {
+          "filename": "app/globals.css",
+          "status": "added",
+          "additions": 281,
+          "deletions": 0,
+          "changes": 281
+        },
+        {
+          "filename": "app/help/loading.tsx",
+          "status": "added",
+          "additions": 4,
+          "deletions": 0,
+          "changes": 4
+        },
+        {
+          "filename": "app/help/page.tsx",
+          "status": "added",
+          "additions": 302,
+          "deletions": 0,
+          "changes": 302
+        },
+        {
+          "filename": "app/layout.tsx",
+          "status": "added",
+          "additions": 33,
+          "deletions": 0,
+          "changes": 33
+        },
+        {
+          "filename": "app/login/page.tsx",
+          "status": "added",
+          "additions": 175,
+          "deletions": 0,
+          "changes": 175
+        },
+        {
+          "filename": "app/page.tsx",
+          "status": "added",
+          "additions": 132,
+          "deletions": 0,
+          "changes": 132
+        },
+        {
+          "filename": "app/profile/page.tsx",
+          "status": "added",
+          "additions": 349,
+          "deletions": 0,
+          "changes": 349
+        },
+        {
+          "filename": "app/security/page.tsx",
+          "status": "added",
+          "additions": 445,
+          "deletions": 0,
+          "changes": 445
+        },
+        {
+          "filename": "app/settings/page.tsx",
+          "status": "added",
+          "additions": 399,
+          "deletions": 0,
+          "changes": 399
+        },
+        {
+          "filename": "app/sharing/page.tsx",
+          "status": "added",
+          "additions": 414,
+          "deletions": 0,
+          "changes": 414
+        },
+        {
+          "filename": "components.json",
+          "status": "added",
+          "additions": 21,
+          "deletions": 0,
+          "changes": 21
+        },
+        {
+          "filename": "components/CredentialInput.tsx",
+          "status": "added",
+          "additions": 257,
+          "deletions": 0,
+          "changes": 257
+        },
+        {
+          "filename": "components/UserForm.tsx",
+          "status": "added",
+          "additions": 202,
+          "deletions": 0,
+          "changes": 202
+        },
+        {
+          "filename": "components/dashboard-layout.tsx",
+          "status": "added",
+          "additions": 188,
+          "deletions": 0,
+          "changes": 188
+        },
+        {
+          "filename": "components/mode-toggle.tsx",
+          "status": "added",
+          "additions": 29,
+          "deletions": 0,
+          "changes": 29
+        },
+        {
+          "filename": "components/theme-provider.tsx",
+          "status": "added",
+          "additions": 11,
+          "deletions": 0,
+          "changes": 11
+        },
+        {
+          "filename": "components/ui/accordion.tsx",
+          "status": "added",
+          "additions": 58,
+          "deletions": 0,
+          "changes": 58
+        },
+        {
+          "filename": "components/ui/alert-dialog.tsx",
+          "status": "added",
+          "additions": 141,
+          "deletions": 0,
+          "changes": 141
+        },
+        {
+          "filename": "components/ui/alert.tsx",
+          "status": "added",
+          "additions": 59,
+          "deletions": 0,
+          "changes": 59
+        },
+        {
+          "filename": "components/ui/aspect-ratio.tsx",
+          "status": "added",
+          "additions": 7,
+          "deletions": 0,
+          "changes": 7
+        },
+        {
+          "filename": "components/ui/avatar.tsx",
+          "status": "added",
+          "additions": 50,
+          "deletions": 0,
+          "changes": 50
+        },
+        {
+          "filename": "components/ui/badge.tsx",
+          "status": "added",
+          "additions": 36,
+          "deletions": 0,
+          "changes": 36
+        },
+        {
+          "filename": "components/ui/breadcrumb.tsx",
+          "status": "added",
+          "additions": 115,
+          "deletions": 0,
+          "changes": 115
+        },
+        {
+          "filename": "components/ui/button.tsx",
+          "status": "added",
+          "additions": 56,
+          "deletions": 0,
+          "changes": 56
+        },
+        {
+          "filename": "components/ui/calendar.tsx",
+          "status": "added",
+          "additions": 66,
+          "deletions": 0,
+          "changes": 66
+        },
+        {
+          "filename": "components/ui/card.tsx",
+          "status": "added",
+          "additions": 79,
+          "deletions": 0,
+          "changes": 79
+        },
+        {
+          "filename": "components/ui/carousel.tsx",
+          "status": "added",
+          "additions": 262,
+          "deletions": 0,
+          "changes": 262
+        },
+        {
+          "filename": "components/ui/chart.tsx",
+          "status": "added",
+          "additions": 365,
+          "deletions": 0,
+          "changes": 365
+        },
+        {
+          "filename": "components/ui/checkbox.tsx",
+          "status": "added",
+          "additions": 30,
+          "deletions": 0,
+          "changes": 30
+        },
+        {
+          "filename": "components/ui/collapsible.tsx",
+          "status": "added",
+          "additions": 11,
+          "deletions": 0,
+          "changes": 11
+        },
+        {
+          "filename": "components/ui/command.tsx",
+          "status": "added",
+          "additions": 153,
+          "deletions": 0,
+          "changes": 153
+        },
+        {
+          "filename": "components/ui/context-menu.tsx",
+          "status": "added",
+          "additions": 200,
+          "deletions": 0,
+          "changes": 200
+        },
+        {
+          "filename": "components/ui/dialog.tsx",
+          "status": "added",
+          "additions": 122,
+          "deletions": 0,
+          "changes": 122
+        },
+        {
+          "filename": "components/ui/drawer.tsx",
+          "status": "added",
+          "additions": 118,
+          "deletions": 0,
+          "changes": 118
+        },
+        {
+          "filename": "components/ui/dropdown-menu.tsx",
+          "status": "added",
+          "additions": 200,
+          "deletions": 0,
+          "changes": 200
+        },
+        {
+          "filename": "components/ui/form.tsx",
+          "status": "added",
+          "additions": 178,
+          "deletions": 0,
+          "changes": 178
+        },
+        {
+          "filename": "components/ui/hover-card.tsx",
+          "status": "added",
+          "additions": 29,
+          "deletions": 0,
+          "changes": 29
+        },
+        {
+          "filename": "components/ui/input-otp.tsx",
+          "status": "added",
+          "additions": 71,
+          "deletions": 0,
+          "changes": 71
+        },
+        {
+          "filename": "components/ui/input.tsx",
+          "status": "added",
+          "additions": 22,
+          "deletions": 0,
+          "changes": 22
+        },
+        {
+          "filename": "components/ui/label.tsx",
+          "status": "added",
+          "additions": 26,
+          "deletions": 0,
+          "changes": 26
+        },
+        {
+          "filename": "components/ui/menubar.tsx",
+          "status": "added",
+          "additions": 236,
+          "deletions": 0,
+          "changes": 236
+        },
+        {
+          "filename": "components/ui/navigation-menu.tsx",
+          "status": "added",
+          "additions": 128,
+          "deletions": 0,
+          "changes": 128
+        },
+        {
+          "filename": "components/ui/pagination.tsx",
+          "status": "added",
+          "additions": 117,
+          "deletions": 0,
+          "changes": 117
+        },
+        {
+          "filename": "components/ui/popover.tsx",
+          "status": "added",
+          "additions": 31,
+          "deletions": 0,
+          "changes": 31
+        },
+        {
+          "filename": "components/ui/progress.tsx",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        },
+        {
+          "filename": "components/ui/radio-group.tsx",
+          "status": "added",
+          "additions": 44,
+          "deletions": 0,
+          "changes": 44
+        },
+        {
+          "filename": "components/ui/resizable.tsx",
+          "status": "added",
+          "additions": 45,
+          "deletions": 0,
+          "changes": 45
+        },
+        {
+          "filename": "components/ui/scroll-area.tsx",
+          "status": "added",
+          "additions": 48,
+          "deletions": 0,
+          "changes": 48
+        },
+        {
+          "filename": "components/ui/select.tsx",
+          "status": "added",
+          "additions": 160,
+          "deletions": 0,
+          "changes": 160
+        },
+        {
+          "filename": "components/ui/separator.tsx",
+          "status": "added",
+          "additions": 31,
+          "deletions": 0,
+          "changes": 31
+        },
+        {
+          "filename": "components/ui/sheet.tsx",
+          "status": "added",
+          "additions": 140,
+          "deletions": 0,
+          "changes": 140
+        },
+        {
+          "filename": "components/ui/sidebar.tsx",
+          "status": "added",
+          "additions": 763,
+          "deletions": 0,
+          "changes": 763
+        },
+        {
+          "filename": "components/ui/skeleton.tsx",
+          "status": "added",
+          "additions": 15,
+          "deletions": 0,
+          "changes": 15
+        },
+        {
+          "filename": "components/ui/slider.tsx",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        },
+        {
+          "filename": "components/ui/sonner.tsx",
+          "status": "added",
+          "additions": 31,
+          "deletions": 0,
+          "changes": 31
+        },
+        {
+          "filename": "components/ui/switch.tsx",
+          "status": "added",
+          "additions": 29,
+          "deletions": 0,
+          "changes": 29
+        },
+        {
+          "filename": "components/ui/table.tsx",
+          "status": "added",
+          "additions": 117,
+          "deletions": 0,
+          "changes": 117
+        },
+        {
+          "filename": "components/ui/tabs.tsx",
+          "status": "added",
+          "additions": 55,
+          "deletions": 0,
+          "changes": 55
+        },
+        {
+          "filename": "components/ui/textarea.tsx",
+          "status": "added",
+          "additions": 22,
+          "deletions": 0,
+          "changes": 22
+        },
+        {
+          "filename": "components/ui/toast.tsx",
+          "status": "added",
+          "additions": 129,
+          "deletions": 0,
+          "changes": 129
+        },
+        {
+          "filename": "components/ui/toaster.tsx",
+          "status": "added",
+          "additions": 35,
+          "deletions": 0,
+          "changes": 35
+        },
+        {
+          "filename": "components/ui/toggle-group.tsx",
+          "status": "added",
+          "additions": 61,
+          "deletions": 0,
+          "changes": 61
+        },
+        {
+          "filename": "components/ui/toggle.tsx",
+          "status": "added",
+          "additions": 45,
+          "deletions": 0,
+          "changes": 45
+        },
+        {
+          "filename": "components/ui/tooltip.tsx",
+          "status": "added",
+          "additions": 30,
+          "deletions": 0,
+          "changes": 30
+        },
+        {
+          "filename": "components/ui/use-mobile.tsx",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "components/ui/use-toast.ts",
+          "status": "added",
+          "additions": 194,
+          "deletions": 0,
+          "changes": 194
+        },
+        {
+          "filename": "hooks/use-mobile.tsx",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "hooks/use-toast.ts",
+          "status": "added",
+          "additions": 194,
+          "deletions": 0,
+          "changes": 194
+        },
+        {
+          "filename": "lib/utils.ts",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        },
+        {
+          "filename": "next.config.mjs",
+          "status": "added",
+          "additions": 48,
+          "deletions": 0,
+          "changes": 48
+        },
+        {
+          "filename": "package-lock.json",
+          "status": "added",
+          "additions": 4706,
+          "deletions": 0,
+          "changes": 4706
+        },
+        {
+          "filename": "package.json",
+          "status": "added",
+          "additions": 73,
+          "deletions": 0,
+          "changes": 73
+        },
+        {
+          "filename": "pnpm-lock.yaml",
+          "status": "added",
+          "additions": 5,
+          "deletions": 0,
+          "changes": 5
+        },
+        {
+          "filename": "postcss.config.mjs",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "public/placeholder-logo.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "public/placeholder-logo.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "public/placeholder-user.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "public/placeholder.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "public/placeholder.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "styles/globals.css",
+          "status": "added",
+          "additions": 94,
+          "deletions": 0,
+          "changes": 94
+        },
+        {
+          "filename": "tailwind.config.ts",
+          "status": "added",
+          "additions": 92,
+          "deletions": 0,
+          "changes": 92
+        },
+        {
+          "filename": "tsconfig.json",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "d00d697daba1a02df8b1b7ed5bebe35c2f766011",
+        "message": "Create Readme.md",
+        "date": "2025-03-28T18:06:31+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/d00d697daba1a02df8b1b7ed5bebe35c2f766011",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1,
+        "total_deletions": 0,
+        "total_changes": 1,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "blockid/Readme.md",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "f3461a67bde210beb6951e38e4094b4df569823d",
+        "message": "Delete blockid/New Text Document.txt",
+        "date": "2025-03-28T18:05:37+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/f3461a67bde210beb6951e38e4094b4df569823d",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 0,
+        "total_changes": 0,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "blockid/New Text Document.txt",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "3f5e276555ed3b108ac6535ec91c3a6360969576",
+        "message": "Delete pnpm-lock.yaml",
+        "date": "2025-03-28T18:05:19+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/3f5e276555ed3b108ac6535ec91c3a6360969576",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 5,
+        "total_changes": 5,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "pnpm-lock.yaml",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 5,
+          "changes": 5
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "4a6bbd7c124a05efc6d18426743cfb4a63ed9692",
+        "message": "Delete package.json",
+        "date": "2025-03-28T18:05:08+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/4a6bbd7c124a05efc6d18426743cfb4a63ed9692",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 70,
+        "total_changes": 70,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "package.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 70,
+          "changes": 70
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "74ecb4daf11318ee931897f52a17852d54156953",
+        "message": "Delete package-lock.json",
+        "date": "2025-03-28T18:05:00+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/74ecb4daf11318ee931897f52a17852d54156953",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 4640,
+        "total_changes": 4640,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "package-lock.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 4640,
+          "changes": 4640
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "c4910b75b26b25eed949bc60a835707fdc5538ee",
+        "message": "Delete next.config.mjs",
+        "date": "2025-03-28T18:04:51+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/c4910b75b26b25eed949bc60a835707fdc5538ee",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 48,
+        "total_changes": 48,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "next.config.mjs",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 48,
+          "changes": 48
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "82ab2a581edf33ee24d3902181170aa672cdfd79",
+        "message": "Delete components.json",
+        "date": "2025-03-28T18:04:42+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/82ab2a581edf33ee24d3902181170aa672cdfd79",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 21,
+        "total_changes": 21,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "components.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 21,
+          "changes": 21
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "1a878166eb248b8d6ea4468ad7e38e01634bc626",
+        "message": "Delete .gitignore",
+        "date": "2025-03-28T18:04:28+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/1a878166eb248b8d6ea4468ad7e38e01634bc626",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 27,
+        "total_changes": 27,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": ".gitignore",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 27,
+          "changes": 27
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "c54ab67eb8d4b126c302b5c4d51e7d72cf4e9e28",
+        "message": "Add files via upload",
+        "date": "2025-03-28T18:02:47+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/c54ab67eb8d4b126c302b5c4d51e7d72cf4e9e28",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 0,
+        "total_changes": 0,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "blockid/New Text Document.txt",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "90e34b8f2715777abb40e9ec3b1db7d1353099c3",
+        "message": "Delete postcss.config.mjs",
+        "date": "2025-03-28T18:00:47+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/90e34b8f2715777abb40e9ec3b1db7d1353099c3",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 8,
+        "total_changes": 8,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "postcss.config.mjs",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 8,
+          "changes": 8
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "25560589675b44df569493f2f6a5049444e9aebe",
+        "message": "Delete tailwind.config.ts",
+        "date": "2025-03-28T18:00:37+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/25560589675b44df569493f2f6a5049444e9aebe",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 92,
+        "total_changes": 92,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "tailwind.config.ts",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 92,
+          "changes": 92
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "f6510c28cffea43daf0ab44af518b346839222e4",
+        "message": "Delete tsconfig.json",
+        "date": "2025-03-28T18:00:19+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/f6510c28cffea43daf0ab44af518b346839222e4",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 27,
+        "total_changes": 27,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "tsconfig.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 27,
+          "changes": 27
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "67a45ec4ec0784f4625a6338b1398cc4be3017a9",
+        "message": "Delete styles directory",
+        "date": "2025-03-28T18:00:08+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/67a45ec4ec0784f4625a6338b1398cc4be3017a9",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 94,
+        "total_changes": 94,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "styles/globals.css",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 94,
+          "changes": 94
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "944281f470b98d008e48b231dacbd4d4706297ab",
+        "message": "Delete public directory",
+        "date": "2025-03-28T17:59:59+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/944281f470b98d008e48b231dacbd4d4706297ab",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 2,
+        "total_changes": 2,
+        "files_changed": 5
+      },
+      "file_changes": [
+        {
+          "filename": "public/placeholder-logo.png",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "public/placeholder-logo.svg",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        },
+        {
+          "filename": "public/placeholder-user.jpg",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "public/placeholder.jpg",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "public/placeholder.svg",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "de23402e30f4d89c8fb3ef11912f9dd7b786d9d4",
+        "message": "Delete lib directory",
+        "date": "2025-03-28T17:59:51+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/de23402e30f4d89c8fb3ef11912f9dd7b786d9d4",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 6,
+        "total_changes": 6,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "lib/utils.ts",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 6,
+          "changes": 6
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "d7727b0d01b2d06fd40e678ed57bdcce099b7bfb",
+        "message": "Delete hooks directory",
+        "date": "2025-03-28T17:59:39+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/d7727b0d01b2d06fd40e678ed57bdcce099b7bfb",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 213,
+        "total_changes": 213,
+        "files_changed": 2
+      },
+      "file_changes": [
+        {
+          "filename": "hooks/use-mobile.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 19,
+          "changes": 19
+        },
+        {
+          "filename": "hooks/use-toast.ts",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 194,
+          "changes": 194
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "7bd05f7d476be6c27dc9f65a0091d7a8ec041723",
+        "message": "Delete components directory",
+        "date": "2025-03-28T17:59:30+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/7bd05f7d476be6c27dc9f65a0091d7a8ec041723",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 5354,
+        "total_changes": 5354,
+        "files_changed": 54
+      },
+      "file_changes": [
+        {
+          "filename": "components/UserForm.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 92,
+          "changes": 92
+        },
+        {
+          "filename": "components/dashboard-layout.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 187,
+          "changes": 187
+        },
+        {
+          "filename": "components/mode-toggle.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 29,
+          "changes": 29
+        },
+        {
+          "filename": "components/theme-provider.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 11,
+          "changes": 11
+        },
+        {
+          "filename": "components/ui/accordion.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 58,
+          "changes": 58
+        },
+        {
+          "filename": "components/ui/alert-dialog.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 141,
+          "changes": 141
+        },
+        {
+          "filename": "components/ui/alert.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 59,
+          "changes": 59
+        },
+        {
+          "filename": "components/ui/aspect-ratio.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 7,
+          "changes": 7
+        },
+        {
+          "filename": "components/ui/avatar.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 50,
+          "changes": 50
+        },
+        {
+          "filename": "components/ui/badge.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 36,
+          "changes": 36
+        },
+        {
+          "filename": "components/ui/breadcrumb.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 115,
+          "changes": 115
+        },
+        {
+          "filename": "components/ui/button.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 56,
+          "changes": 56
+        },
+        {
+          "filename": "components/ui/calendar.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 66,
+          "changes": 66
+        },
+        {
+          "filename": "components/ui/card.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 79,
+          "changes": 79
+        },
+        {
+          "filename": "components/ui/carousel.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 262,
+          "changes": 262
+        },
+        {
+          "filename": "components/ui/chart.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 365,
+          "changes": 365
+        },
+        {
+          "filename": "components/ui/checkbox.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 30,
+          "changes": 30
+        },
+        {
+          "filename": "components/ui/collapsible.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 11,
+          "changes": 11
+        },
+        {
+          "filename": "components/ui/command.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 153,
+          "changes": 153
+        },
+        {
+          "filename": "components/ui/context-menu.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 200,
+          "changes": 200
+        },
+        {
+          "filename": "components/ui/dialog.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 122,
+          "changes": 122
+        },
+        {
+          "filename": "components/ui/drawer.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 118,
+          "changes": 118
+        },
+        {
+          "filename": "components/ui/dropdown-menu.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 200,
+          "changes": 200
+        },
+        {
+          "filename": "components/ui/form.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 178,
+          "changes": 178
+        },
+        {
+          "filename": "components/ui/hover-card.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 29,
+          "changes": 29
+        },
+        {
+          "filename": "components/ui/input-otp.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 71,
+          "changes": 71
+        },
+        {
+          "filename": "components/ui/input.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 22,
+          "changes": 22
+        },
+        {
+          "filename": "components/ui/label.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 26,
+          "changes": 26
+        },
+        {
+          "filename": "components/ui/menubar.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 236,
+          "changes": 236
+        },
+        {
+          "filename": "components/ui/navigation-menu.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 128,
+          "changes": 128
+        },
+        {
+          "filename": "components/ui/pagination.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 117,
+          "changes": 117
+        },
+        {
+          "filename": "components/ui/popover.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 31,
+          "changes": 31
+        },
+        {
+          "filename": "components/ui/progress.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 28,
+          "changes": 28
+        },
+        {
+          "filename": "components/ui/radio-group.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 44,
+          "changes": 44
+        },
+        {
+          "filename": "components/ui/resizable.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 45,
+          "changes": 45
+        },
+        {
+          "filename": "components/ui/scroll-area.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 48,
+          "changes": 48
+        },
+        {
+          "filename": "components/ui/select.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 160,
+          "changes": 160
+        },
+        {
+          "filename": "components/ui/separator.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 31,
+          "changes": 31
+        },
+        {
+          "filename": "components/ui/sheet.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 140,
+          "changes": 140
+        },
+        {
+          "filename": "components/ui/sidebar.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 763,
+          "changes": 763
+        },
+        {
+          "filename": "components/ui/skeleton.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 15,
+          "changes": 15
+        },
+        {
+          "filename": "components/ui/slider.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 28,
+          "changes": 28
+        },
+        {
+          "filename": "components/ui/sonner.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 31,
+          "changes": 31
+        },
+        {
+          "filename": "components/ui/switch.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 29,
+          "changes": 29
+        },
+        {
+          "filename": "components/ui/table.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 117,
+          "changes": 117
+        },
+        {
+          "filename": "components/ui/tabs.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 55,
+          "changes": 55
+        },
+        {
+          "filename": "components/ui/textarea.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 22,
+          "changes": 22
+        },
+        {
+          "filename": "components/ui/toast.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 129,
+          "changes": 129
+        },
+        {
+          "filename": "components/ui/toaster.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 35,
+          "changes": 35
+        },
+        {
+          "filename": "components/ui/toggle-group.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 61,
+          "changes": 61
+        },
+        {
+          "filename": "components/ui/toggle.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 45,
+          "changes": 45
+        },
+        {
+          "filename": "components/ui/tooltip.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 30,
+          "changes": 30
+        },
+        {
+          "filename": "components/ui/use-mobile.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 19,
+          "changes": 19
+        },
+        {
+          "filename": "components/ui/use-toast.ts",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 194,
+          "changes": 194
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "f18aec548b96944de63716513968b8bcaca026e0",
+        "message": "Delete app directory",
+        "date": "2025-03-28T17:59:14+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/f18aec548b96944de63716513968b8bcaca026e0",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 3498,
+        "total_changes": 3498,
+        "files_changed": 14
+      },
+      "file_changes": [
+        {
+          "filename": "app/activity/loading.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 4,
+          "changes": 4
+        },
+        {
+          "filename": "app/activity/page.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 342,
+          "changes": 342
+        },
+        {
+          "filename": "app/credentials/loading.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 4,
+          "changes": 4
+        },
+        {
+          "filename": "app/credentials/page.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 472,
+          "changes": 472
+        },
+        {
+          "filename": "app/globals.css",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 80,
+          "changes": 80
+        },
+        {
+          "filename": "app/help/loading.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 4,
+          "changes": 4
+        },
+        {
+          "filename": "app/help/page.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 302,
+          "changes": 302
+        },
+        {
+          "filename": "app/layout.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 34,
+          "changes": 34
+        },
+        {
+          "filename": "app/login/page.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 175,
+          "changes": 175
+        },
+        {
+          "filename": "app/page.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 474,
+          "changes": 474
+        },
+        {
+          "filename": "app/profile/page.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 349,
+          "changes": 349
+        },
+        {
+          "filename": "app/security/page.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 445,
+          "changes": 445
+        },
+        {
+          "filename": "app/settings/page.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 399,
+          "changes": 399
+        },
+        {
+          "filename": "app/sharing/page.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 414,
+          "changes": 414
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "5ecb0aa11a013ecc6bc16cd4f24eb07163f4c005",
+        "message": "Update DID.sol",
+        "date": "2025-03-28T13:55:02+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/5ecb0aa11a013ecc6bc16cd4f24eb07163f4c005",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 56,
+        "total_deletions": 34,
+        "total_changes": 90,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "Contract/DID.sol",
+          "status": "modified",
+          "additions": 56,
+          "deletions": 34,
+          "changes": 90
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "e5a36082b7c03035591dedf321d03effc590fea0",
+        "message": "Delete BlockChain Deciphers",
+        "date": "2025-03-28T13:27:05+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/e5a36082b7c03035591dedf321d03effc590fea0",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 1,
+        "total_changes": 1,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "BlockChain Deciphers",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "7a6066c2f6dbdb5d10ff2e0a99ef6bf674d54b85",
+        "message": "UI",
+        "date": "2025-03-28T13:17:28+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/7a6066c2f6dbdb5d10ff2e0a99ef6bf674d54b85",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "agrawalshailesh424@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 14105,
+        "total_deletions": 0,
+        "total_changes": 14105,
+        "files_changed": 86
+      },
+      "file_changes": [
+        {
+          "filename": ".gitignore",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        },
+        {
+          "filename": "app/activity/loading.tsx",
+          "status": "added",
+          "additions": 4,
+          "deletions": 0,
+          "changes": 4
+        },
+        {
+          "filename": "app/activity/page.tsx",
+          "status": "added",
+          "additions": 342,
+          "deletions": 0,
+          "changes": 342
+        },
+        {
+          "filename": "app/credentials/loading.tsx",
+          "status": "added",
+          "additions": 4,
+          "deletions": 0,
+          "changes": 4
+        },
+        {
+          "filename": "app/credentials/page.tsx",
+          "status": "added",
+          "additions": 472,
+          "deletions": 0,
+          "changes": 472
+        },
+        {
+          "filename": "app/globals.css",
+          "status": "added",
+          "additions": 80,
+          "deletions": 0,
+          "changes": 80
+        },
+        {
+          "filename": "app/help/loading.tsx",
+          "status": "added",
+          "additions": 4,
+          "deletions": 0,
+          "changes": 4
+        },
+        {
+          "filename": "app/help/page.tsx",
+          "status": "added",
+          "additions": 302,
+          "deletions": 0,
+          "changes": 302
+        },
+        {
+          "filename": "app/layout.tsx",
+          "status": "added",
+          "additions": 34,
+          "deletions": 0,
+          "changes": 34
+        },
+        {
+          "filename": "app/login/page.tsx",
+          "status": "added",
+          "additions": 175,
+          "deletions": 0,
+          "changes": 175
+        },
+        {
+          "filename": "app/page.tsx",
+          "status": "added",
+          "additions": 474,
+          "deletions": 0,
+          "changes": 474
+        },
+        {
+          "filename": "app/profile/page.tsx",
+          "status": "added",
+          "additions": 349,
+          "deletions": 0,
+          "changes": 349
+        },
+        {
+          "filename": "app/security/page.tsx",
+          "status": "added",
+          "additions": 445,
+          "deletions": 0,
+          "changes": 445
+        },
+        {
+          "filename": "app/settings/page.tsx",
+          "status": "added",
+          "additions": 399,
+          "deletions": 0,
+          "changes": 399
+        },
+        {
+          "filename": "app/sharing/page.tsx",
+          "status": "added",
+          "additions": 414,
+          "deletions": 0,
+          "changes": 414
+        },
+        {
+          "filename": "components.json",
+          "status": "added",
+          "additions": 21,
+          "deletions": 0,
+          "changes": 21
+        },
+        {
+          "filename": "components/UserForm.tsx",
+          "status": "added",
+          "additions": 92,
+          "deletions": 0,
+          "changes": 92
+        },
+        {
+          "filename": "components/dashboard-layout.tsx",
+          "status": "added",
+          "additions": 187,
+          "deletions": 0,
+          "changes": 187
+        },
+        {
+          "filename": "components/mode-toggle.tsx",
+          "status": "added",
+          "additions": 29,
+          "deletions": 0,
+          "changes": 29
+        },
+        {
+          "filename": "components/theme-provider.tsx",
+          "status": "added",
+          "additions": 11,
+          "deletions": 0,
+          "changes": 11
+        },
+        {
+          "filename": "components/ui/accordion.tsx",
+          "status": "added",
+          "additions": 58,
+          "deletions": 0,
+          "changes": 58
+        },
+        {
+          "filename": "components/ui/alert-dialog.tsx",
+          "status": "added",
+          "additions": 141,
+          "deletions": 0,
+          "changes": 141
+        },
+        {
+          "filename": "components/ui/alert.tsx",
+          "status": "added",
+          "additions": 59,
+          "deletions": 0,
+          "changes": 59
+        },
+        {
+          "filename": "components/ui/aspect-ratio.tsx",
+          "status": "added",
+          "additions": 7,
+          "deletions": 0,
+          "changes": 7
+        },
+        {
+          "filename": "components/ui/avatar.tsx",
+          "status": "added",
+          "additions": 50,
+          "deletions": 0,
+          "changes": 50
+        },
+        {
+          "filename": "components/ui/badge.tsx",
+          "status": "added",
+          "additions": 36,
+          "deletions": 0,
+          "changes": 36
+        },
+        {
+          "filename": "components/ui/breadcrumb.tsx",
+          "status": "added",
+          "additions": 115,
+          "deletions": 0,
+          "changes": 115
+        },
+        {
+          "filename": "components/ui/button.tsx",
+          "status": "added",
+          "additions": 56,
+          "deletions": 0,
+          "changes": 56
+        },
+        {
+          "filename": "components/ui/calendar.tsx",
+          "status": "added",
+          "additions": 66,
+          "deletions": 0,
+          "changes": 66
+        },
+        {
+          "filename": "components/ui/card.tsx",
+          "status": "added",
+          "additions": 79,
+          "deletions": 0,
+          "changes": 79
+        },
+        {
+          "filename": "components/ui/carousel.tsx",
+          "status": "added",
+          "additions": 262,
+          "deletions": 0,
+          "changes": 262
+        },
+        {
+          "filename": "components/ui/chart.tsx",
+          "status": "added",
+          "additions": 365,
+          "deletions": 0,
+          "changes": 365
+        },
+        {
+          "filename": "components/ui/checkbox.tsx",
+          "status": "added",
+          "additions": 30,
+          "deletions": 0,
+          "changes": 30
+        },
+        {
+          "filename": "components/ui/collapsible.tsx",
+          "status": "added",
+          "additions": 11,
+          "deletions": 0,
+          "changes": 11
+        },
+        {
+          "filename": "components/ui/command.tsx",
+          "status": "added",
+          "additions": 153,
+          "deletions": 0,
+          "changes": 153
+        },
+        {
+          "filename": "components/ui/context-menu.tsx",
+          "status": "added",
+          "additions": 200,
+          "deletions": 0,
+          "changes": 200
+        },
+        {
+          "filename": "components/ui/dialog.tsx",
+          "status": "added",
+          "additions": 122,
+          "deletions": 0,
+          "changes": 122
+        },
+        {
+          "filename": "components/ui/drawer.tsx",
+          "status": "added",
+          "additions": 118,
+          "deletions": 0,
+          "changes": 118
+        },
+        {
+          "filename": "components/ui/dropdown-menu.tsx",
+          "status": "added",
+          "additions": 200,
+          "deletions": 0,
+          "changes": 200
+        },
+        {
+          "filename": "components/ui/form.tsx",
+          "status": "added",
+          "additions": 178,
+          "deletions": 0,
+          "changes": 178
+        },
+        {
+          "filename": "components/ui/hover-card.tsx",
+          "status": "added",
+          "additions": 29,
+          "deletions": 0,
+          "changes": 29
+        },
+        {
+          "filename": "components/ui/input-otp.tsx",
+          "status": "added",
+          "additions": 71,
+          "deletions": 0,
+          "changes": 71
+        },
+        {
+          "filename": "components/ui/input.tsx",
+          "status": "added",
+          "additions": 22,
+          "deletions": 0,
+          "changes": 22
+        },
+        {
+          "filename": "components/ui/label.tsx",
+          "status": "added",
+          "additions": 26,
+          "deletions": 0,
+          "changes": 26
+        },
+        {
+          "filename": "components/ui/menubar.tsx",
+          "status": "added",
+          "additions": 236,
+          "deletions": 0,
+          "changes": 236
+        },
+        {
+          "filename": "components/ui/navigation-menu.tsx",
+          "status": "added",
+          "additions": 128,
+          "deletions": 0,
+          "changes": 128
+        },
+        {
+          "filename": "components/ui/pagination.tsx",
+          "status": "added",
+          "additions": 117,
+          "deletions": 0,
+          "changes": 117
+        },
+        {
+          "filename": "components/ui/popover.tsx",
+          "status": "added",
+          "additions": 31,
+          "deletions": 0,
+          "changes": 31
+        },
+        {
+          "filename": "components/ui/progress.tsx",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        },
+        {
+          "filename": "components/ui/radio-group.tsx",
+          "status": "added",
+          "additions": 44,
+          "deletions": 0,
+          "changes": 44
+        },
+        {
+          "filename": "components/ui/resizable.tsx",
+          "status": "added",
+          "additions": 45,
+          "deletions": 0,
+          "changes": 45
+        },
+        {
+          "filename": "components/ui/scroll-area.tsx",
+          "status": "added",
+          "additions": 48,
+          "deletions": 0,
+          "changes": 48
+        },
+        {
+          "filename": "components/ui/select.tsx",
+          "status": "added",
+          "additions": 160,
+          "deletions": 0,
+          "changes": 160
+        },
+        {
+          "filename": "components/ui/separator.tsx",
+          "status": "added",
+          "additions": 31,
+          "deletions": 0,
+          "changes": 31
+        },
+        {
+          "filename": "components/ui/sheet.tsx",
+          "status": "added",
+          "additions": 140,
+          "deletions": 0,
+          "changes": 140
+        },
+        {
+          "filename": "components/ui/sidebar.tsx",
+          "status": "added",
+          "additions": 763,
+          "deletions": 0,
+          "changes": 763
+        },
+        {
+          "filename": "components/ui/skeleton.tsx",
+          "status": "added",
+          "additions": 15,
+          "deletions": 0,
+          "changes": 15
+        },
+        {
+          "filename": "components/ui/slider.tsx",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        },
+        {
+          "filename": "components/ui/sonner.tsx",
+          "status": "added",
+          "additions": 31,
+          "deletions": 0,
+          "changes": 31
+        },
+        {
+          "filename": "components/ui/switch.tsx",
+          "status": "added",
+          "additions": 29,
+          "deletions": 0,
+          "changes": 29
+        },
+        {
+          "filename": "components/ui/table.tsx",
+          "status": "added",
+          "additions": 117,
+          "deletions": 0,
+          "changes": 117
+        },
+        {
+          "filename": "components/ui/tabs.tsx",
+          "status": "added",
+          "additions": 55,
+          "deletions": 0,
+          "changes": 55
+        },
+        {
+          "filename": "components/ui/textarea.tsx",
+          "status": "added",
+          "additions": 22,
+          "deletions": 0,
+          "changes": 22
+        },
+        {
+          "filename": "components/ui/toast.tsx",
+          "status": "added",
+          "additions": 129,
+          "deletions": 0,
+          "changes": 129
+        },
+        {
+          "filename": "components/ui/toaster.tsx",
+          "status": "added",
+          "additions": 35,
+          "deletions": 0,
+          "changes": 35
+        },
+        {
+          "filename": "components/ui/toggle-group.tsx",
+          "status": "added",
+          "additions": 61,
+          "deletions": 0,
+          "changes": 61
+        },
+        {
+          "filename": "components/ui/toggle.tsx",
+          "status": "added",
+          "additions": 45,
+          "deletions": 0,
+          "changes": 45
+        },
+        {
+          "filename": "components/ui/tooltip.tsx",
+          "status": "added",
+          "additions": 30,
+          "deletions": 0,
+          "changes": 30
+        },
+        {
+          "filename": "components/ui/use-mobile.tsx",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "components/ui/use-toast.ts",
+          "status": "added",
+          "additions": 194,
+          "deletions": 0,
+          "changes": 194
+        },
+        {
+          "filename": "hooks/use-mobile.tsx",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "hooks/use-toast.ts",
+          "status": "added",
+          "additions": 194,
+          "deletions": 0,
+          "changes": 194
+        },
+        {
+          "filename": "lib/utils.ts",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        },
+        {
+          "filename": "next.config.mjs",
+          "status": "added",
+          "additions": 48,
+          "deletions": 0,
+          "changes": 48
+        },
+        {
+          "filename": "package-lock.json",
+          "status": "added",
+          "additions": 4640,
+          "deletions": 0,
+          "changes": 4640
+        },
+        {
+          "filename": "package.json",
+          "status": "added",
+          "additions": 70,
+          "deletions": 0,
+          "changes": 70
+        },
+        {
+          "filename": "pnpm-lock.yaml",
+          "status": "added",
+          "additions": 5,
+          "deletions": 0,
+          "changes": 5
+        },
+        {
+          "filename": "postcss.config.mjs",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "public/placeholder-logo.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "public/placeholder-logo.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "public/placeholder-user.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "public/placeholder.jpg",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "public/placeholder.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "styles/globals.css",
+          "status": "added",
+          "additions": 94,
+          "deletions": 0,
+          "changes": 94
+        },
+        {
+          "filename": "tailwind.config.ts",
+          "status": "added",
+          "additions": 92,
+          "deletions": 0,
+          "changes": 92
+        },
+        {
+          "filename": "tsconfig.json",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "28acae53528664e3071532d967132ac6d492f87e",
+        "message": "Add files via upload",
+        "date": "2025-03-28T12:11:53+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/28acae53528664e3071532d967132ac6d492f87e",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 103,
+        "total_deletions": 0,
+        "total_changes": 103,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "Contract/DID.sol",
+          "status": "added",
+          "additions": 103,
+          "deletions": 0,
+          "changes": 103
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "2172199067a0432b9736af6c3c986f61c714a33a",
+        "message": "Create BlockChain Deciphers",
+        "date": "2025-03-28T11:51:28+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/2172199067a0432b9736af6c3c986f61c714a33a",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Mayur-Bhamare-13",
+        "username": "Mayur-Bhamare-13",
+        "email": "fanofshahrukh001@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1,
+        "total_deletions": 0,
+        "total_changes": 1,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "BlockChain Deciphers",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Blockchain",
+        "owner": "ShaileshAgrawal07",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain"
+      },
+      "commit": {
+        "sha": "0185708aeeae8007e003b61a8b267276073e3a98",
+        "message": "Initial commit",
+        "date": "2025-03-28T09:37:52+00:00",
+        "url": "https://github.com/ShaileshAgrawal07/COHERENCE-25_Blockchain/commit/0185708aeeae8007e003b61a8b267276073e3a98",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shailesh Agrawal",
+        "username": "ShaileshAgrawal07",
+        "email": "152975068+ShaileshAgrawal07@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1,
+        "total_deletions": 0,
+        "total_changes": 1,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        }
+      ]
+    }
+  ],
+  "total_commits": 53,
+  "metadata": {
+    "collection_date": "2026-01-31T21:21:50.871049",
+    "total_repositories": 1,
+    "total_commits_collected": 53,
+    "repositories_processed": [
+      "ShaileshAgrawal07/COHERENCE-25_Blockchain"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  }
+}

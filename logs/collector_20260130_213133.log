@@ -1,0 +1,32 @@
+2026-01-30 21:31:33 - root - INFO - Logging to file: logs/collector_20260130_213133.log
+2026-01-30 21:31:33 - root - INFO - Logging configured with level: INFO
+2026-01-30 21:31:33 - __main__ - INFO - ================================================================================
+2026-01-30 21:31:33 - __main__ - INFO - GitHub Commit Data Collector Starting
+2026-01-30 21:31:33 - __main__ - INFO - ================================================================================
+2026-01-30 21:31:33 - config_manager - INFO - Loaded environment variables from .env
+2026-01-30 21:31:33 - config_manager - INFO - Loaded configuration from config/repositories.yaml
+2026-01-30 21:31:33 - github_client - INFO - GitHub API client initialized
+2026-01-30 21:31:33 - config_manager - INFO - Loaded configuration from config/teams.yaml
+2026-01-30 21:31:33 - team_mapper - INFO - Team mapper initialized with 10 user mappings
+2026-01-30 21:31:33 - commit_processor - INFO - Commit processor initialized
+2026-01-30 21:31:33 - data_collector - INFO - Data collector initialized
+2026-01-30 21:31:33 - config_manager - INFO - Loaded configuration from config/repositories.yaml
+2026-01-30 21:31:33 - config_manager - INFO - Loaded configuration from config/repositories.yaml
+2026-01-30 21:31:33 - __main__ - INFO - Collecting commits from 2 repository(ies)
+2026-01-30 21:31:33 - __main__ - INFO - Active filters: {'date_from': None, 'date_to': None, 'authors': [], 'teams': [], 'author': 'octocat'}
+2026-01-30 21:31:33 - data_collector - INFO - Collecting commits from Rahul-Rathodseven/Ml_project (branch: main)
+2026-01-30 21:31:33 - github_client - INFO - Fetching repository info: Rahul-Rathodseven/Ml_project
+2026-01-30 21:31:34 - github_client - ERROR - HTTP error for https://api.github.com/repos/Rahul-Rathodseven/Ml_project: 404 Client Error: Not Found for url: https://api.github.com/repos/Rahul-Rathodseven/Ml_project
+2026-01-30 21:31:37 - github_client - ERROR - HTTP error for https://api.github.com/repos/Rahul-Rathodseven/Ml_project: 404 Client Error: Not Found for url: https://api.github.com/repos/Rahul-Rathodseven/Ml_project
+2026-01-30 21:31:40 - github_client - ERROR - HTTP error for https://api.github.com/repos/Rahul-Rathodseven/Ml_project: 404 Client Error: Not Found for url: https://api.github.com/repos/Rahul-Rathodseven/Ml_project
+2026-01-30 21:31:40 - data_collector - ERROR - Error collecting commits from https://github.com/Rahul-Rathodseven/Ml_project: RetryError[<Future at 0x11fb3bb50 state=finished raised HTTPError>]
+2026-01-30 21:31:40 - data_collector - ERROR - Failed to collect from repository https://github.com/Rahul-Rathodseven/Ml_project: RetryError[<Future at 0x11fb3bb50 state=finished raised HTTPError>]
+2026-01-30 21:31:40 - data_collector - INFO - Collecting commits from Rahul-Rathodseven/timepass (branch: develop)
+2026-01-30 21:31:40 - github_client - INFO - Fetching repository info: Rahul-Rathodseven/timepass
+2026-01-30 21:31:41 - github_client - ERROR - HTTP error for https://api.github.com/repos/Rahul-Rathodseven/timepass: 404 Client Error: Not Found for url: https://api.github.com/repos/Rahul-Rathodseven/timepass
+2026-01-30 21:31:43 - github_client - ERROR - HTTP error for https://api.github.com/repos/Rahul-Rathodseven/timepass: 404 Client Error: Not Found for url: https://api.github.com/repos/Rahul-Rathodseven/timepass
+2026-01-30 21:31:46 - github_client - ERROR - HTTP error for https://api.github.com/repos/Rahul-Rathodseven/timepass: 404 Client Error: Not Found for url: https://api.github.com/repos/Rahul-Rathodseven/timepass
+2026-01-30 21:31:46 - data_collector - ERROR - Error collecting commits from https://github.com/Rahul-Rathodseven/timepass: RetryError[<Future at 0x12aa7a750 state=finished raised HTTPError>]
+2026-01-30 21:31:46 - data_collector - ERROR - Failed to collect from repository https://github.com/Rahul-Rathodseven/timepass: RetryError[<Future at 0x12aa7a750 state=finished raised HTTPError>]
+2026-01-30 21:31:46 - data_collector - INFO - Collected total of 0 commits from 2 repositories
+2026-01-30 21:31:46 - __main__ - WARNING - No commits collected!

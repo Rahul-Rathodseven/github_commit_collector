@@ -1,0 +1,1622 @@
+{
+  "commits": [
+    {
+      "repository": {
+        "name": "COHERENCE-25_Cyber-Ninjas_AI-ML",
+        "owner": "Shivam-sati",
+        "url": "https://github.com/Shivam-sati/COHERENCE-25_Cyber-Ninjas_AI-ML"
+      },
+      "commit": {
+        "sha": "c0b32a11266351d6c9a40ece5b8ec3caef8167a8",
+        "message": "frontend modified and backend",
+        "date": "2025-03-28T18:00:45+00:00",
+        "url": "https://github.com/Shivam-sati/COHERENCE-25_Cyber-Ninjas_AI-ML/commit/c0b32a11266351d6c9a40ece5b8ec3caef8167a8",
+        "branch": "main"
+      },
+      "author": {
+        "name": "meetshah1708",
+        "username": "meetshah1708",
+        "email": "meetshah1785@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 2770,
+        "total_deletions": 241,
+        "total_changes": 3011,
+        "files_changed": 17
+      },
+      "file_changes": [
+        {
+          "filename": "backend/app/__init__.py",
+          "status": "modified",
+          "additions": 16,
+          "deletions": 2,
+          "changes": 18
+        },
+        {
+          "filename": "backend/app/routes/candidate_routes.py",
+          "status": "added",
+          "additions": 246,
+          "deletions": 0,
+          "changes": 246
+        },
+        {
+          "filename": "backend/app/utils/email_service.py",
+          "status": "added",
+          "additions": 181,
+          "deletions": 0,
+          "changes": 181
+        },
+        {
+          "filename": "backend/app/utils/mock_ai.py",
+          "status": "modified",
+          "additions": 146,
+          "deletions": 14,
+          "changes": 160
+        },
+        {
+          "filename": "backend/app/utils/resume_analyzer.py",
+          "status": "added",
+          "additions": 232,
+          "deletions": 0,
+          "changes": 232
+        },
+        {
+          "filename": "frontend/package-lock.json",
+          "status": "modified",
+          "additions": 526,
+          "deletions": 0,
+          "changes": 526
+        },
+        {
+          "filename": "frontend/package.json",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 0,
+          "changes": 2
+        },
+        {
+          "filename": "frontend/src/App.tsx",
+          "status": "modified",
+          "additions": 5,
+          "deletions": 4,
+          "changes": 9
+        },
+        {
+          "filename": "frontend/src/components/BottomNav.tsx",
+          "status": "modified",
+          "additions": 7,
+          "deletions": 7,
+          "changes": 14
+        },
+        {
+          "filename": "frontend/src/components/CandidateCard.tsx",
+          "status": "modified",
+          "additions": 5,
+          "deletions": 3,
+          "changes": 8
+        },
+        {
+          "filename": "frontend/src/components/GeneralNav.tsx",
+          "status": "modified",
+          "additions": 6,
+          "deletions": 6,
+          "changes": 12
+        },
+        {
+          "filename": "frontend/src/components/Header.tsx",
+          "status": "modified",
+          "additions": 4,
+          "deletions": 2,
+          "changes": 6
+        },
+        {
+          "filename": "frontend/src/components/SkillCategoryPieChart.tsx",
+          "status": "added",
+          "additions": 140,
+          "deletions": 0,
+          "changes": 140
+        },
+        {
+          "filename": "frontend/src/components/SkillsChart.tsx",
+          "status": "added",
+          "additions": 93,
+          "deletions": 0,
+          "changes": 93
+        },
+        {
+          "filename": "frontend/src/index.css",
+          "status": "modified",
+          "additions": 50,
+          "deletions": 51,
+          "changes": 101
+        },
+        {
+          "filename": "frontend/src/pages/CandidateDetail.tsx",
+          "status": "added",
+          "additions": 669,
+          "deletions": 0,
+          "changes": 669
+        },
+        {
+          "filename": "frontend/src/pages/Candidates.tsx",
+          "status": "modified",
+          "additions": 442,
+          "deletions": 152,
+          "changes": 594
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Cyber-Ninjas_AI-ML",
+        "owner": "Shivam-sati",
+        "url": "https://github.com/Shivam-sati/COHERENCE-25_Cyber-Ninjas_AI-ML"
+      },
+      "commit": {
+        "sha": "752b09c9bbda9bda140038a153775b7f24e6ddf8",
+        "message": "Frontend updated",
+        "date": "2025-03-28T14:55:29+00:00",
+        "url": "https://github.com/Shivam-sati/COHERENCE-25_Cyber-Ninjas_AI-ML/commit/752b09c9bbda9bda140038a153775b7f24e6ddf8",
+        "branch": "main"
+      },
+      "author": {
+        "name": "meetshah1708",
+        "username": "meetshah1708",
+        "email": "meetshah1785@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 14167,
+        "total_deletions": 7120,
+        "total_changes": 21287,
+        "files_changed": 139
+      },
+      "file_changes": [
+        {
+          "filename": "frontend/.eslintrc.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 14,
+          "changes": 14
+        },
+        {
+          "filename": "frontend/.gitignore",
+          "status": "modified",
+          "additions": 21,
+          "deletions": 38,
+          "changes": 59
+        },
+        {
+          "filename": "frontend/.prettierrc",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 8,
+          "changes": 8
+        },
+        {
+          "filename": "frontend/README.md",
+          "status": "modified",
+          "additions": 54,
+          "deletions": 43,
+          "changes": 97
+        },
+        {
+          "filename": "frontend/bun.lockb",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "frontend/components.json",
+          "status": "added",
+          "additions": 20,
+          "deletions": 0,
+          "changes": 20
+        },
+        {
+          "filename": "frontend/eslint.config.js",
+          "status": "added",
+          "additions": 29,
+          "deletions": 0,
+          "changes": 29
+        },
+        {
+          "filename": "frontend/eslint.config.mjs",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 16,
+          "changes": 16
+        },
+        {
+          "filename": "frontend/index.html",
+          "status": "added",
+          "additions": 36,
+          "deletions": 0,
+          "changes": 36
+        },
+        {
+          "filename": "frontend/next.config.mts",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 14,
+          "changes": 14
+        },
+        {
+          "filename": "frontend/package-lock.json",
+          "status": "modified",
+          "additions": 4989,
+          "deletions": 5084,
+          "changes": 10073
+        },
+        {
+          "filename": "frontend/package.json",
+          "status": "modified",
+          "additions": 77,
+          "deletions": 48,
+          "changes": 125
+        },
+        {
+          "filename": "frontend/postcss.config.js",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 2,
+          "changes": 4
+        },
+        {
+          "filename": "frontend/postcss.config.mjs",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 5,
+          "changes": 5
+        },
+        {
+          "filename": "frontend/prisma/schema.prisma",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 140,
+          "changes": 140
+        },
+        {
+          "filename": "frontend/prisma/seed.ts",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 112,
+          "changes": 112
+        },
+        {
+          "filename": "frontend/public/favicon.ico",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "frontend/public/favicon.svg",
+          "status": "added",
+          "additions": 5,
+          "deletions": 0,
+          "changes": 5
+        },
+        {
+          "filename": "frontend/public/file.svg",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        },
+        {
+          "filename": "frontend/public/fonts/helvetiker_regular.typeface.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        },
+        {
+          "filename": "frontend/public/globe.svg",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        },
+        {
+          "filename": "frontend/public/manifest.json",
+          "status": "added",
+          "additions": 21,
+          "deletions": 0,
+          "changes": 21
+        },
+        {
+          "filename": "frontend/public/next.svg",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        },
+        {
+          "filename": "frontend/public/placeholder.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "frontend/public/robots.txt",
+          "status": "added",
+          "additions": 14,
+          "deletions": 0,
+          "changes": 14
+        },
+        {
+          "filename": "frontend/public/vercel.svg",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        },
+        {
+          "filename": "frontend/public/window.svg",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        },
+        {
+          "filename": "frontend/src/App.css",
+          "status": "added",
+          "additions": 42,
+          "deletions": 0,
+          "changes": 42
+        },
+        {
+          "filename": "frontend/src/App.tsx",
+          "status": "added",
+          "additions": 54,
+          "deletions": 0,
+          "changes": 54
+        },
+        {
+          "filename": "frontend/src/app/api/auth/[...nextauth]/route.ts",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 81,
+          "changes": 81
+        },
+        {
+          "filename": "frontend/src/app/api/resume/upload/route.ts",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 109,
+          "changes": 109
+        },
+        {
+          "filename": "frontend/src/app/api/trpc/[trpc]/route.ts",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 13,
+          "changes": 13
+        },
+        {
+          "filename": "frontend/src/app/favicon.ico",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "frontend/src/app/globals.css",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 96,
+          "changes": 96
+        },
+        {
+          "filename": "frontend/src/app/layout.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 29,
+          "changes": 29
+        },
+        {
+          "filename": "frontend/src/app/page.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 87,
+          "changes": 87
+        },
+        {
+          "filename": "frontend/src/app/providers.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 27,
+          "changes": 27
+        },
+        {
+          "filename": "frontend/src/components/AnalyticsCard.tsx",
+          "status": "added",
+          "additions": 44,
+          "deletions": 0,
+          "changes": 44
+        },
+        {
+          "filename": "frontend/src/components/BottomNav.tsx",
+          "status": "added",
+          "additions": 75,
+          "deletions": 0,
+          "changes": 75
+        },
+        {
+          "filename": "frontend/src/components/CTASection.tsx",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        },
+        {
+          "filename": "frontend/src/components/CandidateCard.tsx",
+          "status": "added",
+          "additions": 116,
+          "deletions": 0,
+          "changes": 116
+        },
+        {
+          "filename": "frontend/src/components/CompleteNav.tsx",
+          "status": "added",
+          "additions": 170,
+          "deletions": 0,
+          "changes": 170
+        },
+        {
+          "filename": "frontend/src/components/FeaturesSection.tsx",
+          "status": "added",
+          "additions": 165,
+          "deletions": 0,
+          "changes": 165
+        },
+        {
+          "filename": "frontend/src/components/Footer.tsx",
+          "status": "added",
+          "additions": 101,
+          "deletions": 0,
+          "changes": 101
+        },
+        {
+          "filename": "frontend/src/components/GeneralNav.tsx",
+          "status": "added",
+          "additions": 69,
+          "deletions": 0,
+          "changes": 69
+        },
+        {
+          "filename": "frontend/src/components/Header.tsx",
+          "status": "added",
+          "additions": 207,
+          "deletions": 0,
+          "changes": 207
+        },
+        {
+          "filename": "frontend/src/components/HeroSection.tsx",
+          "status": "added",
+          "additions": 128,
+          "deletions": 0,
+          "changes": 128
+        },
+        {
+          "filename": "frontend/src/components/HowItWorksSection.tsx",
+          "status": "added",
+          "additions": 67,
+          "deletions": 0,
+          "changes": 67
+        },
+        {
+          "filename": "frontend/src/components/JobCard.tsx",
+          "status": "added",
+          "additions": 175,
+          "deletions": 0,
+          "changes": 175
+        },
+        {
+          "filename": "frontend/src/components/JobPostingModal.tsx",
+          "status": "added",
+          "additions": 205,
+          "deletions": 0,
+          "changes": 205
+        },
+        {
+          "filename": "frontend/src/components/LeaderboardTable.tsx",
+          "status": "added",
+          "additions": 164,
+          "deletions": 0,
+          "changes": 164
+        },
+        {
+          "filename": "frontend/src/components/ThemeToggle.tsx",
+          "status": "added",
+          "additions": 42,
+          "deletions": 0,
+          "changes": 42
+        },
+        {
+          "filename": "frontend/src/components/UploadResumeBox.tsx",
+          "status": "added",
+          "additions": 164,
+          "deletions": 0,
+          "changes": 164
+        },
+        {
+          "filename": "frontend/src/components/dashboard/DashboardLayout.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 118,
+          "changes": 118
+        },
+        {
+          "filename": "frontend/src/components/mode-toggle.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 23,
+          "changes": 23
+        },
+        {
+          "filename": "frontend/src/components/resume/ResumeList.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 71,
+          "changes": 71
+        },
+        {
+          "filename": "frontend/src/components/theme-provider.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 9,
+          "changes": 9
+        },
+        {
+          "filename": "frontend/src/components/theme/ThemeToggle.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 43,
+          "changes": 43
+        },
+        {
+          "filename": "frontend/src/components/ui/accordion.tsx",
+          "status": "added",
+          "additions": 56,
+          "deletions": 0,
+          "changes": 56
+        },
+        {
+          "filename": "frontend/src/components/ui/alert-dialog.tsx",
+          "status": "added",
+          "additions": 139,
+          "deletions": 0,
+          "changes": 139
+        },
+        {
+          "filename": "frontend/src/components/ui/alert.tsx",
+          "status": "added",
+          "additions": 59,
+          "deletions": 0,
+          "changes": 59
+        },
+        {
+          "filename": "frontend/src/components/ui/aspect-ratio.tsx",
+          "status": "added",
+          "additions": 5,
+          "deletions": 0,
+          "changes": 5
+        },
+        {
+          "filename": "frontend/src/components/ui/avatar.tsx",
+          "status": "added",
+          "additions": 48,
+          "deletions": 0,
+          "changes": 48
+        },
+        {
+          "filename": "frontend/src/components/ui/badge.tsx",
+          "status": "added",
+          "additions": 37,
+          "deletions": 0,
+          "changes": 37
+        },
+        {
+          "filename": "frontend/src/components/ui/breadcrumb.tsx",
+          "status": "added",
+          "additions": 115,
+          "deletions": 0,
+          "changes": 115
+        },
+        {
+          "filename": "frontend/src/components/ui/button.tsx",
+          "status": "modified",
+          "additions": 25,
+          "deletions": 25,
+          "changes": 50
+        },
+        {
+          "filename": "frontend/src/components/ui/calendar.tsx",
+          "status": "added",
+          "additions": 64,
+          "deletions": 0,
+          "changes": 64
+        },
+        {
+          "filename": "frontend/src/components/ui/card.tsx",
+          "status": "added",
+          "additions": 79,
+          "deletions": 0,
+          "changes": 79
+        },
+        {
+          "filename": "frontend/src/components/ui/carousel.tsx",
+          "status": "added",
+          "additions": 260,
+          "deletions": 0,
+          "changes": 260
+        },
+        {
+          "filename": "frontend/src/components/ui/chart.tsx",
+          "status": "added",
+          "additions": 363,
+          "deletions": 0,
+          "changes": 363
+        },
+        {
+          "filename": "frontend/src/components/ui/checkbox.tsx",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        },
+        {
+          "filename": "frontend/src/components/ui/collapsible.tsx",
+          "status": "added",
+          "additions": 9,
+          "deletions": 0,
+          "changes": 9
+        },
+        {
+          "filename": "frontend/src/components/ui/command.tsx",
+          "status": "added",
+          "additions": 153,
+          "deletions": 0,
+          "changes": 153
+        },
+        {
+          "filename": "frontend/src/components/ui/context-menu.tsx",
+          "status": "added",
+          "additions": 198,
+          "deletions": 0,
+          "changes": 198
+        },
+        {
+          "filename": "frontend/src/components/ui/dialog.tsx",
+          "status": "added",
+          "additions": 120,
+          "deletions": 0,
+          "changes": 120
+        },
+        {
+          "filename": "frontend/src/components/ui/drawer.tsx",
+          "status": "added",
+          "additions": 116,
+          "deletions": 0,
+          "changes": 116
+        },
+        {
+          "filename": "frontend/src/components/ui/dropdown-menu.tsx",
+          "status": "added",
+          "additions": 198,
+          "deletions": 0,
+          "changes": 198
+        },
+        {
+          "filename": "frontend/src/components/ui/form.tsx",
+          "status": "added",
+          "additions": 176,
+          "deletions": 0,
+          "changes": 176
+        },
+        {
+          "filename": "frontend/src/components/ui/glass-card.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 28,
+          "changes": 28
+        },
+        {
+          "filename": "frontend/src/components/ui/hover-card.tsx",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        },
+        {
+          "filename": "frontend/src/components/ui/input-otp.tsx",
+          "status": "added",
+          "additions": 69,
+          "deletions": 0,
+          "changes": 69
+        },
+        {
+          "filename": "frontend/src/components/ui/input.tsx",
+          "status": "added",
+          "additions": 22,
+          "deletions": 0,
+          "changes": 22
+        },
+        {
+          "filename": "frontend/src/components/ui/label.tsx",
+          "status": "added",
+          "additions": 24,
+          "deletions": 0,
+          "changes": 24
+        },
+        {
+          "filename": "frontend/src/components/ui/menubar.tsx",
+          "status": "added",
+          "additions": 234,
+          "deletions": 0,
+          "changes": 234
+        },
+        {
+          "filename": "frontend/src/components/ui/navigation-menu.tsx",
+          "status": "added",
+          "additions": 128,
+          "deletions": 0,
+          "changes": 128
+        },
+        {
+          "filename": "frontend/src/components/ui/pagination.tsx",
+          "status": "added",
+          "additions": 117,
+          "deletions": 0,
+          "changes": 117
+        },
+        {
+          "filename": "frontend/src/components/ui/popover.tsx",
+          "status": "added",
+          "additions": 29,
+          "deletions": 0,
+          "changes": 29
+        },
+        {
+          "filename": "frontend/src/components/ui/progress.tsx",
+          "status": "added",
+          "additions": 29,
+          "deletions": 0,
+          "changes": 29
+        },
+        {
+          "filename": "frontend/src/components/ui/radio-group.tsx",
+          "status": "added",
+          "additions": 42,
+          "deletions": 0,
+          "changes": 42
+        },
+        {
+          "filename": "frontend/src/components/ui/resizable.tsx",
+          "status": "added",
+          "additions": 43,
+          "deletions": 0,
+          "changes": 43
+        },
+        {
+          "filename": "frontend/src/components/ui/scroll-area.tsx",
+          "status": "added",
+          "additions": 46,
+          "deletions": 0,
+          "changes": 46
+        },
+        {
+          "filename": "frontend/src/components/ui/select.tsx",
+          "status": "added",
+          "additions": 158,
+          "deletions": 0,
+          "changes": 158
+        },
+        {
+          "filename": "frontend/src/components/ui/separator.tsx",
+          "status": "added",
+          "additions": 29,
+          "deletions": 0,
+          "changes": 29
+        },
+        {
+          "filename": "frontend/src/components/ui/sheet.tsx",
+          "status": "added",
+          "additions": 131,
+          "deletions": 0,
+          "changes": 131
+        },
+        {
+          "filename": "frontend/src/components/ui/sidebar.tsx",
+          "status": "added",
+          "additions": 761,
+          "deletions": 0,
+          "changes": 761
+        },
+        {
+          "filename": "frontend/src/components/ui/skeleton.tsx",
+          "status": "modified",
+          "additions": 9,
+          "deletions": 43,
+          "changes": 52
+        },
+        {
+          "filename": "frontend/src/components/ui/slider.tsx",
+          "status": "added",
+          "additions": 26,
+          "deletions": 0,
+          "changes": 26
+        },
+        {
+          "filename": "frontend/src/components/ui/sonner.tsx",
+          "status": "added",
+          "additions": 29,
+          "deletions": 0,
+          "changes": 29
+        },
+        {
+          "filename": "frontend/src/components/ui/switch.tsx",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        },
+        {
+          "filename": "frontend/src/components/ui/table.tsx",
+          "status": "added",
+          "additions": 117,
+          "deletions": 0,
+          "changes": 117
+        },
+        {
+          "filename": "frontend/src/components/ui/tabs.tsx",
+          "status": "added",
+          "additions": 53,
+          "deletions": 0,
+          "changes": 53
+        },
+        {
+          "filename": "frontend/src/components/ui/textarea.tsx",
+          "status": "added",
+          "additions": 25,
+          "deletions": 0,
+          "changes": 25
+        },
+        {
+          "filename": "frontend/src/components/ui/toast.tsx",
+          "status": "added",
+          "additions": 127,
+          "deletions": 0,
+          "changes": 127
+        },
+        {
+          "filename": "frontend/src/components/ui/toaster.tsx",
+          "status": "added",
+          "additions": 33,
+          "deletions": 0,
+          "changes": 33
+        },
+        {
+          "filename": "frontend/src/components/ui/toggle-group.tsx",
+          "status": "added",
+          "additions": 59,
+          "deletions": 0,
+          "changes": 59
+        },
+        {
+          "filename": "frontend/src/components/ui/toggle.tsx",
+          "status": "added",
+          "additions": 43,
+          "deletions": 0,
+          "changes": 43
+        },
+        {
+          "filename": "frontend/src/components/ui/tooltip.tsx",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        },
+        {
+          "filename": "frontend/src/components/ui/use-toast.ts",
+          "status": "added",
+          "additions": 3,
+          "deletions": 0,
+          "changes": 3
+        },
+        {
+          "filename": "frontend/src/components/upload/ResumeUpload.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 159,
+          "changes": 159
+        },
+        {
+          "filename": "frontend/src/components/visualization/ResumeVisualization.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 57,
+          "changes": 57
+        },
+        {
+          "filename": "frontend/src/components/visualization/ThreeCanvas.tsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 62,
+          "changes": 62
+        },
+        {
+          "filename": "frontend/src/env.d.ts",
+          "status": "added",
+          "additions": 11,
+          "deletions": 0,
+          "changes": 11
+        },
+        {
+          "filename": "frontend/src/hooks/use-mobile.tsx",
+          "status": "added",
+          "additions": 20,
+          "deletions": 0,
+          "changes": 20
+        },
+        {
+          "filename": "frontend/src/hooks/use-toast.ts",
+          "status": "added",
+          "additions": 191,
+          "deletions": 0,
+          "changes": 191
+        },
+        {
+          "filename": "frontend/src/index.css",
+          "status": "added",
+          "additions": 121,
+          "deletions": 0,
+          "changes": 121
+        },
+        {
+          "filename": "frontend/src/lib/ai-api.ts",
+          "status": "added",
+          "additions": 238,
+          "deletions": 0,
+          "changes": 238
+        },
+        {
+          "filename": "frontend/src/lib/prisma.ts",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 11,
+          "changes": 11
+        },
+        {
+          "filename": "frontend/src/lib/utils.ts",
+          "status": "modified",
+          "additions": 4,
+          "deletions": 4,
+          "changes": 8
+        },
+        {
+          "filename": "frontend/src/main.tsx",
+          "status": "added",
+          "additions": 5,
+          "deletions": 0,
+          "changes": 5
+        },
+        {
+          "filename": "frontend/src/middleware.ts",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 60,
+          "changes": 60
+        },
+        {
+          "filename": "frontend/src/pages/Candidates.tsx",
+          "status": "added",
+          "additions": 411,
+          "deletions": 0,
+          "changes": 411
+        },
+        {
+          "filename": "frontend/src/pages/Dashboard.tsx",
+          "status": "added",
+          "additions": 229,
+          "deletions": 0,
+          "changes": 229
+        },
+        {
+          "filename": "frontend/src/pages/Index.tsx",
+          "status": "added",
+          "additions": 23,
+          "deletions": 0,
+          "changes": 23
+        },
+        {
+          "filename": "frontend/src/pages/Jobs.tsx",
+          "status": "added",
+          "additions": 283,
+          "deletions": 0,
+          "changes": 283
+        },
+        {
+          "filename": "frontend/src/pages/Leaderboard.tsx",
+          "status": "added",
+          "additions": 268,
+          "deletions": 0,
+          "changes": 268
+        },
+        {
+          "filename": "frontend/src/pages/NotFound.tsx",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        },
+        {
+          "filename": "frontend/src/pages/Settings.tsx",
+          "status": "added",
+          "additions": 96,
+          "deletions": 0,
+          "changes": 96
+        },
+        {
+          "filename": "frontend/src/server/routers/_app.ts",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 10,
+          "changes": 10
+        },
+        {
+          "filename": "frontend/src/server/routers/analysis.ts",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 110,
+          "changes": 110
+        },
+        {
+          "filename": "frontend/src/server/routers/resume.ts",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 85,
+          "changes": 85
+        },
+        {
+          "filename": "frontend/src/server/trpc.ts",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 67,
+          "changes": 67
+        },
+        {
+          "filename": "frontend/src/types/index.ts",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 61,
+          "changes": 61
+        },
+        {
+          "filename": "frontend/src/utils/trpc.ts",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 4,
+          "changes": 4
+        },
+        {
+          "filename": "frontend/src/vite-env.d.ts",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "frontend/tailwind.config.ts",
+          "status": "modified",
+          "additions": 146,
+          "deletions": 76,
+          "changes": 222
+        },
+        {
+          "filename": "frontend/tsconfig.app.json",
+          "status": "added",
+          "additions": 30,
+          "deletions": 0,
+          "changes": 30
+        },
+        {
+          "filename": "frontend/tsconfig.json",
+          "status": "modified",
+          "additions": 14,
+          "deletions": 22,
+          "changes": 36
+        },
+        {
+          "filename": "frontend/tsconfig.node.json",
+          "status": "added",
+          "additions": 22,
+          "deletions": 0,
+          "changes": 22
+        },
+        {
+          "filename": "frontend/vite.config.ts",
+          "status": "added",
+          "additions": 26,
+          "deletions": 0,
+          "changes": 26
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Cyber-Ninjas_AI-ML",
+        "owner": "Shivam-sati",
+        "url": "https://github.com/Shivam-sati/COHERENCE-25_Cyber-Ninjas_AI-ML"
+      },
+      "commit": {
+        "sha": "4a1436517699087506f76f96f0ab354d7804ff3a",
+        "message": "commit",
+        "date": "2025-03-28T14:02:06+00:00",
+        "url": "https://github.com/Shivam-sati/COHERENCE-25_Cyber-Ninjas_AI-ML/commit/4a1436517699087506f76f96f0ab354d7804ff3a",
+        "branch": "main"
+      },
+      "author": {
+        "name": "meetshah1708",
+        "username": "meetshah1708",
+        "email": "meetshah1785@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1,
+        "total_deletions": 1,
+        "total_changes": 2,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "frontend/src/app/layout.tsx",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Cyber-Ninjas_AI-ML",
+        "owner": "Shivam-sati",
+        "url": "https://github.com/Shivam-sati/COHERENCE-25_Cyber-Ninjas_AI-ML"
+      },
+      "commit": {
+        "sha": "bfc074b35f88f13de350ce0acec93b3883c66f88",
+        "message": "Initial commit: Full-stack Resume Analyzer project with frontend and backend",
+        "date": "2025-03-28T11:31:43+00:00",
+        "url": "https://github.com/Shivam-sati/COHERENCE-25_Cyber-Ninjas_AI-ML/commit/bfc074b35f88f13de350ce0acec93b3883c66f88",
+        "branch": "main"
+      },
+      "author": {
+        "name": "meetshah1708",
+        "username": "meetshah1708",
+        "email": "meetshah1785@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 10231,
+        "total_deletions": 0,
+        "total_changes": 10231,
+        "files_changed": 56
+      },
+      "file_changes": [
+        {
+          "filename": ".gitignore",
+          "status": "added",
+          "additions": 34,
+          "deletions": 0,
+          "changes": 34
+        },
+        {
+          "filename": "README.md",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/README.md",
+          "status": "added",
+          "additions": 119,
+          "deletions": 0,
+          "changes": 119
+        },
+        {
+          "filename": "backend/app/__init__.py",
+          "status": "added",
+          "additions": 47,
+          "deletions": 0,
+          "changes": 47
+        },
+        {
+          "filename": "backend/app/routes/resume_routes.py",
+          "status": "added",
+          "additions": 107,
+          "deletions": 0,
+          "changes": 107
+        },
+        {
+          "filename": "backend/app/utils/file_processor.py",
+          "status": "added",
+          "additions": 110,
+          "deletions": 0,
+          "changes": 110
+        },
+        {
+          "filename": "backend/app/utils/mock_ai.py",
+          "status": "added",
+          "additions": 69,
+          "deletions": 0,
+          "changes": 69
+        },
+        {
+          "filename": "backend/requirements.txt",
+          "status": "added",
+          "additions": 9,
+          "deletions": 0,
+          "changes": 9
+        },
+        {
+          "filename": "frontend/.eslintrc.json",
+          "status": "added",
+          "additions": 14,
+          "deletions": 0,
+          "changes": 14
+        },
+        {
+          "filename": "frontend/.gitignore",
+          "status": "added",
+          "additions": 41,
+          "deletions": 0,
+          "changes": 41
+        },
+        {
+          "filename": "frontend/.prettierrc",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "frontend/README.md",
+          "status": "added",
+          "additions": 58,
+          "deletions": 0,
+          "changes": 58
+        },
+        {
+          "filename": "frontend/eslint.config.mjs",
+          "status": "added",
+          "additions": 16,
+          "deletions": 0,
+          "changes": 16
+        },
+        {
+          "filename": "frontend/next.config.mts",
+          "status": "added",
+          "additions": 14,
+          "deletions": 0,
+          "changes": 14
+        },
+        {
+          "filename": "frontend/package-lock.json",
+          "status": "added",
+          "additions": 7621,
+          "deletions": 0,
+          "changes": 7621
+        },
+        {
+          "filename": "frontend/package.json",
+          "status": "added",
+          "additions": 59,
+          "deletions": 0,
+          "changes": 59
+        },
+        {
+          "filename": "frontend/postcss.config.js",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        },
+        {
+          "filename": "frontend/postcss.config.mjs",
+          "status": "added",
+          "additions": 5,
+          "deletions": 0,
+          "changes": 5
+        },
+        {
+          "filename": "frontend/prisma/schema.prisma",
+          "status": "added",
+          "additions": 140,
+          "deletions": 0,
+          "changes": 140
+        },
+        {
+          "filename": "frontend/prisma/seed.ts",
+          "status": "added",
+          "additions": 112,
+          "deletions": 0,
+          "changes": 112
+        },
+        {
+          "filename": "frontend/public/file.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "frontend/public/fonts/helvetiker_regular.typeface.json",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "frontend/public/globe.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "frontend/public/next.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "frontend/public/vercel.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "frontend/public/window.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "frontend/src/app/api/auth/[...nextauth]/route.ts",
+          "status": "added",
+          "additions": 81,
+          "deletions": 0,
+          "changes": 81
+        },
+        {
+          "filename": "frontend/src/app/api/resume/upload/route.ts",
+          "status": "added",
+          "additions": 109,
+          "deletions": 0,
+          "changes": 109
+        },
+        {
+          "filename": "frontend/src/app/api/trpc/[trpc]/route.ts",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "frontend/src/app/favicon.ico",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "frontend/src/app/globals.css",
+          "status": "added",
+          "additions": 96,
+          "deletions": 0,
+          "changes": 96
+        },
+        {
+          "filename": "frontend/src/app/layout.tsx",
+          "status": "added",
+          "additions": 29,
+          "deletions": 0,
+          "changes": 29
+        },
+        {
+          "filename": "frontend/src/app/page.tsx",
+          "status": "added",
+          "additions": 87,
+          "deletions": 0,
+          "changes": 87
+        },
+        {
+          "filename": "frontend/src/app/providers.tsx",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        },
+        {
+          "filename": "frontend/src/components/dashboard/DashboardLayout.tsx",
+          "status": "added",
+          "additions": 118,
+          "deletions": 0,
+          "changes": 118
+        },
+        {
+          "filename": "frontend/src/components/mode-toggle.tsx",
+          "status": "added",
+          "additions": 23,
+          "deletions": 0,
+          "changes": 23
+        },
+        {
+          "filename": "frontend/src/components/resume/ResumeList.tsx",
+          "status": "added",
+          "additions": 71,
+          "deletions": 0,
+          "changes": 71
+        },
+        {
+          "filename": "frontend/src/components/theme-provider.tsx",
+          "status": "added",
+          "additions": 9,
+          "deletions": 0,
+          "changes": 9
+        },
+        {
+          "filename": "frontend/src/components/theme/ThemeToggle.tsx",
+          "status": "added",
+          "additions": 43,
+          "deletions": 0,
+          "changes": 43
+        },
+        {
+          "filename": "frontend/src/components/ui/button.tsx",
+          "status": "added",
+          "additions": 56,
+          "deletions": 0,
+          "changes": 56
+        },
+        {
+          "filename": "frontend/src/components/ui/glass-card.tsx",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        },
+        {
+          "filename": "frontend/src/components/ui/skeleton.tsx",
+          "status": "added",
+          "additions": 49,
+          "deletions": 0,
+          "changes": 49
+        },
+        {
+          "filename": "frontend/src/components/upload/ResumeUpload.tsx",
+          "status": "added",
+          "additions": 159,
+          "deletions": 0,
+          "changes": 159
+        },
+        {
+          "filename": "frontend/src/components/visualization/ResumeVisualization.tsx",
+          "status": "added",
+          "additions": 57,
+          "deletions": 0,
+          "changes": 57
+        },
+        {
+          "filename": "frontend/src/components/visualization/ThreeCanvas.tsx",
+          "status": "added",
+          "additions": 62,
+          "deletions": 0,
+          "changes": 62
+        },
+        {
+          "filename": "frontend/src/lib/prisma.ts",
+          "status": "added",
+          "additions": 11,
+          "deletions": 0,
+          "changes": 11
+        },
+        {
+          "filename": "frontend/src/lib/utils.ts",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        },
+        {
+          "filename": "frontend/src/middleware.ts",
+          "status": "added",
+          "additions": 60,
+          "deletions": 0,
+          "changes": 60
+        },
+        {
+          "filename": "frontend/src/server/routers/_app.ts",
+          "status": "added",
+          "additions": 10,
+          "deletions": 0,
+          "changes": 10
+        },
+        {
+          "filename": "frontend/src/server/routers/analysis.ts",
+          "status": "added",
+          "additions": 110,
+          "deletions": 0,
+          "changes": 110
+        },
+        {
+          "filename": "frontend/src/server/routers/resume.ts",
+          "status": "added",
+          "additions": 85,
+          "deletions": 0,
+          "changes": 85
+        },
+        {
+          "filename": "frontend/src/server/trpc.ts",
+          "status": "added",
+          "additions": 67,
+          "deletions": 0,
+          "changes": 67
+        },
+        {
+          "filename": "frontend/src/types/index.ts",
+          "status": "added",
+          "additions": 61,
+          "deletions": 0,
+          "changes": 61
+        },
+        {
+          "filename": "frontend/src/utils/trpc.ts",
+          "status": "added",
+          "additions": 4,
+          "deletions": 0,
+          "changes": 4
+        },
+        {
+          "filename": "frontend/tailwind.config.ts",
+          "status": "added",
+          "additions": 78,
+          "deletions": 0,
+          "changes": 78
+        },
+        {
+          "filename": "frontend/tsconfig.json",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        }
+      ]
+    }
+  ],
+  "total_commits": 4,
+  "metadata": {
+    "collection_date": "2026-01-31T21:25:30.535412",
+    "total_repositories": 1,
+    "total_commits_collected": 4,
+    "repositories_processed": [
+      "Shivam-sati/COHERENCE-25_Cyber-Ninjas_AI-ML"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  }
+}

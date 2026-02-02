@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "collection_date": "2026-01-31T21:25:46.601349",
+    "total_repositories": 1,
+    "total_commits_collected": 5,
+    "repositories_processed": [
+      "OMKAR2810P/COHERENCE-25_Dot_Sol_BlockChain"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  },
+  "overall_statistics": {
+    "total_commits": 5,
+    "unique_authors": 2,
+    "unique_teams": 1,
+    "total_additions": 5946,
+    "total_deletions": 219,
+    "total_files_changed": 49
+  },
+  "repository_statistics": [
+    {
+      "repository": "OMKAR2810P/COHERENCE-25_Dot_Sol_BlockChain",
+      "total_commits": 5,
+      "total_additions": 5946,
+      "total_deletions": 219,
+      "total_files_changed": 49,
+      "unique_authors": 2,
+      "date_range": {
+        "start": "2025-03-28T09:03:37+00:00",
+        "end": "2025-03-28T12:03:52+00:00"
+      },
+      "teams_involved": [
+        "unassigned"
+      ]
+    }
+  ]
+}

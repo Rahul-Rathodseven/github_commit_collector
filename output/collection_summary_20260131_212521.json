@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "collection_date": "2026-01-31T21:25:21.209831",
+    "total_repositories": 1,
+    "total_commits_collected": 6,
+    "repositories_processed": [
+      "obitojod/Coherence-25_ChandaMama_AIML"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  },
+  "overall_statistics": {
+    "total_commits": 6,
+    "unique_authors": 2,
+    "unique_teams": 1,
+    "total_additions": 42888,
+    "total_deletions": 1201,
+    "total_files_changed": 126
+  },
+  "repository_statistics": [
+    {
+      "repository": "obitojod/Coherence-25_ChandaMama_AIML",
+      "total_commits": 6,
+      "total_additions": 42888,
+      "total_deletions": 1201,
+      "total_files_changed": 126,
+      "unique_authors": 2,
+      "date_range": {
+        "start": "2025-03-28T14:44:38+00:00",
+        "end": "2025-03-28T20:42:25+00:00"
+      },
+      "teams_involved": [
+        "unassigned"
+      ]
+    }
+  ]
+}

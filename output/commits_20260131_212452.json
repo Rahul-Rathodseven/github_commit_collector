@@ -1,0 +1,208 @@
+{
+  "commits": [
+    {
+      "repository": {
+        "name": "COHERENCE-25_OGCoders_Web-App",
+        "owner": "Sohamore",
+        "url": "https://github.com/Sohamore/COHERENCE-25_OGCoders_Web-App"
+      },
+      "commit": {
+        "sha": "106b4812e98eecbee638b62cf24f1fc93749e7c3",
+        "message": "commit 3",
+        "date": "2025-03-31T09:35:36+00:00",
+        "url": "https://github.com/Sohamore/COHERENCE-25_OGCoders_Web-App/commit/106b4812e98eecbee638b62cf24f1fc93749e7c3",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Sohamore",
+        "username": "Sohamore",
+        "email": "167452259+Sohamore@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 830,
+        "total_deletions": 1,
+        "total_changes": 831,
+        "files_changed": 2
+      },
+      "file_changes": [
+        {
+          "filename": "Dashboard.html",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "flow.tldr",
+          "status": "added",
+          "additions": 829,
+          "deletions": 0,
+          "changes": 829
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_OGCoders_Web-App",
+        "owner": "Sohamore",
+        "url": "https://github.com/Sohamore/COHERENCE-25_OGCoders_Web-App"
+      },
+      "commit": {
+        "sha": "69723b1255bf7227c4802600398aa3947072eae3",
+        "message": "new interface with air quality index,weather index\n\nCo-authored-by: Sayali Gaikwad <01-elite@users.noreply.github.com>",
+        "date": "2025-03-29T02:24:32+00:00",
+        "url": "https://github.com/Sohamore/COHERENCE-25_OGCoders_Web-App/commit/69723b1255bf7227c4802600398aa3947072eae3",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Sohamore",
+        "username": "Sohamore",
+        "email": "167452259+Sohamore@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 787,
+        "total_deletions": 310,
+        "total_changes": 1097,
+        "files_changed": 8
+      },
+      "file_changes": [
+        {
+          "filename": "Dashboard.css",
+          "status": "modified",
+          "additions": 16,
+          "deletions": 253,
+          "changes": 269
+        },
+        {
+          "filename": "Dashboard.html",
+          "status": "modified",
+          "additions": 54,
+          "deletions": 41,
+          "changes": 95
+        },
+        {
+          "filename": "Dashboard.js",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 16,
+          "changes": 16
+        },
+        {
+          "filename": "global.css",
+          "status": "added",
+          "additions": 106,
+          "deletions": 0,
+          "changes": 106
+        },
+        {
+          "filename": "global.js",
+          "status": "added",
+          "additions": 28,
+          "deletions": 0,
+          "changes": 28
+        },
+        {
+          "filename": "home.css",
+          "status": "added",
+          "additions": 231,
+          "deletions": 0,
+          "changes": 231
+        },
+        {
+          "filename": "home.html",
+          "status": "added",
+          "additions": 30,
+          "deletions": 0,
+          "changes": 30
+        },
+        {
+          "filename": "home.js",
+          "status": "added",
+          "additions": 322,
+          "deletions": 0,
+          "changes": 322
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_OGCoders_Web-App",
+        "owner": "Sohamore",
+        "url": "https://github.com/Sohamore/COHERENCE-25_OGCoders_Web-App"
+      },
+      "commit": {
+        "sha": "b9fcaa35dc7f7709aa06f4881df4900dbed47d1a",
+        "message": "first commit",
+        "date": "2025-03-28T11:10:44+00:00",
+        "url": "https://github.com/Sohamore/COHERENCE-25_OGCoders_Web-App/commit/b9fcaa35dc7f7709aa06f4881df4900dbed47d1a",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Sohamore",
+        "username": "Sohamore",
+        "email": "167452259+Sohamore@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 371,
+        "total_deletions": 0,
+        "total_changes": 371,
+        "files_changed": 5
+      },
+      "file_changes": [
+        {
+          "filename": ".vscode/settings.json",
+          "status": "added",
+          "additions": 3,
+          "deletions": 0,
+          "changes": 3
+        },
+        {
+          "filename": "Dashboard.css",
+          "status": "added",
+          "additions": 257,
+          "deletions": 0,
+          "changes": 257
+        },
+        {
+          "filename": "Dashboard.html",
+          "status": "added",
+          "additions": 51,
+          "deletions": 0,
+          "changes": 51
+        },
+        {
+          "filename": "Dashboard.js",
+          "status": "added",
+          "additions": 16,
+          "deletions": 0,
+          "changes": 16
+        },
+        {
+          "filename": "loginForm.html",
+          "status": "added",
+          "additions": 44,
+          "deletions": 0,
+          "changes": 44
+        }
+      ]
+    }
+  ],
+  "total_commits": 3,
+  "metadata": {
+    "collection_date": "2026-01-31T21:24:52.839119",
+    "total_repositories": 1,
+    "total_commits_collected": 3,
+    "repositories_processed": [
+      "Sohamore/COHERENCE-25_OGCoders_Web-App"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  }
+}

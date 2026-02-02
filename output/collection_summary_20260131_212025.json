@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "collection_date": "2026-01-31T21:20:25.165358",
+    "total_repositories": 1,
+    "total_commits_collected": 16,
+    "repositories_processed": [
+      "nishant-bhandigare/Coherence25_SacredScripts_WebApp"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  },
+  "overall_statistics": {
+    "total_commits": 16,
+    "unique_authors": 3,
+    "unique_teams": 1,
+    "total_additions": 21047,
+    "total_deletions": 8361,
+    "total_files_changed": 236
+  },
+  "repository_statistics": [
+    {
+      "repository": "nishant-bhandigare/Coherence25_SacredScripts_WebApp",
+      "total_commits": 16,
+      "total_additions": 21047,
+      "total_deletions": 8361,
+      "total_files_changed": 236,
+      "unique_authors": 3,
+      "date_range": {
+        "start": "2025-03-28T10:51:06+00:00",
+        "end": "2025-03-29T02:12:13+00:00"
+      },
+      "teams_involved": [
+        "unassigned"
+      ]
+    }
+  ]
+}

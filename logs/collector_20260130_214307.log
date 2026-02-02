@@ -1,0 +1,22 @@
+2026-01-30 21:43:07 - root - INFO - Logging to file: logs/collector_20260130_214307.log
+2026-01-30 21:43:07 - root - INFO - Logging configured with level: INFO
+2026-01-30 21:43:07 - __main__ - INFO - ================================================================================
+2026-01-30 21:43:07 - __main__ - INFO - GitHub Commit Data Collector Starting
+2026-01-30 21:43:07 - __main__ - INFO - ================================================================================
+2026-01-30 21:43:07 - config_manager - INFO - Loaded environment variables from .env
+2026-01-30 21:43:07 - config_manager - INFO - Loaded configuration from config/repositories.yaml
+2026-01-30 21:43:07 - github_client - INFO - GitHub API client initialized
+2026-01-30 21:43:07 - config_manager - INFO - Loaded configuration from config/teams.yaml
+2026-01-30 21:43:07 - team_mapper - INFO - Team mapper initialized with 10 user mappings
+2026-01-30 21:43:07 - commit_processor - INFO - Commit processor initialized
+2026-01-30 21:43:07 - data_collector - INFO - Data collector initialized
+2026-01-30 21:43:07 - config_manager - INFO - Loaded configuration from config/repositories.yaml
+2026-01-30 21:43:07 - __main__ - INFO - Collecting commits from 1 repository(ies)
+2026-01-30 21:43:07 - __main__ - INFO - Active filters: {'date_from': '2024-12-01', 'date_to': None, 'authors': [], 'teams': []}
+2026-01-30 21:43:07 - data_collector - INFO - Collecting commits from vuejs/vue (branch: main)
+2026-01-30 21:43:07 - github_client - INFO - Fetching repository info: vuejs/vue
+2026-01-30 21:43:08 - github_client - INFO - Fetching commits from vuejs/vue (branch: main)
+2026-01-30 21:43:09 - github_client - INFO - Total commits fetched: 0
+2026-01-30 21:43:09 - data_collector - WARNING - No commits found for vuejs/vue
+2026-01-30 21:43:09 - data_collector - INFO - Collected total of 0 commits from 1 repositories
+2026-01-30 21:43:09 - __main__ - WARNING - No commits collected!

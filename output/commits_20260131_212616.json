@@ -1,0 +1,124 @@
+{
+  "commits": [
+    {
+      "repository": {
+        "name": "COHERENCE-25_BitBlitz_Web-App",
+        "owner": "akarekar27",
+        "url": "https://github.com/akarekar27/COHERENCE-25_BitBlitz_Web-App"
+      },
+      "commit": {
+        "sha": "eff70c50872d82374bcecbe777373c8fd870fa91",
+        "message": "Add files via upload",
+        "date": "2025-03-29T02:38:07+00:00",
+        "url": "https://github.com/akarekar27/COHERENCE-25_BitBlitz_Web-App/commit/eff70c50872d82374bcecbe777373c8fd870fa91",
+        "branch": "main"
+      },
+      "author": {
+        "name": "akarekar27",
+        "username": "akarekar27",
+        "email": "akarekar27may@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 411,
+        "total_deletions": 0,
+        "total_changes": 411,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "alert.html",
+          "status": "added",
+          "additions": 411,
+          "deletions": 0,
+          "changes": 411
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_BitBlitz_Web-App",
+        "owner": "akarekar27",
+        "url": "https://github.com/akarekar27/COHERENCE-25_BitBlitz_Web-App"
+      },
+      "commit": {
+        "sha": "566631084af1bdc94c5f951b5926390518be434c",
+        "message": "Add files via upload",
+        "date": "2025-03-28T12:00:14+00:00",
+        "url": "https://github.com/akarekar27/COHERENCE-25_BitBlitz_Web-App/commit/566631084af1bdc94c5f951b5926390518be434c",
+        "branch": "main"
+      },
+      "author": {
+        "name": "akarekar27",
+        "username": "akarekar27",
+        "email": "akarekar27may@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 645,
+        "total_deletions": 0,
+        "total_changes": 645,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "landing.html",
+          "status": "added",
+          "additions": 645,
+          "deletions": 0,
+          "changes": 645
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_BitBlitz_Web-App",
+        "owner": "akarekar27",
+        "url": "https://github.com/akarekar27/COHERENCE-25_BitBlitz_Web-App"
+      },
+      "commit": {
+        "sha": "a37387aab6de273444f0e5e9941b0dad6100ce4d",
+        "message": "Add files via upload",
+        "date": "2025-03-28T11:33:07+00:00",
+        "url": "https://github.com/akarekar27/COHERENCE-25_BitBlitz_Web-App/commit/a37387aab6de273444f0e5e9941b0dad6100ce4d",
+        "branch": "main"
+      },
+      "author": {
+        "name": "akarekar27",
+        "username": "akarekar27",
+        "email": "akarekar27may@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 297,
+        "total_deletions": 0,
+        "total_changes": 297,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "loginsignup.html",
+          "status": "added",
+          "additions": 297,
+          "deletions": 0,
+          "changes": 297
+        }
+      ]
+    }
+  ],
+  "total_commits": 3,
+  "metadata": {
+    "collection_date": "2026-01-31T21:26:16.170280",
+    "total_repositories": 1,
+    "total_commits_collected": 3,
+    "repositories_processed": [
+      "akarekar27/COHERENCE-25_BitBlitz_Web-App"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  }
+}

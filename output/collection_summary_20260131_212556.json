@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "collection_date": "2026-01-31T21:25:56.018108",
+    "total_repositories": 1,
+    "total_commits_collected": 5,
+    "repositories_processed": [
+      "shrushtikhemnar2005/COHERENCE-25_HackHers_Web-App"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  },
+  "overall_statistics": {
+    "total_commits": 5,
+    "unique_authors": 1,
+    "unique_teams": 1,
+    "total_additions": 2667,
+    "total_deletions": 0,
+    "total_files_changed": 11
+  },
+  "repository_statistics": [
+    {
+      "repository": "shrushtikhemnar2005/COHERENCE-25_HackHers_Web-App",
+      "total_commits": 5,
+      "total_additions": 2667,
+      "total_deletions": 0,
+      "total_files_changed": 11,
+      "unique_authors": 1,
+      "date_range": {
+        "start": "2025-03-28T10:19:01+00:00",
+        "end": "2025-04-24T02:57:48+00:00"
+      },
+      "teams_involved": [
+        "unassigned"
+      ]
+    }
+  ]
+}

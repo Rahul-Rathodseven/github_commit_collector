@@ -1,0 +1,2615 @@
+{
+  "commits": [
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "b9aa05a77c365c5876d0d84901cc876430f0d1fc",
+        "message": "Update README.md",
+        "date": "2025-05-05T06:17:00+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/b9aa05a77c365c5876d0d84901cc876430f0d1fc",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Malhar2400",
+        "username": "Malhar2400",
+        "email": "120003057+Malhar2400@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 165,
+        "total_changes": 165,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 165,
+          "changes": 165
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "23761a45e140453be4a60e7c35f7206c61f640bf",
+        "message": "Add files via upload",
+        "date": "2025-03-29T09:14:08+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/23761a45e140453be4a60e7c35f7206c61f640bf",
+        "branch": "main"
+      },
+      "author": {
+        "name": "YxASH",
+        "username": "YxASH",
+        "email": "163804164+YxASH@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1702,
+        "total_deletions": 235,
+        "total_changes": 1937,
+        "files_changed": 12
+      },
+      "file_changes": [
+        {
+          "filename": "app.py",
+          "status": "modified",
+          "additions": 25,
+          "deletions": 4,
+          "changes": 29
+        },
+        {
+          "filename": "frontend/package-lock.json",
+          "status": "modified",
+          "additions": 62,
+          "deletions": 0,
+          "changes": 62
+        },
+        {
+          "filename": "frontend/package.json",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "frontend/src/App.jsx",
+          "status": "modified",
+          "additions": 7,
+          "deletions": 3,
+          "changes": 10
+        },
+        {
+          "filename": "frontend/src/components/Sidebar.jsx",
+          "status": "modified",
+          "additions": 10,
+          "deletions": 5,
+          "changes": 15
+        },
+        {
+          "filename": "frontend/src/pages/CandidateProfile.jsx",
+          "status": "modified",
+          "additions": 210,
+          "deletions": 43,
+          "changes": 253
+        },
+        {
+          "filename": "frontend/src/pages/Feature.jsx",
+          "status": "modified",
+          "additions": 354,
+          "deletions": 4,
+          "changes": 358
+        },
+        {
+          "filename": "frontend/src/pages/FuturePrediction.jsx",
+          "status": "added",
+          "additions": 166,
+          "deletions": 0,
+          "changes": 166
+        },
+        {
+          "filename": "frontend/src/pages/JobDetails.jsx",
+          "status": "modified",
+          "additions": 259,
+          "deletions": 114,
+          "changes": 373
+        },
+        {
+          "filename": "frontend/src/pages/JobListings.jsx",
+          "status": "modified",
+          "additions": 360,
+          "deletions": 32,
+          "changes": 392
+        },
+        {
+          "filename": "frontend/src/pages/LandingPage.jsx",
+          "status": "modified",
+          "additions": 152,
+          "deletions": 6,
+          "changes": 158
+        },
+        {
+          "filename": "frontend/src/pages/LoginPage.jsx",
+          "status": "modified",
+          "additions": 96,
+          "deletions": 24,
+          "changes": 120
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "d6128d3215d49432ceb4549b4355bc9c10d41821",
+        "message": "Update README.md",
+        "date": "2025-03-29T06:57:45+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/d6128d3215d49432ceb4549b4355bc9c10d41821",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 164,
+        "total_deletions": 359,
+        "total_changes": 523,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "modified",
+          "additions": 164,
+          "deletions": 359,
+          "changes": 523
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "abcf4bef4ff962f71fb6ecea4bb8e6b878df4740",
+        "message": "Update README.md",
+        "date": "2025-03-29T06:33:32+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/abcf4bef4ff962f71fb6ecea4bb8e6b878df4740",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 0,
+        "total_changes": 0,
+        "files_changed": 0
+      },
+      "file_changes": []
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "b36e507c285be032753fd5677bd6e6d8bd4ee540",
+        "message": "Update README.md",
+        "date": "2025-03-29T06:27:47+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/b36e507c285be032753fd5677bd6e6d8bd4ee540",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 7,
+        "total_deletions": 3,
+        "total_changes": 10,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "modified",
+          "additions": 7,
+          "deletions": 3,
+          "changes": 10
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "f88d1a044a59b2ea04086b752909cc250887360b",
+        "message": "Update README.md",
+        "date": "2025-03-29T06:02:52+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/f88d1a044a59b2ea04086b752909cc250887360b",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 356,
+        "total_deletions": 0,
+        "total_changes": 356,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "modified",
+          "additions": 356,
+          "deletions": 0,
+          "changes": 356
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "d253a0b34edc06a8c85af1cd1dd441419cdf9be2",
+        "message": "Update README.md",
+        "date": "2025-03-29T06:00:17+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/d253a0b34edc06a8c85af1cd1dd441419cdf9be2",
+        "branch": "main"
+      },
+      "author": {
+        "name": "YxASH",
+        "username": "YxASH",
+        "email": "163804164+YxASH@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 228,
+        "total_changes": 228,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 228,
+          "changes": 228
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "000f8148f31dab6f5542d34035930c18518111b2",
+        "message": "Update README.md",
+        "date": "2025-03-29T05:59:50+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/000f8148f31dab6f5542d34035930c18518111b2",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 226,
+        "total_deletions": 5,
+        "total_changes": 231,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "modified",
+          "additions": 226,
+          "deletions": 5,
+          "changes": 231
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "2d3ecd5b5d29ae46c4dc6d4fdbf806824f12ac7d",
+        "message": "Add files via upload",
+        "date": "2025-03-29T04:17:07+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/2d3ecd5b5d29ae46c4dc6d4fdbf806824f12ac7d",
+        "branch": "main"
+      },
+      "author": {
+        "name": "YxASH",
+        "username": "YxASH",
+        "email": "163804164+YxASH@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 198,
+        "total_deletions": 7,
+        "total_changes": 205,
+        "files_changed": 5
+      },
+      "file_changes": [
+        {
+          "filename": "app.py",
+          "status": "modified",
+          "additions": 25,
+          "deletions": 0,
+          "changes": 25
+        },
+        {
+          "filename": "frontend/src/App.jsx",
+          "status": "modified",
+          "additions": 3,
+          "deletions": 1,
+          "changes": 4
+        },
+        {
+          "filename": "frontend/src/components/Sidebar.jsx",
+          "status": "modified",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        },
+        {
+          "filename": "frontend/src/pages/CandidateProfile.jsx",
+          "status": "added",
+          "additions": 162,
+          "deletions": 0,
+          "changes": 162
+        },
+        {
+          "filename": "frontend/src/pages/JobDetails.jsx",
+          "status": "modified",
+          "additions": 7,
+          "deletions": 5,
+          "changes": 12
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "79871e3ca8f7fe56cd19bc88d3f07618ddcb9945",
+        "message": "Update Sidebar.jsx",
+        "date": "2025-03-29T04:04:03+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/79871e3ca8f7fe56cd19bc88d3f07618ddcb9945",
+        "branch": "main"
+      },
+      "author": {
+        "name": "YxASH",
+        "username": "YxASH",
+        "email": "163804164+YxASH@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 16,
+        "total_deletions": 5,
+        "total_changes": 21,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "frontend/src/components/Sidebar.jsx",
+          "status": "modified",
+          "additions": 16,
+          "deletions": 5,
+          "changes": 21
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "8f4a6868b5430e4578ca3ec2182ac102d9182001",
+        "message": "Update App.jsx",
+        "date": "2025-03-29T04:03:33+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/8f4a6868b5430e4578ca3ec2182ac102d9182001",
+        "branch": "main"
+      },
+      "author": {
+        "name": "YxASH",
+        "username": "YxASH",
+        "email": "163804164+YxASH@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 27,
+        "total_deletions": 19,
+        "total_changes": 46,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "frontend/src/App.jsx",
+          "status": "modified",
+          "additions": 27,
+          "deletions": 19,
+          "changes": 46
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "179d4a989d21b6e808783ae40d1e03893c1720be",
+        "message": "Add files via upload",
+        "date": "2025-03-29T03:49:23+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/179d4a989d21b6e808783ae40d1e03893c1720be",
+        "branch": "main"
+      },
+      "author": {
+        "name": "YxASH",
+        "username": "YxASH",
+        "email": "163804164+YxASH@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1011,
+        "total_deletions": 182,
+        "total_changes": 1193,
+        "files_changed": 10
+      },
+      "file_changes": [
+        {
+          "filename": "frontend/package-lock.json",
+          "status": "modified",
+          "additions": 200,
+          "deletions": 137,
+          "changes": 337
+        },
+        {
+          "filename": "frontend/package.json",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 0,
+          "changes": 2
+        },
+        {
+          "filename": "frontend/src/App.jsx",
+          "status": "modified",
+          "additions": 2,
+          "deletions": 0,
+          "changes": 2
+        },
+        {
+          "filename": "frontend/src/components/AvatarQA.jsx",
+          "status": "added",
+          "additions": 609,
+          "deletions": 0,
+          "changes": 609
+        },
+        {
+          "filename": "frontend/src/components/Layout.jsx",
+          "status": "added",
+          "additions": 14,
+          "deletions": 0,
+          "changes": 14
+        },
+        {
+          "filename": "frontend/src/components/Sidebar.jsx",
+          "status": "modified",
+          "additions": 17,
+          "deletions": 41,
+          "changes": 58
+        },
+        {
+          "filename": "frontend/src/components/ui/checkbox.jsx",
+          "status": "added",
+          "additions": 22,
+          "deletions": 0,
+          "changes": 22
+        },
+        {
+          "filename": "frontend/src/components/ui/scroll-area.jsx",
+          "status": "added",
+          "additions": 38,
+          "deletions": 0,
+          "changes": 38
+        },
+        {
+          "filename": "frontend/src/pages/AvatarQA.jsx",
+          "status": "added",
+          "additions": 18,
+          "deletions": 0,
+          "changes": 18
+        },
+        {
+          "filename": "frontend/src/pages/JobDetails.jsx",
+          "status": "modified",
+          "additions": 89,
+          "deletions": 4,
+          "changes": 93
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "2b76a696b6923ca5accd8f7edffa49a450597ec6",
+        "message": "Add files via upload",
+        "date": "2025-03-28T19:35:17+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/2b76a696b6923ca5accd8f7edffa49a450597ec6",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 9854,
+        "total_deletions": 0,
+        "total_changes": 9854,
+        "files_changed": 43
+      },
+      "file_changes": [
+        {
+          "filename": "app.py",
+          "status": "added",
+          "additions": 315,
+          "deletions": 0,
+          "changes": 315
+        },
+        {
+          "filename": "frontend/README.md",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "frontend/components.json",
+          "status": "added",
+          "additions": 21,
+          "deletions": 0,
+          "changes": 21
+        },
+        {
+          "filename": "frontend/eslint.config.js",
+          "status": "added",
+          "additions": 38,
+          "deletions": 0,
+          "changes": 38
+        },
+        {
+          "filename": "frontend/index.html",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "frontend/jsconfig.app.json",
+          "status": "added",
+          "additions": 12,
+          "deletions": 0,
+          "changes": 12
+        },
+        {
+          "filename": "frontend/jsconfig.json",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "frontend/package-lock.json",
+          "status": "added",
+          "additions": 7053,
+          "deletions": 0,
+          "changes": 7053
+        },
+        {
+          "filename": "frontend/package.json",
+          "status": "added",
+          "additions": 46,
+          "deletions": 0,
+          "changes": 46
+        },
+        {
+          "filename": "frontend/postcss.config.js",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        },
+        {
+          "filename": "frontend/public/vite.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "frontend/src/App.jsx",
+          "status": "added",
+          "additions": 53,
+          "deletions": 0,
+          "changes": 53
+        },
+        {
+          "filename": "frontend/src/Elements/AddEmployee.jsx",
+          "status": "added",
+          "additions": 178,
+          "deletions": 0,
+          "changes": 178
+        },
+        {
+          "filename": "frontend/src/Elements/EmployeeDetails.jsx",
+          "status": "added",
+          "additions": 62,
+          "deletions": 0,
+          "changes": 62
+        },
+        {
+          "filename": "frontend/src/Elements/EmployeeManagementApp.jsx",
+          "status": "added",
+          "additions": 86,
+          "deletions": 0,
+          "changes": 86
+        },
+        {
+          "filename": "frontend/src/Elements/EmployeeTable.jsx",
+          "status": "added",
+          "additions": 155,
+          "deletions": 0,
+          "changes": 155
+        },
+        {
+          "filename": "frontend/src/api.jsx",
+          "status": "added",
+          "additions": 109,
+          "deletions": 0,
+          "changes": 109
+        },
+        {
+          "filename": "frontend/src/assets/react.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "frontend/src/components/Sidebar.jsx",
+          "status": "added",
+          "additions": 90,
+          "deletions": 0,
+          "changes": 90
+        },
+        {
+          "filename": "frontend/src/components/ui/badge.jsx",
+          "status": "added",
+          "additions": 34,
+          "deletions": 0,
+          "changes": 34
+        },
+        {
+          "filename": "frontend/src/components/ui/button.jsx",
+          "status": "added",
+          "additions": 48,
+          "deletions": 0,
+          "changes": 48
+        },
+        {
+          "filename": "frontend/src/components/ui/card.jsx",
+          "status": "added",
+          "additions": 50,
+          "deletions": 0,
+          "changes": 50
+        },
+        {
+          "filename": "frontend/src/components/ui/dialog.jsx",
+          "status": "added",
+          "additions": 94,
+          "deletions": 0,
+          "changes": 94
+        },
+        {
+          "filename": "frontend/src/components/ui/input.jsx",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "frontend/src/components/ui/label.jsx",
+          "status": "added",
+          "additions": 16,
+          "deletions": 0,
+          "changes": 16
+        },
+        {
+          "filename": "frontend/src/components/ui/select.jsx",
+          "status": "added",
+          "additions": 119,
+          "deletions": 0,
+          "changes": 119
+        },
+        {
+          "filename": "frontend/src/components/ui/table.jsx",
+          "status": "added",
+          "additions": 86,
+          "deletions": 0,
+          "changes": 86
+        },
+        {
+          "filename": "frontend/src/components/ui/textarea.jsx",
+          "status": "added",
+          "additions": 18,
+          "deletions": 0,
+          "changes": 18
+        },
+        {
+          "filename": "frontend/src/index.css",
+          "status": "added",
+          "additions": 67,
+          "deletions": 0,
+          "changes": 67
+        },
+        {
+          "filename": "frontend/src/lib/utils.js",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        },
+        {
+          "filename": "frontend/src/main.jsx",
+          "status": "added",
+          "additions": 10,
+          "deletions": 0,
+          "changes": 10
+        },
+        {
+          "filename": "frontend/src/pages/Dashboard.jsx",
+          "status": "added",
+          "additions": 10,
+          "deletions": 0,
+          "changes": 10
+        },
+        {
+          "filename": "frontend/src/pages/Feature.jsx",
+          "status": "added",
+          "additions": 9,
+          "deletions": 0,
+          "changes": 9
+        },
+        {
+          "filename": "frontend/src/pages/JobCreation.jsx",
+          "status": "added",
+          "additions": 236,
+          "deletions": 0,
+          "changes": 236
+        },
+        {
+          "filename": "frontend/src/pages/JobDetails.jsx",
+          "status": "added",
+          "additions": 314,
+          "deletions": 0,
+          "changes": 314
+        },
+        {
+          "filename": "frontend/src/pages/JobListings.jsx",
+          "status": "added",
+          "additions": 105,
+          "deletions": 0,
+          "changes": 105
+        },
+        {
+          "filename": "frontend/src/pages/LandingPage.jsx",
+          "status": "added",
+          "additions": 17,
+          "deletions": 0,
+          "changes": 17
+        },
+        {
+          "filename": "frontend/src/pages/LoginPage.jsx",
+          "status": "added",
+          "additions": 32,
+          "deletions": 0,
+          "changes": 32
+        },
+        {
+          "filename": "frontend/src/pages/SignupPage.jsx",
+          "status": "added",
+          "additions": 9,
+          "deletions": 0,
+          "changes": 9
+        },
+        {
+          "filename": "frontend/src/pages/Statistics.jsx",
+          "status": "added",
+          "additions": 225,
+          "deletions": 0,
+          "changes": 225
+        },
+        {
+          "filename": "frontend/src/utils.jsx",
+          "status": "added",
+          "additions": 5,
+          "deletions": 0,
+          "changes": 5
+        },
+        {
+          "filename": "frontend/tailwind.config.js",
+          "status": "added",
+          "additions": 58,
+          "deletions": 0,
+          "changes": 58
+        },
+        {
+          "filename": "frontend/vite.config.js",
+          "status": "added",
+          "additions": 12,
+          "deletions": 0,
+          "changes": 12
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "26b326da062af5330fa4b010d1754368d8d54dcf",
+        "message": "Delete package.json",
+        "date": "2025-03-28T19:32:27+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/26b326da062af5330fa4b010d1754368d8d54dcf",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 54,
+        "total_changes": 54,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "package.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 54,
+          "changes": 54
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "67f3f225638149e4f5209e6da5f7ae31b49f2d80",
+        "message": "Delete tailwind.config.js",
+        "date": "2025-03-28T19:32:18+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/67f3f225638149e4f5209e6da5f7ae31b49f2d80",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 58,
+        "total_changes": 58,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "tailwind.config.js",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 58,
+          "changes": 58
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "1acb6ffd5f4c4fe99ba751cbd9f56562665a755d",
+        "message": "Delete postcss.config.js",
+        "date": "2025-03-28T19:32:09+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/1acb6ffd5f4c4fe99ba751cbd9f56562665a755d",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 6,
+        "total_changes": 6,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "postcss.config.js",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 6,
+          "changes": 6
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "cdf58b80a0c43b58a91908ddbcb5c6c05c0873e6",
+        "message": "Delete package-lock.json",
+        "date": "2025-03-28T19:31:59+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/cdf58b80a0c43b58a91908ddbcb5c6c05c0873e6",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 7255,
+        "total_changes": 7255,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "package-lock.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 7255,
+          "changes": 7255
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "1608b4c7cc42eebd32f1507b35348bec5c04d829",
+        "message": "Delete jsconfig.json",
+        "date": "2025-03-28T19:31:36+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/1608b4c7cc42eebd32f1507b35348bec5c04d829",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 8,
+        "total_changes": 8,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "jsconfig.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 8,
+          "changes": 8
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "817cd0e2a235c9fd918e4f3c98dcb40837d5f435",
+        "message": "Delete jsconfig.app.json",
+        "date": "2025-03-28T19:31:12+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/817cd0e2a235c9fd918e4f3c98dcb40837d5f435",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 12,
+        "total_changes": 12,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "jsconfig.app.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 12,
+          "changes": 12
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "4f722f16c8146d072f6e5cafad7dc8cfbbc3f2e0",
+        "message": "Delete index.html",
+        "date": "2025-03-28T19:31:01+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/4f722f16c8146d072f6e5cafad7dc8cfbbc3f2e0",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 13,
+        "total_changes": 13,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "index.html",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 13,
+          "changes": 13
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "9cb968bb35dd0e44501155bb021adeedab25d35e",
+        "message": "Delete eslint.config.js",
+        "date": "2025-03-28T19:30:43+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/9cb968bb35dd0e44501155bb021adeedab25d35e",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 38,
+        "total_changes": 38,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "eslint.config.js",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 38,
+          "changes": 38
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "0a0e87c326019803d4a176eaad9cc8bbc6a892e2",
+        "message": "Delete components.json",
+        "date": "2025-03-28T19:30:34+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/0a0e87c326019803d4a176eaad9cc8bbc6a892e2",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 21,
+        "total_changes": 21,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "components.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 21,
+          "changes": 21
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "fcbfa5be165f467d580ff27cfdd78b56499ed0b2",
+        "message": "Delete vite.config.js",
+        "date": "2025-03-28T19:30:20+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/fcbfa5be165f467d580ff27cfdd78b56499ed0b2",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 12,
+        "total_changes": 12,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "vite.config.js",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 12,
+          "changes": 12
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "aa4ba14481dc20170b4c558bfbac6d433fbb3eaf",
+        "message": "Delete LICENSE",
+        "date": "2025-03-28T19:30:05+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/aa4ba14481dc20170b4c558bfbac6d433fbb3eaf",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 21,
+        "total_changes": 21,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "LICENSE",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 21,
+          "changes": 21
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "c4bbed105c5584137e97d6ce26956d7bd3140b04",
+        "message": "Delete src directory",
+        "date": "2025-03-28T19:29:48+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/c4bbed105c5584137e97d6ce26956d7bd3140b04",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 619,
+        "total_changes": 619,
+        "files_changed": 19
+      },
+      "file_changes": [
+        {
+          "filename": "src/App.css",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "src/App.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 20,
+          "changes": 20
+        },
+        {
+          "filename": "src/RefrshHandler.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 29,
+          "changes": 29
+        },
+        {
+          "filename": "src/assets/react.svg",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        },
+        {
+          "filename": "src/components/Sidebar.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 94,
+          "changes": 94
+        },
+        {
+          "filename": "src/components/ui/alert.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 47,
+          "changes": 47
+        },
+        {
+          "filename": "src/components/ui/button.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 48,
+          "changes": 48
+        },
+        {
+          "filename": "src/components/ui/card.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 50,
+          "changes": 50
+        },
+        {
+          "filename": "src/components/ui/input.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 19,
+          "changes": 19
+        },
+        {
+          "filename": "src/components/ui/label.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 16,
+          "changes": 16
+        },
+        {
+          "filename": "src/components/ui/scroll-area.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 38,
+          "changes": 38
+        },
+        {
+          "filename": "src/components/ui/tabs.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 41,
+          "changes": 41
+        },
+        {
+          "filename": "src/index.css",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 76,
+          "changes": 76
+        },
+        {
+          "filename": "src/lib/utils.js",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 6,
+          "changes": 6
+        },
+        {
+          "filename": "src/main.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 13,
+          "changes": 13
+        },
+        {
+          "filename": "src/pages/LandingPage.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 86,
+          "changes": 86
+        },
+        {
+          "filename": "src/reportWebHandler.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 14,
+          "changes": 14
+        },
+        {
+          "filename": "src/setupTests.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 5,
+          "changes": 5
+        },
+        {
+          "filename": "src/utils.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 16,
+          "changes": 16
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "2702393cfd44413db963504edd24aec5ce51b068",
+        "message": "Delete public directory",
+        "date": "2025-03-28T19:29:38+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/2702393cfd44413db963504edd24aec5ce51b068",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 1,
+        "total_changes": 1,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "public/vite.svg",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "82e062fe7ae65a91a86fc229eb76f194b24bbe47",
+        "message": "Add files via upload",
+        "date": "2025-03-28T11:48:30+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/82e062fe7ae65a91a86fc229eb76f194b24bbe47",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 8101,
+        "total_deletions": 3,
+        "total_changes": 8104,
+        "files_changed": 31
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "modified",
+          "additions": 8,
+          "deletions": 1,
+          "changes": 9
+        },
+        {
+          "filename": "components.json",
+          "status": "added",
+          "additions": 21,
+          "deletions": 0,
+          "changes": 21
+        },
+        {
+          "filename": "eslint.config.js",
+          "status": "added",
+          "additions": 38,
+          "deletions": 0,
+          "changes": 38
+        },
+        {
+          "filename": "index.html",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "jsconfig.app.json",
+          "status": "added",
+          "additions": 12,
+          "deletions": 0,
+          "changes": 12
+        },
+        {
+          "filename": "jsconfig.json",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "package-lock.json",
+          "status": "modified",
+          "additions": 7251,
+          "deletions": 2,
+          "changes": 7253
+        },
+        {
+          "filename": "package.json",
+          "status": "added",
+          "additions": 54,
+          "deletions": 0,
+          "changes": 54
+        },
+        {
+          "filename": "postcss.config.js",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        },
+        {
+          "filename": "public/vite.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "src/App.css",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "src/App.jsx",
+          "status": "added",
+          "additions": 20,
+          "deletions": 0,
+          "changes": 20
+        },
+        {
+          "filename": "src/RefrshHandler.jsx",
+          "status": "added",
+          "additions": 29,
+          "deletions": 0,
+          "changes": 29
+        },
+        {
+          "filename": "src/assets/react.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "src/components/Sidebar.jsx",
+          "status": "added",
+          "additions": 94,
+          "deletions": 0,
+          "changes": 94
+        },
+        {
+          "filename": "src/components/ui/alert.jsx",
+          "status": "added",
+          "additions": 47,
+          "deletions": 0,
+          "changes": 47
+        },
+        {
+          "filename": "src/components/ui/button.jsx",
+          "status": "added",
+          "additions": 48,
+          "deletions": 0,
+          "changes": 48
+        },
+        {
+          "filename": "src/components/ui/card.jsx",
+          "status": "added",
+          "additions": 50,
+          "deletions": 0,
+          "changes": 50
+        },
+        {
+          "filename": "src/components/ui/input.jsx",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "src/components/ui/label.jsx",
+          "status": "added",
+          "additions": 16,
+          "deletions": 0,
+          "changes": 16
+        },
+        {
+          "filename": "src/components/ui/scroll-area.jsx",
+          "status": "added",
+          "additions": 38,
+          "deletions": 0,
+          "changes": 38
+        },
+        {
+          "filename": "src/components/ui/tabs.jsx",
+          "status": "added",
+          "additions": 41,
+          "deletions": 0,
+          "changes": 41
+        },
+        {
+          "filename": "src/index.css",
+          "status": "added",
+          "additions": 76,
+          "deletions": 0,
+          "changes": 76
+        },
+        {
+          "filename": "src/lib/utils.js",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        },
+        {
+          "filename": "src/main.jsx",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "src/pages/LandingPage.jsx",
+          "status": "added",
+          "additions": 86,
+          "deletions": 0,
+          "changes": 86
+        },
+        {
+          "filename": "src/reportWebHandler.jsx",
+          "status": "added",
+          "additions": 14,
+          "deletions": 0,
+          "changes": 14
+        },
+        {
+          "filename": "src/setupTests.jsx",
+          "status": "added",
+          "additions": 5,
+          "deletions": 0,
+          "changes": 5
+        },
+        {
+          "filename": "src/utils.jsx",
+          "status": "added",
+          "additions": 16,
+          "deletions": 0,
+          "changes": 16
+        },
+        {
+          "filename": "tailwind.config.js",
+          "status": "added",
+          "additions": 58,
+          "deletions": 0,
+          "changes": 58
+        },
+        {
+          "filename": "vite.config.js",
+          "status": "added",
+          "additions": 12,
+          "deletions": 0,
+          "changes": 12
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "0e0e216224ee51750973cab4653b01f9c669fea0",
+        "message": "Delete frontend directory",
+        "date": "2025-03-28T11:46:56+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/0e0e216224ee51750973cab4653b01f9c669fea0",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 8836,
+        "total_changes": 8836,
+        "files_changed": 40
+      },
+      "file_changes": [
+        {
+          "filename": "frontend/README.md",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 8,
+          "changes": 8
+        },
+        {
+          "filename": "frontend/components.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 21,
+          "changes": 21
+        },
+        {
+          "filename": "frontend/eslint.config.js",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 38,
+          "changes": 38
+        },
+        {
+          "filename": "frontend/index.html",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 13,
+          "changes": 13
+        },
+        {
+          "filename": "frontend/jsconfig.app.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 12,
+          "changes": 12
+        },
+        {
+          "filename": "frontend/jsconfig.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 8,
+          "changes": 8
+        },
+        {
+          "filename": "frontend/package-lock.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 7255,
+          "changes": 7255
+        },
+        {
+          "filename": "frontend/package.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 54,
+          "changes": 54
+        },
+        {
+          "filename": "frontend/postcss.config.js",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 6,
+          "changes": 6
+        },
+        {
+          "filename": "frontend/public/vite.svg",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        },
+        {
+          "filename": "frontend/src/App.css",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "frontend/src/App.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 52,
+          "changes": 52
+        },
+        {
+          "filename": "frontend/src/RefrshHandler.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 29,
+          "changes": 29
+        },
+        {
+          "filename": "frontend/src/assets/react.svg",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 1,
+          "changes": 1
+        },
+        {
+          "filename": "frontend/src/components/Sidebar.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 94,
+          "changes": 94
+        },
+        {
+          "filename": "frontend/src/components/ui/alert.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 47,
+          "changes": 47
+        },
+        {
+          "filename": "frontend/src/components/ui/button.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 48,
+          "changes": 48
+        },
+        {
+          "filename": "frontend/src/components/ui/card.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 50,
+          "changes": 50
+        },
+        {
+          "filename": "frontend/src/components/ui/input.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 19,
+          "changes": 19
+        },
+        {
+          "filename": "frontend/src/components/ui/label.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 16,
+          "changes": 16
+        },
+        {
+          "filename": "frontend/src/components/ui/scroll-area.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 38,
+          "changes": 38
+        },
+        {
+          "filename": "frontend/src/components/ui/tabs.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 41,
+          "changes": 41
+        },
+        {
+          "filename": "frontend/src/index.css",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 76,
+          "changes": 76
+        },
+        {
+          "filename": "frontend/src/lib/utils.js",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 6,
+          "changes": 6
+        },
+        {
+          "filename": "frontend/src/main.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 13,
+          "changes": 13
+        },
+        {
+          "filename": "frontend/src/pages/Community.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 50,
+          "changes": 50
+        },
+        {
+          "filename": "frontend/src/pages/Courses.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 35,
+          "changes": 35
+        },
+        {
+          "filename": "frontend/src/pages/Hackathon.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 50,
+          "changes": 50
+        },
+        {
+          "filename": "frontend/src/pages/Home.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 234,
+          "changes": 234
+        },
+        {
+          "filename": "frontend/src/pages/Interview.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 51,
+          "changes": 51
+        },
+        {
+          "filename": "frontend/src/pages/LandingPage.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 86,
+          "changes": 86
+        },
+        {
+          "filename": "frontend/src/pages/Login.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 93,
+          "changes": 93
+        },
+        {
+          "filename": "frontend/src/pages/Mentorship.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 35,
+          "changes": 35
+        },
+        {
+          "filename": "frontend/src/pages/Projects.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 50,
+          "changes": 50
+        },
+        {
+          "filename": "frontend/src/pages/Signup.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 101,
+          "changes": 101
+        },
+        {
+          "filename": "frontend/src/reportWebHandler.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 14,
+          "changes": 14
+        },
+        {
+          "filename": "frontend/src/setupTests.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 5,
+          "changes": 5
+        },
+        {
+          "filename": "frontend/src/utils.jsx",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 16,
+          "changes": 16
+        },
+        {
+          "filename": "frontend/tailwind.config.js",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 58,
+          "changes": 58
+        },
+        {
+          "filename": "frontend/vite.config.js",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 12,
+          "changes": 12
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "75685f4a959a32a172b7cd158307b198e12cf812",
+        "message": "Delete backend directory",
+        "date": "2025-03-28T11:46:44+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/75685f4a959a32a172b7cd158307b198e12cf812",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 2537,
+        "total_changes": 2537,
+        "files_changed": 12
+      },
+      "file_changes": [
+        {
+          "filename": "backend/Controllers/AuthController.js",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 72,
+          "changes": 72
+        },
+        {
+          "filename": "backend/Controllers/ExpenseController.js",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 75,
+          "changes": 75
+        },
+        {
+          "filename": "backend/Middlewares/Auth.js",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 19,
+          "changes": 19
+        },
+        {
+          "filename": "backend/Middlewares/AuthValidation.js",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 31,
+          "changes": 31
+        },
+        {
+          "filename": "backend/Models/User.js",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 37,
+          "changes": 37
+        },
+        {
+          "filename": "backend/Models/db.js",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 10,
+          "changes": 10
+        },
+        {
+          "filename": "backend/Routes/AuthRouter.js",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 9,
+          "changes": 9
+        },
+        {
+          "filename": "backend/Routes/ExpenseRouter.js",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 10,
+          "changes": 10
+        },
+        {
+          "filename": "backend/Routes/ProductRouter.js",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 19,
+          "changes": 19
+        },
+        {
+          "filename": "backend/index.js",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 27,
+          "changes": 27
+        },
+        {
+          "filename": "backend/package-lock.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 2201,
+          "changes": 2201
+        },
+        {
+          "filename": "backend/package.json",
+          "status": "removed",
+          "additions": 0,
+          "deletions": 27,
+          "changes": 27
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "9db7838a942b05913cd7f811cbbe4d7915e778f3",
+        "message": "Add files via upload",
+        "date": "2025-03-28T11:39:41+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/9db7838a942b05913cd7f811cbbe4d7915e778f3",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 11379,
+        "total_deletions": 0,
+        "total_changes": 11379,
+        "files_changed": 53
+      },
+      "file_changes": [
+        {
+          "filename": "backend/Controllers/AuthController.js",
+          "status": "added",
+          "additions": 72,
+          "deletions": 0,
+          "changes": 72
+        },
+        {
+          "filename": "backend/Controllers/ExpenseController.js",
+          "status": "added",
+          "additions": 75,
+          "deletions": 0,
+          "changes": 75
+        },
+        {
+          "filename": "backend/Middlewares/Auth.js",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "backend/Middlewares/AuthValidation.js",
+          "status": "added",
+          "additions": 31,
+          "deletions": 0,
+          "changes": 31
+        },
+        {
+          "filename": "backend/Models/User.js",
+          "status": "added",
+          "additions": 37,
+          "deletions": 0,
+          "changes": 37
+        },
+        {
+          "filename": "backend/Models/db.js",
+          "status": "added",
+          "additions": 10,
+          "deletions": 0,
+          "changes": 10
+        },
+        {
+          "filename": "backend/Routes/AuthRouter.js",
+          "status": "added",
+          "additions": 9,
+          "deletions": 0,
+          "changes": 9
+        },
+        {
+          "filename": "backend/Routes/ExpenseRouter.js",
+          "status": "added",
+          "additions": 10,
+          "deletions": 0,
+          "changes": 10
+        },
+        {
+          "filename": "backend/Routes/ProductRouter.js",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "backend/index.js",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        },
+        {
+          "filename": "backend/package-lock.json",
+          "status": "added",
+          "additions": 2201,
+          "deletions": 0,
+          "changes": 2201
+        },
+        {
+          "filename": "backend/package.json",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        },
+        {
+          "filename": "frontend/README.md",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "frontend/components.json",
+          "status": "added",
+          "additions": 21,
+          "deletions": 0,
+          "changes": 21
+        },
+        {
+          "filename": "frontend/eslint.config.js",
+          "status": "added",
+          "additions": 38,
+          "deletions": 0,
+          "changes": 38
+        },
+        {
+          "filename": "frontend/index.html",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "frontend/jsconfig.app.json",
+          "status": "added",
+          "additions": 12,
+          "deletions": 0,
+          "changes": 12
+        },
+        {
+          "filename": "frontend/jsconfig.json",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "frontend/package-lock.json",
+          "status": "added",
+          "additions": 7255,
+          "deletions": 0,
+          "changes": 7255
+        },
+        {
+          "filename": "frontend/package.json",
+          "status": "added",
+          "additions": 54,
+          "deletions": 0,
+          "changes": 54
+        },
+        {
+          "filename": "frontend/postcss.config.js",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        },
+        {
+          "filename": "frontend/public/vite.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "frontend/src/App.css",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "frontend/src/App.jsx",
+          "status": "added",
+          "additions": 52,
+          "deletions": 0,
+          "changes": 52
+        },
+        {
+          "filename": "frontend/src/RefrshHandler.jsx",
+          "status": "added",
+          "additions": 29,
+          "deletions": 0,
+          "changes": 29
+        },
+        {
+          "filename": "frontend/src/assets/react.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "frontend/src/components/Sidebar.jsx",
+          "status": "added",
+          "additions": 94,
+          "deletions": 0,
+          "changes": 94
+        },
+        {
+          "filename": "frontend/src/components/ui/alert.jsx",
+          "status": "added",
+          "additions": 47,
+          "deletions": 0,
+          "changes": 47
+        },
+        {
+          "filename": "frontend/src/components/ui/button.jsx",
+          "status": "added",
+          "additions": 48,
+          "deletions": 0,
+          "changes": 48
+        },
+        {
+          "filename": "frontend/src/components/ui/card.jsx",
+          "status": "added",
+          "additions": 50,
+          "deletions": 0,
+          "changes": 50
+        },
+        {
+          "filename": "frontend/src/components/ui/input.jsx",
+          "status": "added",
+          "additions": 19,
+          "deletions": 0,
+          "changes": 19
+        },
+        {
+          "filename": "frontend/src/components/ui/label.jsx",
+          "status": "added",
+          "additions": 16,
+          "deletions": 0,
+          "changes": 16
+        },
+        {
+          "filename": "frontend/src/components/ui/scroll-area.jsx",
+          "status": "added",
+          "additions": 38,
+          "deletions": 0,
+          "changes": 38
+        },
+        {
+          "filename": "frontend/src/components/ui/tabs.jsx",
+          "status": "added",
+          "additions": 41,
+          "deletions": 0,
+          "changes": 41
+        },
+        {
+          "filename": "frontend/src/index.css",
+          "status": "added",
+          "additions": 76,
+          "deletions": 0,
+          "changes": 76
+        },
+        {
+          "filename": "frontend/src/lib/utils.js",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        },
+        {
+          "filename": "frontend/src/main.jsx",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "frontend/src/pages/Community.jsx",
+          "status": "added",
+          "additions": 50,
+          "deletions": 0,
+          "changes": 50
+        },
+        {
+          "filename": "frontend/src/pages/Courses.jsx",
+          "status": "added",
+          "additions": 35,
+          "deletions": 0,
+          "changes": 35
+        },
+        {
+          "filename": "frontend/src/pages/Hackathon.jsx",
+          "status": "added",
+          "additions": 50,
+          "deletions": 0,
+          "changes": 50
+        },
+        {
+          "filename": "frontend/src/pages/Home.jsx",
+          "status": "added",
+          "additions": 234,
+          "deletions": 0,
+          "changes": 234
+        },
+        {
+          "filename": "frontend/src/pages/Interview.jsx",
+          "status": "added",
+          "additions": 51,
+          "deletions": 0,
+          "changes": 51
+        },
+        {
+          "filename": "frontend/src/pages/LandingPage.jsx",
+          "status": "added",
+          "additions": 86,
+          "deletions": 0,
+          "changes": 86
+        },
+        {
+          "filename": "frontend/src/pages/Login.jsx",
+          "status": "added",
+          "additions": 93,
+          "deletions": 0,
+          "changes": 93
+        },
+        {
+          "filename": "frontend/src/pages/Mentorship.jsx",
+          "status": "added",
+          "additions": 35,
+          "deletions": 0,
+          "changes": 35
+        },
+        {
+          "filename": "frontend/src/pages/Projects.jsx",
+          "status": "added",
+          "additions": 50,
+          "deletions": 0,
+          "changes": 50
+        },
+        {
+          "filename": "frontend/src/pages/Signup.jsx",
+          "status": "added",
+          "additions": 101,
+          "deletions": 0,
+          "changes": 101
+        },
+        {
+          "filename": "frontend/src/reportWebHandler.jsx",
+          "status": "added",
+          "additions": 14,
+          "deletions": 0,
+          "changes": 14
+        },
+        {
+          "filename": "frontend/src/setupTests.jsx",
+          "status": "added",
+          "additions": 5,
+          "deletions": 0,
+          "changes": 5
+        },
+        {
+          "filename": "frontend/src/utils.jsx",
+          "status": "added",
+          "additions": 16,
+          "deletions": 0,
+          "changes": 16
+        },
+        {
+          "filename": "frontend/tailwind.config.js",
+          "status": "added",
+          "additions": 58,
+          "deletions": 0,
+          "changes": 58
+        },
+        {
+          "filename": "frontend/vite.config.js",
+          "status": "added",
+          "additions": 12,
+          "deletions": 0,
+          "changes": 12
+        },
+        {
+          "filename": "package-lock.json",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_Shield-without-Sword_AI-ML",
+        "owner": "Shield-without-sword",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+      },
+      "commit": {
+        "sha": "11b6ed20e90971612b74acf1a602f17b29b3156d",
+        "message": "Initial commit",
+        "date": "2025-03-28T10:18:44+00:00",
+        "url": "https://github.com/Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML/commit/11b6ed20e90971612b74acf1a602f17b29b3156d",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Shubham Bendre",
+        "username": "Shubham-Bendre",
+        "email": "shubhambendre04@gmail.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 22,
+        "total_deletions": 0,
+        "total_changes": 22,
+        "files_changed": 2
+      },
+      "file_changes": [
+        {
+          "filename": "LICENSE",
+          "status": "added",
+          "additions": 21,
+          "deletions": 0,
+          "changes": 21
+        },
+        {
+          "filename": "README.md",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        }
+      ]
+    }
+  ],
+  "total_commits": 31,
+  "metadata": {
+    "collection_date": "2026-01-31T21:27:06.167303",
+    "total_repositories": 1,
+    "total_commits_collected": 31,
+    "repositories_processed": [
+      "Shield-without-sword/COHERENCE-25_Shield-without-Sword_AI-ML"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  }
+}

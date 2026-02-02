@@ -1,0 +1,383 @@
+{
+  "commits": [
+    {
+      "repository": {
+        "name": "COHERENCE-25_A-PS-V_Blockchain",
+        "owner": "vaishnavi-gaikwad1709",
+        "url": "https://github.com/vaishnavi-gaikwad1709/COHERENCE-25_A-PS-V_Blockchain"
+      },
+      "commit": {
+        "sha": "12cb5bb649fb6ac657c60913f851440ae6ee7082",
+        "message": "Add files via upload",
+        "date": "2025-03-28T11:32:21+00:00",
+        "url": "https://github.com/vaishnavi-gaikwad1709/COHERENCE-25_A-PS-V_Blockchain/commit/12cb5bb649fb6ac657c60913f851440ae6ee7082",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Vaishnavi Gaikwad",
+        "username": "vaishnavi-gaikwad1709",
+        "email": "137676558+Vaishugaikwad1709@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 6526,
+        "total_deletions": 0,
+        "total_changes": 6526,
+        "files_changed": 11
+      },
+      "file_changes": [
+        {
+          "filename": ".env",
+          "status": "added",
+          "additions": 3,
+          "deletions": 0,
+          "changes": 3
+        },
+        {
+          "filename": ".gitignore",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        },
+        {
+          "filename": "LICENSE",
+          "status": "added",
+          "additions": 21,
+          "deletions": 0,
+          "changes": 21
+        },
+        {
+          "filename": "decID-IXH24.pptx",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "eslint.config.js",
+          "status": "added",
+          "additions": 38,
+          "deletions": 0,
+          "changes": 38
+        },
+        {
+          "filename": "front1.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "front2.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "index.html",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "package-lock.json",
+          "status": "added",
+          "additions": 6378,
+          "deletions": 0,
+          "changes": 6378
+        },
+        {
+          "filename": "package.json",
+          "status": "added",
+          "additions": 39,
+          "deletions": 0,
+          "changes": 39
+        },
+        {
+          "filename": "vite.config.js",
+          "status": "added",
+          "additions": 7,
+          "deletions": 0,
+          "changes": 7
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_A-PS-V_Blockchain",
+        "owner": "vaishnavi-gaikwad1709",
+        "url": "https://github.com/vaishnavi-gaikwad1709/COHERENCE-25_A-PS-V_Blockchain"
+      },
+      "commit": {
+        "sha": "475752c07750925524c74fc9440f05f63cb07847",
+        "message": "Add files via upload",
+        "date": "2025-03-28T11:16:39+00:00",
+        "url": "https://github.com/vaishnavi-gaikwad1709/COHERENCE-25_A-PS-V_Blockchain/commit/475752c07750925524c74fc9440f05f63cb07847",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Vaishnavi Gaikwad",
+        "username": "vaishnavi-gaikwad1709",
+        "email": "137676558+Vaishugaikwad1709@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 873,
+        "total_deletions": 0,
+        "total_changes": 873,
+        "files_changed": 6
+      },
+      "file_changes": [
+        {
+          "filename": "src/App.css",
+          "status": "added",
+          "additions": 211,
+          "deletions": 0,
+          "changes": 211
+        },
+        {
+          "filename": "src/App.jsx",
+          "status": "added",
+          "additions": 138,
+          "deletions": 0,
+          "changes": 138
+        },
+        {
+          "filename": "src/Did.jsx",
+          "status": "added",
+          "additions": 508,
+          "deletions": 0,
+          "changes": 508
+        },
+        {
+          "filename": "src/Pinata.jsx",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        },
+        {
+          "filename": "src/index.css",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "src/main.jsx",
+          "status": "added",
+          "additions": 10,
+          "deletions": 0,
+          "changes": 10
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_A-PS-V_Blockchain",
+        "owner": "vaishnavi-gaikwad1709",
+        "url": "https://github.com/vaishnavi-gaikwad1709/COHERENCE-25_A-PS-V_Blockchain"
+      },
+      "commit": {
+        "sha": "0f5bcf555de161f40559ea69fd5795bcd5d822c6",
+        "message": "Update and rename verifiableCredential.json to src/assets/verifiableCredential.json",
+        "date": "2025-03-28T11:15:33+00:00",
+        "url": "https://github.com/vaishnavi-gaikwad1709/COHERENCE-25_A-PS-V_Blockchain/commit/0f5bcf555de161f40559ea69fd5795bcd5d822c6",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Vaishnavi Gaikwad",
+        "username": "vaishnavi-gaikwad1709",
+        "email": "137676558+Vaishugaikwad1709@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1,
+        "total_deletions": 1,
+        "total_changes": 2,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "src/assets/verifiableCredential.json",
+          "status": "renamed",
+          "additions": 1,
+          "deletions": 1,
+          "changes": 2
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_A-PS-V_Blockchain",
+        "owner": "vaishnavi-gaikwad1709",
+        "url": "https://github.com/vaishnavi-gaikwad1709/COHERENCE-25_A-PS-V_Blockchain"
+      },
+      "commit": {
+        "sha": "cc271546eda045de265a91d188b420e498afb3f3",
+        "message": "Rename logo.png to src/assets/logo.png",
+        "date": "2025-03-28T11:15:14+00:00",
+        "url": "https://github.com/vaishnavi-gaikwad1709/COHERENCE-25_A-PS-V_Blockchain/commit/cc271546eda045de265a91d188b420e498afb3f3",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Vaishnavi Gaikwad",
+        "username": "vaishnavi-gaikwad1709",
+        "email": "137676558+Vaishugaikwad1709@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 0,
+        "total_changes": 0,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "src/assets/logo.png",
+          "status": "renamed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_A-PS-V_Blockchain",
+        "owner": "vaishnavi-gaikwad1709",
+        "url": "https://github.com/vaishnavi-gaikwad1709/COHERENCE-25_A-PS-V_Blockchain"
+      },
+      "commit": {
+        "sha": "a68283f51103228e293b36870abfb1b76d1e0736",
+        "message": "Update and rename src\\assets\\assetsdidDocument.json to src/assets/assetsdidDocument.json",
+        "date": "2025-03-28T11:14:55+00:00",
+        "url": "https://github.com/vaishnavi-gaikwad1709/COHERENCE-25_A-PS-V_Blockchain/commit/a68283f51103228e293b36870abfb1b76d1e0736",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Vaishnavi Gaikwad",
+        "username": "vaishnavi-gaikwad1709",
+        "email": "137676558+Vaishugaikwad1709@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 0,
+        "total_changes": 0,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "src/assets/assetsdidDocument.json",
+          "status": "renamed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_A-PS-V_Blockchain",
+        "owner": "vaishnavi-gaikwad1709",
+        "url": "https://github.com/vaishnavi-gaikwad1709/COHERENCE-25_A-PS-V_Blockchain"
+      },
+      "commit": {
+        "sha": "ab9afc1ae1fa89fee0554ef71f9a493cc4443107",
+        "message": "Update and rename didDocument.json to src\\assets\\assetsdidDocument.json",
+        "date": "2025-03-28T11:13:15+00:00",
+        "url": "https://github.com/vaishnavi-gaikwad1709/COHERENCE-25_A-PS-V_Blockchain/commit/ab9afc1ae1fa89fee0554ef71f9a493cc4443107",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Vaishnavi Gaikwad",
+        "username": "vaishnavi-gaikwad1709",
+        "email": "137676558+Vaishugaikwad1709@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 0,
+        "total_changes": 0,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "src\\assets\\assetsdidDocument.json",
+          "status": "renamed",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_A-PS-V_Blockchain",
+        "owner": "vaishnavi-gaikwad1709",
+        "url": "https://github.com/vaishnavi-gaikwad1709/COHERENCE-25_A-PS-V_Blockchain"
+      },
+      "commit": {
+        "sha": "32fc2e477ef5ab8bde9515c1d83dc2e2fc4df386",
+        "message": "Add files via upload",
+        "date": "2025-03-28T11:10:48+00:00",
+        "url": "https://github.com/vaishnavi-gaikwad1709/COHERENCE-25_A-PS-V_Blockchain/commit/32fc2e477ef5ab8bde9515c1d83dc2e2fc4df386",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Vaishnavi Gaikwad",
+        "username": "vaishnavi-gaikwad1709",
+        "email": "137676558+Vaishugaikwad1709@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 36,
+        "total_deletions": 0,
+        "total_changes": 36,
+        "files_changed": 3
+      },
+      "file_changes": [
+        {
+          "filename": "didDocument.json",
+          "status": "added",
+          "additions": 10,
+          "deletions": 0,
+          "changes": 10
+        },
+        {
+          "filename": "logo.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "verifiableCredential.json",
+          "status": "added",
+          "additions": 26,
+          "deletions": 0,
+          "changes": 26
+        }
+      ]
+    }
+  ],
+  "total_commits": 7,
+  "metadata": {
+    "collection_date": "2026-01-31T21:26:09.232736",
+    "total_repositories": 1,
+    "total_commits_collected": 7,
+    "repositories_processed": [
+      "vaishnavi-gaikwad1709/COHERENCE-25_A-PS-V_Blockchain"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  }
+}

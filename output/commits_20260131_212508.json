@@ -1,0 +1,1312 @@
+{
+  "commits": [
+    {
+      "repository": {
+        "name": "COHERENCE-25_CODEDOT_AI-ML",
+        "owner": "Swayam29082004",
+        "url": "https://github.com/Swayam29082004/COHERENCE-25_CODEDOT_AI-ML"
+      },
+      "commit": {
+        "sha": "baba73b1eb002aafb609ca008a2ff7e15b828e86",
+        "message": "Add files via upload\n\nfinal submission...from team Cododot...\n\nSigned-off-by: Swayam S Chaudhary <141504817+Swayam29082004@users.noreply.github.com>",
+        "date": "2025-03-29T07:12:21+00:00",
+        "url": "https://github.com/Swayam29082004/COHERENCE-25_CODEDOT_AI-ML/commit/baba73b1eb002aafb609ca008a2ff7e15b828e86",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Swayam S Chaudhary",
+        "username": "Swayam29082004",
+        "email": "141504817+Swayam29082004@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 2718,
+        "total_deletions": 0,
+        "total_changes": 2718,
+        "files_changed": 68
+      },
+      "file_changes": [
+        {
+          "filename": "backend/backend/__init__.py",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/backend/__pycache__/__init__.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/backend/__pycache__/__init__.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/backend/__pycache__/__init__.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/backend/__pycache__/settings.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/backend/__pycache__/settings.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/backend/__pycache__/settings.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/backend/__pycache__/urls.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/backend/__pycache__/urls.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/backend/__pycache__/urls.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/backend/__pycache__/wsgi.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/backend/__pycache__/wsgi.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/backend/__pycache__/wsgi.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/backend/asgi.py",
+          "status": "added",
+          "additions": 16,
+          "deletions": 0,
+          "changes": 16
+        },
+        {
+          "filename": "backend/backend/db.sqlite3",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/backend/settings.py",
+          "status": "added",
+          "additions": 190,
+          "deletions": 0,
+          "changes": 190
+        },
+        {
+          "filename": "backend/backend/urls.py",
+          "status": "added",
+          "additions": 24,
+          "deletions": 0,
+          "changes": 24
+        },
+        {
+          "filename": "backend/backend/wsgi.py",
+          "status": "added",
+          "additions": 16,
+          "deletions": 0,
+          "changes": 16
+        },
+        {
+          "filename": "backend/manage.py",
+          "status": "added",
+          "additions": 22,
+          "deletions": 0,
+          "changes": 22
+        },
+        {
+          "filename": "backend/media/resume/resume.pdf",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__init__.py",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/__init__.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/__init__.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/__init__.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/admin.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/admin.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/admin.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/apps.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/apps.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/apps.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/bias_detection.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/job_sim.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/ml_ranking.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/models.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/models.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/models.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/nlp_parse.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/nlp_resumes.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/nlp_resumes.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/serializers.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/serializers.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/serializers.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/urls.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/urls.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/urls.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/views.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/views.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/__pycache__/views.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/admin.py",
+          "status": "added",
+          "additions": 3,
+          "deletions": 0,
+          "changes": 3
+        },
+        {
+          "filename": "backend/resumes/apps.py",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        },
+        {
+          "filename": "backend/resumes/bias.py",
+          "status": "added",
+          "additions": 54,
+          "deletions": 0,
+          "changes": 54
+        },
+        {
+          "filename": "backend/resumes/gemini_hr.py",
+          "status": "added",
+          "additions": 78,
+          "deletions": 0,
+          "changes": 78
+        },
+        {
+          "filename": "backend/resumes/intelligence/ml.ipynb",
+          "status": "added",
+          "additions": 570,
+          "deletions": 0,
+          "changes": 570
+        },
+        {
+          "filename": "backend/resumes/intelligence/nlp.ipynb",
+          "status": "added",
+          "additions": 404,
+          "deletions": 0,
+          "changes": 404
+        },
+        {
+          "filename": "backend/resumes/intelligence/suggest_nlp.ipynb",
+          "status": "added",
+          "additions": 259,
+          "deletions": 0,
+          "changes": 259
+        },
+        {
+          "filename": "backend/resumes/job_sim.py",
+          "status": "added",
+          "additions": 244,
+          "deletions": 0,
+          "changes": 244
+        },
+        {
+          "filename": "backend/resumes/migrations/0001_initial.py",
+          "status": "added",
+          "additions": 30,
+          "deletions": 0,
+          "changes": 30
+        },
+        {
+          "filename": "backend/resumes/migrations/__init__.py",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/migrations/__pycache__/0001_initial.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/migrations/__pycache__/__init__.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/migrations/__pycache__/__init__.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/migrations/__pycache__/__init__.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/resumes/models.py",
+          "status": "added",
+          "additions": 27,
+          "deletions": 0,
+          "changes": 27
+        },
+        {
+          "filename": "backend/resumes/nlp_parse.py",
+          "status": "added",
+          "additions": 71,
+          "deletions": 0,
+          "changes": 71
+        },
+        {
+          "filename": "backend/resumes/serializers.py",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "backend/resumes/tests.py",
+          "status": "added",
+          "additions": 3,
+          "deletions": 0,
+          "changes": 3
+        },
+        {
+          "filename": "backend/resumes/urls.py",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "backend/resumes/views.py",
+          "status": "added",
+          "additions": 680,
+          "deletions": 0,
+          "changes": 680
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CODEDOT_AI-ML",
+        "owner": "Swayam29082004",
+        "url": "https://github.com/Swayam29082004/COHERENCE-25_CODEDOT_AI-ML"
+      },
+      "commit": {
+        "sha": "bd70fae79e99adb3fa436f19654d5e9bb14cbc17",
+        "message": "updated the backend file\n\nSigned-off-by: Swayam S Chaudhary <141504817+Swayam29082004@users.noreply.github.com>",
+        "date": "2025-03-28T16:39:03+00:00",
+        "url": "https://github.com/Swayam29082004/COHERENCE-25_CODEDOT_AI-ML/commit/bd70fae79e99adb3fa436f19654d5e9bb14cbc17",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Swayam S Chaudhary",
+        "username": "Swayam29082004",
+        "email": "141504817+Swayam29082004@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1834,
+        "total_deletions": 10,
+        "total_changes": 1844,
+        "files_changed": 46
+      },
+      "file_changes": [
+        {
+          "filename": "backend/__pycache__/__init__.cpython-310.pyc",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/__init__.cpython-312.pyc",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/__init__.cpython-313.pyc",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/admin.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/admin.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/admin.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/apps.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/apps.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/apps.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/bias_detection.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/ml_ranking.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/models.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/models.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/models.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/nlp_parse.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/nlp_resumes.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/nlp_resumes.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/serializers.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/serializers.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/urls.cpython-310.pyc",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/urls.cpython-312.pyc",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/urls.cpython-313.pyc",
+          "status": "modified",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/views.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/views.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/views.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/admin.py",
+          "status": "added",
+          "additions": 3,
+          "deletions": 0,
+          "changes": 3
+        },
+        {
+          "filename": "backend/apps.py",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        },
+        {
+          "filename": "backend/bias.py",
+          "status": "added",
+          "additions": 152,
+          "deletions": 0,
+          "changes": 152
+        },
+        {
+          "filename": "backend/intelligence/ml.ipynb",
+          "status": "added",
+          "additions": 570,
+          "deletions": 0,
+          "changes": 570
+        },
+        {
+          "filename": "backend/intelligence/nlp.ipynb",
+          "status": "added",
+          "additions": 404,
+          "deletions": 0,
+          "changes": 404
+        },
+        {
+          "filename": "backend/intelligence/suggest_nlp.ipynb",
+          "status": "added",
+          "additions": 259,
+          "deletions": 0,
+          "changes": 259
+        },
+        {
+          "filename": "backend/job_sim.py",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/migrations/0001_initial.py",
+          "status": "added",
+          "additions": 30,
+          "deletions": 0,
+          "changes": 30
+        },
+        {
+          "filename": "backend/migrations/__init__.py",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/migrations/__pycache__/0001_initial.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/migrations/__pycache__/__init__.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/migrations/__pycache__/__init__.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/migrations/__pycache__/__init__.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/ml.py",
+          "status": "added",
+          "additions": 89,
+          "deletions": 0,
+          "changes": 89
+        },
+        {
+          "filename": "backend/models.py",
+          "status": "added",
+          "additions": 6,
+          "deletions": 0,
+          "changes": 6
+        },
+        {
+          "filename": "backend/nlp.py",
+          "status": "added",
+          "additions": 92,
+          "deletions": 0,
+          "changes": 92
+        },
+        {
+          "filename": "backend/nlp_parse.py",
+          "status": "added",
+          "additions": 71,
+          "deletions": 0,
+          "changes": 71
+        },
+        {
+          "filename": "backend/resume_data.json",
+          "status": "added",
+          "additions": 39,
+          "deletions": 0,
+          "changes": 39
+        },
+        {
+          "filename": "backend/tests.py",
+          "status": "added",
+          "additions": 3,
+          "deletions": 0,
+          "changes": 3
+        },
+        {
+          "filename": "backend/urls.py",
+          "status": "modified",
+          "additions": 5,
+          "deletions": 10,
+          "changes": 15
+        },
+        {
+          "filename": "backend/views.py",
+          "status": "added",
+          "additions": 105,
+          "deletions": 0,
+          "changes": 105
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CODEDOT_AI-ML",
+        "owner": "Swayam29082004",
+        "url": "https://github.com/Swayam29082004/COHERENCE-25_CODEDOT_AI-ML"
+      },
+      "commit": {
+        "sha": "bf0eaf3fa35ff26ebe33277e65f728bfc2f30548",
+        "message": "Add files via upload\n\nfrontend update \n\nSigned-off-by: Swayam S Chaudhary <141504817+Swayam29082004@users.noreply.github.com>",
+        "date": "2025-03-28T14:43:50+00:00",
+        "url": "https://github.com/Swayam29082004/COHERENCE-25_CODEDOT_AI-ML/commit/bf0eaf3fa35ff26ebe33277e65f728bfc2f30548",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Swayam S Chaudhary",
+        "username": "Swayam29082004",
+        "email": "141504817+Swayam29082004@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 18055,
+        "total_deletions": 0,
+        "total_changes": 18055,
+        "files_changed": 9
+      },
+      "file_changes": [
+        {
+          "filename": "frontend/README.md",
+          "status": "added",
+          "additions": 70,
+          "deletions": 0,
+          "changes": 70
+        },
+        {
+          "filename": "frontend/package-lock.json",
+          "status": "added",
+          "additions": 17873,
+          "deletions": 0,
+          "changes": 17873
+        },
+        {
+          "filename": "frontend/package.json",
+          "status": "added",
+          "additions": 40,
+          "deletions": 0,
+          "changes": 40
+        },
+        {
+          "filename": "frontend/public/favicon.ico",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "frontend/public/index.html",
+          "status": "added",
+          "additions": 44,
+          "deletions": 0,
+          "changes": 44
+        },
+        {
+          "filename": "frontend/public/logo192.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "frontend/public/logo512.png",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "frontend/public/manifest.json",
+          "status": "added",
+          "additions": 25,
+          "deletions": 0,
+          "changes": 25
+        },
+        {
+          "filename": "frontend/public/robots.txt",
+          "status": "added",
+          "additions": 3,
+          "deletions": 0,
+          "changes": 3
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CODEDOT_AI-ML",
+        "owner": "Swayam29082004",
+        "url": "https://github.com/Swayam29082004/COHERENCE-25_CODEDOT_AI-ML"
+      },
+      "commit": {
+        "sha": "0177ba1e63787e5b21a0e82b3faf0661a9dd9417",
+        "message": "Add files via upload\n\nSigned-off-by: Swayam S Chaudhary <141504817+Swayam29082004@users.noreply.github.com>",
+        "date": "2025-03-28T13:44:45+00:00",
+        "url": "https://github.com/Swayam29082004/COHERENCE-25_CODEDOT_AI-ML/commit/0177ba1e63787e5b21a0e82b3faf0661a9dd9417",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Swayam S Chaudhary",
+        "username": "Swayam29082004",
+        "email": "141504817+Swayam29082004@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 0,
+        "total_changes": 0,
+        "files_changed": 0
+      },
+      "file_changes": []
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CODEDOT_AI-ML",
+        "owner": "Swayam29082004",
+        "url": "https://github.com/Swayam29082004/COHERENCE-25_CODEDOT_AI-ML"
+      },
+      "commit": {
+        "sha": "f916e9a0494124be2cd42fe9fdcde7846710272c",
+        "message": "Add files via upload\n\nupdate the backup code\n\nSigned-off-by: Swayam S Chaudhary <141504817+Swayam29082004@users.noreply.github.com>",
+        "date": "2025-03-28T13:43:20+00:00",
+        "url": "https://github.com/Swayam29082004/COHERENCE-25_CODEDOT_AI-ML/commit/f916e9a0494124be2cd42fe9fdcde7846710272c",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Swayam S Chaudhary",
+        "username": "Swayam29082004",
+        "email": "141504817+Swayam29082004@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 0,
+        "total_deletions": 0,
+        "total_changes": 0,
+        "files_changed": 0
+      },
+      "file_changes": []
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CODEDOT_AI-ML",
+        "owner": "Swayam29082004",
+        "url": "https://github.com/Swayam29082004/COHERENCE-25_CODEDOT_AI-ML"
+      },
+      "commit": {
+        "sha": "7bd8fb801cedb659a260e8132dc1f0850260a4d4",
+        "message": "Add files via upload\n\nnew backend update\n\nSigned-off-by: Swayam S Chaudhary <141504817+Swayam29082004@users.noreply.github.com>",
+        "date": "2025-03-28T12:28:34+00:00",
+        "url": "https://github.com/Swayam29082004/COHERENCE-25_CODEDOT_AI-ML/commit/7bd8fb801cedb659a260e8132dc1f0850260a4d4",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Swayam S Chaudhary",
+        "username": "Swayam29082004",
+        "email": "141504817+Swayam29082004@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 33,
+        "total_deletions": 5,
+        "total_changes": 38,
+        "files_changed": 5
+      },
+      "file_changes": [
+        {
+          "filename": "backend/__pycache__/__init__.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/settings.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/urls.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/wsgi.cpython-312.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/settings.py",
+          "status": "modified",
+          "additions": 33,
+          "deletions": 5,
+          "changes": 38
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CODEDOT_AI-ML",
+        "owner": "Swayam29082004",
+        "url": "https://github.com/Swayam29082004/COHERENCE-25_CODEDOT_AI-ML"
+      },
+      "commit": {
+        "sha": "3952c0426ac896570dde1d84ad481044e597daa1",
+        "message": "submit \n\nSigned-off-by: Swayam S Chaudhary <141504817+Swayam29082004@users.noreply.github.com>",
+        "date": "2025-03-28T10:59:44+00:00",
+        "url": "https://github.com/Swayam29082004/COHERENCE-25_CODEDOT_AI-ML/commit/3952c0426ac896570dde1d84ad481044e597daa1",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Swayam S Chaudhary",
+        "username": "Swayam29082004",
+        "email": "141504817+Swayam29082004@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 378,
+        "total_deletions": 0,
+        "total_changes": 378,
+        "files_changed": 24
+      },
+      "file_changes": [
+        {
+          "filename": "backend/__init__.py",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/__init__.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/__init__.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/settings.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/settings.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/urls.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/urls.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/wsgi.cpython-310.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/__pycache__/wsgi.cpython-313.pyc",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/asgi.py",
+          "status": "added",
+          "additions": 16,
+          "deletions": 0,
+          "changes": 16
+        },
+        {
+          "filename": "backend/db.sqlite3",
+          "status": "added",
+          "additions": 0,
+          "deletions": 0,
+          "changes": 0
+        },
+        {
+          "filename": "backend/settings.py",
+          "status": "added",
+          "additions": 160,
+          "deletions": 0,
+          "changes": 160
+        },
+        {
+          "filename": "backend/urls.py",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "backend/wsgi.py",
+          "status": "added",
+          "additions": 16,
+          "deletions": 0,
+          "changes": 16
+        },
+        {
+          "filename": "frontend/App.css",
+          "status": "added",
+          "additions": 38,
+          "deletions": 0,
+          "changes": 38
+        },
+        {
+          "filename": "frontend/App.js",
+          "status": "added",
+          "additions": 12,
+          "deletions": 0,
+          "changes": 12
+        },
+        {
+          "filename": "frontend/App.test.js",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "frontend/api.js",
+          "status": "added",
+          "additions": 21,
+          "deletions": 0,
+          "changes": 21
+        },
+        {
+          "filename": "frontend/components/ResumeUpload.js",
+          "status": "added",
+          "additions": 45,
+          "deletions": 0,
+          "changes": 45
+        },
+        {
+          "filename": "frontend/index.css",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "frontend/index.js",
+          "status": "added",
+          "additions": 17,
+          "deletions": 0,
+          "changes": 17
+        },
+        {
+          "filename": "frontend/logo.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "frontend/reportWebVitals.js",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "frontend/setupTests.js",
+          "status": "added",
+          "additions": 5,
+          "deletions": 0,
+          "changes": 5
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_CODEDOT_AI-ML",
+        "owner": "Swayam29082004",
+        "url": "https://github.com/Swayam29082004/COHERENCE-25_CODEDOT_AI-ML"
+      },
+      "commit": {
+        "sha": "9b89d2de6459267ccd44941d2c4e6c9896a0e500",
+        "message": "Initial commit",
+        "date": "2025-03-28T10:49:49+00:00",
+        "url": "https://github.com/Swayam29082004/COHERENCE-25_CODEDOT_AI-ML/commit/9b89d2de6459267ccd44941d2c4e6c9896a0e500",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Swayam S Chaudhary",
+        "username": "Swayam29082004",
+        "email": "141504817+Swayam29082004@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 1,
+        "total_deletions": 0,
+        "total_changes": 1,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "README.md",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        }
+      ]
+    }
+  ],
+  "total_commits": 8,
+  "metadata": {
+    "collection_date": "2026-01-31T21:25:08.924131",
+    "total_repositories": 1,
+    "total_commits_collected": 8,
+    "repositories_processed": [
+      "Swayam29082004/COHERENCE-25_CODEDOT_AI-ML"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  }
+}

@@ -1,0 +1,11 @@
+2026-01-30 21:52:08 - root - INFO - Logging to file: logs/collector_20260130_215208.log
+2026-01-30 21:52:08 - root - INFO - Logging configured with level: INFO
+2026-01-30 21:52:08 - __main__ - INFO - ================================================================================
+2026-01-30 21:52:08 - __main__ - INFO - GitHub Commit Data Collector Starting
+2026-01-30 21:52:08 - __main__ - INFO - ================================================================================
+2026-01-30 21:52:08 - config_manager - INFO - Loaded environment variables from .env
+2026-01-30 21:52:08 - config_manager - INFO - Loaded configuration from config/repositories.yaml
+2026-01-30 21:52:08 - github_client - INFO - GitHub API client initialized
+2026-01-30 21:52:08 - __main__ - INFO - Testing GitHub API connection...
+2026-01-30 21:52:09 - github_client - INFO - Successfully authenticated as: Rahul-Rathodseven
+2026-01-30 21:52:09 - __main__ - INFO - ✓ Connection test successful!

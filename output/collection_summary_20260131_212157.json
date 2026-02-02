@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "collection_date": "2026-01-31T21:21:57.675037",
+    "total_repositories": 1,
+    "total_commits_collected": 2,
+    "repositories_processed": [
+      "AkshaySingh91/COHERENCE-25_Codeyoddha_Web"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  },
+  "overall_statistics": {
+    "total_commits": 2,
+    "unique_authors": 1,
+    "unique_teams": 1,
+    "total_additions": 313036,
+    "total_deletions": 3,
+    "total_files_changed": 319
+  },
+  "repository_statistics": [
+    {
+      "repository": "AkshaySingh91/COHERENCE-25_Codeyoddha_Web",
+      "total_commits": 2,
+      "total_additions": 313036,
+      "total_deletions": 3,
+      "total_files_changed": 319,
+      "unique_authors": 1,
+      "date_range": {
+        "start": "2025-03-28T11:01:58+00:00",
+        "end": "2025-03-28T14:56:25+00:00"
+      },
+      "teams_involved": [
+        "unassigned"
+      ]
+    }
+  ]
+}

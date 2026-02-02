@@ -1,0 +1,138 @@
+{
+  "commits": [
+    {
+      "repository": {
+        "name": "COHERENCE-25_ByteMe_AIML",
+        "owner": "Akash2432004",
+        "url": "https://github.com/Akash2432004/COHERENCE-25_ByteMe_AIML"
+      },
+      "commit": {
+        "sha": "71a35016588978537c15c79154fd7c179b2edc1c",
+        "message": "Add files via upload",
+        "date": "2025-03-28T13:27:50+00:00",
+        "url": "https://github.com/Akash2432004/COHERENCE-25_ByteMe_AIML/commit/71a35016588978537c15c79154fd7c179b2edc1c",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Akash Nadar",
+        "username": "Akash2432004",
+        "email": "144901164+Akash2432004@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 120,
+        "total_deletions": 0,
+        "total_changes": 120,
+        "files_changed": 8
+      },
+      "file_changes": [
+        {
+          "filename": "App.css",
+          "status": "added",
+          "additions": 38,
+          "deletions": 0,
+          "changes": 38
+        },
+        {
+          "filename": "App.js",
+          "status": "added",
+          "additions": 25,
+          "deletions": 0,
+          "changes": 25
+        },
+        {
+          "filename": "App.test.js",
+          "status": "added",
+          "additions": 8,
+          "deletions": 0,
+          "changes": 8
+        },
+        {
+          "filename": "index.css",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "index.js",
+          "status": "added",
+          "additions": 17,
+          "deletions": 0,
+          "changes": 17
+        },
+        {
+          "filename": "logo.svg",
+          "status": "added",
+          "additions": 1,
+          "deletions": 0,
+          "changes": 1
+        },
+        {
+          "filename": "reportWebVitals.js",
+          "status": "added",
+          "additions": 13,
+          "deletions": 0,
+          "changes": 13
+        },
+        {
+          "filename": "setupTests.js",
+          "status": "added",
+          "additions": 5,
+          "deletions": 0,
+          "changes": 5
+        }
+      ]
+    },
+    {
+      "repository": {
+        "name": "COHERENCE-25_ByteMe_AIML",
+        "owner": "Akash2432004",
+        "url": "https://github.com/Akash2432004/COHERENCE-25_ByteMe_AIML"
+      },
+      "commit": {
+        "sha": "659e5220f5d9e5626c527e096d9a1fed37ec851b",
+        "message": "Initial commit",
+        "date": "2025-03-28T10:20:12+00:00",
+        "url": "https://github.com/Akash2432004/COHERENCE-25_ByteMe_AIML/commit/659e5220f5d9e5626c527e096d9a1fed37ec851b",
+        "branch": "main"
+      },
+      "author": {
+        "name": "Pratik Kamble",
+        "username": "letbrocode",
+        "email": "163871906+letbrocode@users.noreply.github.com",
+        "team": "unassigned"
+      },
+      "statistics": {
+        "total_additions": 21,
+        "total_deletions": 0,
+        "total_changes": 21,
+        "files_changed": 1
+      },
+      "file_changes": [
+        {
+          "filename": "LICENSE",
+          "status": "added",
+          "additions": 21,
+          "deletions": 0,
+          "changes": 21
+        }
+      ]
+    }
+  ],
+  "total_commits": 2,
+  "metadata": {
+    "collection_date": "2026-01-31T21:22:53.945995",
+    "total_repositories": 1,
+    "total_commits_collected": 2,
+    "repositories_processed": [
+      "Akash2432004/COHERENCE-25_ByteMe_AIML"
+    ],
+    "filters_applied": {
+      "date_from": null,
+      "date_to": null,
+      "authors": [],
+      "teams": []
+    }
+  }
+}
